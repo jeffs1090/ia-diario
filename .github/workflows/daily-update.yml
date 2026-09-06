@@ -1,0 +1,39 @@
+name: Atualização diária de notícias de IA
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buscar notícias do dia
+        run: python scripts/fetch_news.py
+      - name: Commitar novo data/news.json
+        run: |
+          git config user.name "ia-diario-bot"
+          git config user.email "bot@ia-diario.local"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "chore: atualização diária de notícias ($(date -u +%Y-%m-%d))"
+          git push
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy no GitHub Pages
+        uses: actions/deploy-pages@v4
