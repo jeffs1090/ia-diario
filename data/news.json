@@ -1,1 +1,182 @@
-{"generated_at_utc":"2026-09-06T14:48:31Z","generated_at_display":"06/09/2026 14:48 UTC","total_items":0,"items":[]}
+{
+  "generated_at_utc": "2026-09-07T16:08:20.651599+00:00",
+  "generated_at_display": "07/09/2026 16:08 UTC",
+  "total_items": 25,
+  "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "published": "Sun, 06 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Using Blender with coding agents on macOS",
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "summary": "TIL: Using Blender with coding agents on macOS\n        I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this:\n\nUse the already insta",
+      "published": "2026-09-05T15:51:09+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research ben",
+      "published": "2026-09-04T17:38:48+00:00"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "summary": "",
+      "published": "Tue, 01 Sep 2026 17:08:51 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "published": "Mon, 07 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "published": "Thu, 03 Sep 2026 13:15:00 GMT"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "summary": "",
+      "published": "Wed, 02 Sep 2026 16:18:31 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "summary": "",
+      "published": "Thu, 27 Aug 2026 16:11:32 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "published": "Wed, 26 Aug 2026 17:01:00 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Introducing GPT-6 Astra for developers",
+      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "summary": "Introducing GPT-6 Astra for developers\nBlink and you'll miss it, but there's a familiar creature at 1m59s:\n\nAcross the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at build",
+      "published": "2026-09-05T23:27:48+00:00"
+    },
+    {
+      "source": "Anthropic News",
+      "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
+      "link": "https://www.anthropic.com/news/rss.xml",
+      "summary": "",
+      "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "published": "Sun, 06 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "published": "Thu, 03 Sep 2026 11:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "published": "Thu, 03 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "summary": "",
+      "published": "Thu, 03 Sep 2026 15:02:08 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "summary": "",
+      "published": "Wed, 02 Sep 2026 16:24:24 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "published": "Thu, 27 Aug 2026 12:59:16 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "published": "Fri, 21 Aug 2026 11:59:48 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "The purpose of DNS is to spread scams\nTerence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".\nOn this Interisle report (via Andrew Campling),",
+      "published": "2026-09-06T14:40:07+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs.[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming]\nIn my experience it's so rare for that to work.\nYou announce the old thing is irrecoverably d",
+      "published": "2026-09-06T09:08:06+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Zach Kehs",
+      "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance.\n&mdash; Zach Kehs, There's No Limit to How Bad Code Can",
+      "published": "2026-09-06T08:42:49+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Ter",
+      "published": "2026-09-04T23:59:05+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
+    }
+  ]
+}
