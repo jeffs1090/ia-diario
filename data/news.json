@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-07T16:08:20.651599+00:00",
-  "generated_at_display": "07/09/2026 16:08 UTC",
-  "total_items": 25,
+  "generated_at_utc": "2026-09-08T14:48:07.874780+00:00",
+  "generated_at_display": "08/09/2026 14:48 UTC",
+  "total_items": 32,
   "items": [
     {
       "source": "OpenAI Blog",
@@ -11,25 +11,46 @@
       "published": "Sun, 06 Sep 2026 08:00:00 GMT"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Using Blender with coding agents on macOS",
-      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "summary": "TIL: Using Blender with coding agents on macOS\n        I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this:\n\nUse the already insta",
-      "published": "2026-09-05T15:51:09+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research ben",
-      "published": "2026-09-04T17:38:48+00:00"
-    },
-    {
       "source": "Google DeepMind",
       "title": "Introducing agentic video understanding with Gemini",
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "summary": "",
       "published": "Tue, 01 Sep 2026 17:08:51 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm 0.35",
+      "link": "https://simonwillison.net/2026/Sep/7/llm/",
+      "summary": "Release: llm 0.35\n        \n\nNew OpenAI model: gpt-6-astra for GPT-6 Astra.\n\n\n    \n    \n        Tags: openai, llm, gpt-6-astra",
+      "published": "2026-09-07T23:54:54+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "Article URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 08 Sep 2026 14:13:26 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Instantly upgrade your subagents so agent will be idle when waiting for subagent",
+      "link": "https://github.com/ringlochid/oh-my-subagents",
+      "summary": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49610589\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 08 Sep 2026 14:10:21 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop",
+      "link": "https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent",
+      "summary": "Article URL: https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent\nComments URL: https://news.ycombinator.com/item?id=49610579\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 08 Sep 2026 14:09:22 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -68,10 +89,31 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Introducing GPT-6 Astra for developers",
-      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "summary": "Introducing GPT-6 Astra for developers\nBlink and you'll miss it, but there's a familiar creature at 1m59s:\n\nAcross the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at build",
-      "published": "2026-09-05T23:27:48+00:00"
+      "title": "Quoting Jakub Pachocki",
+      "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...]\nWe will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real ti",
+      "published": "2026-09-07T22:26:25+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Video compressor",
+      "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "summary": "Tool: Video compressor\n        I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build",
+      "published": "2026-09-07T18:29:07+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Agent pasted a fake captcha into Terminal, it lived on my Mac for 30 days",
+      "link": "https://medium.com/@gvschaitanya/i-pasted-a-captcha-into-terminal-it-lived-on-my-mac-for-30-days-b551b92fa11c",
+      "summary": "Article URL: https://medium.com/@gvschaitanya/i-pasted-a-captcha-into-terminal-it-lived-on-my-mac-for-30-days-b551b92fa11c\nComments URL: https://news.ycombinator.com/item?id=49610806\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 08 Sep 2026 14:26:17 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Qisutu 2.0.1 – Internal agent chat, ticket handovers and scheduled reports",
+      "link": "https://github.com/qisutu/qisutu/releases/tag/v2.0.1",
+      "summary": "Article URL: https://github.com/qisutu/qisutu/releases/tag/v2.0.1\nComments URL: https://news.ycombinator.com/item?id=49610156\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 08 Sep 2026 13:34:51 +0000"
     },
     {
       "source": "Anthropic News",
@@ -82,17 +124,17 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "published": "Tue, 08 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "An Alien Mind",
       "link": "https://openai.com/index/an-alien-mind",
       "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "published": "Sun, 06 Sep 2026 09:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -103,17 +145,17 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://openai.com/index/gpt-6-astra",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "published": "Thu, 03 Sep 2026 11:00:00 GMT"
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Safety overview: GPT-6 Astra",
-      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "published": "Thu, 03 Sep 2026 00:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "published": "Tue, 08 Sep 2026 14:00:15 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -137,11 +179,18 @@
       "published": "Thu, 27 Aug 2026 12:59:16 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "published": "Fri, 21 Aug 2026 11:59:48 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Creepy crawlies",
+      "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "summary": "Creepy crawlies\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux kernel:\n\nTL;DR: we spend more CPU cycles rendering commits for scrapers than we spend",
+      "published": "2026-09-07T23:08:58+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Mercator ↔ Equal Earth",
+      "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "summary": "Tool: Mercator ↔ Equal Earth\n        I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3.\n\n  \n\n    \n    \n        Tags: geo",
+      "published": "2026-09-07T16:24:16+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -158,25 +207,25 @@
       "published": "2026-09-06T09:08:06+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Zach Kehs",
-      "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance.\n&mdash; Zach Kehs, There's No Limit to How Bad Code Can",
-      "published": "2026-09-06T08:42:49+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Ter",
-      "published": "2026-09-04T23:59:05+00:00"
+      "source": "Hacker News - AI",
+      "title": "Write better with Claude Fable 5.1",
+      "link": "https://academy.dair.ai/resources/write-better-with-claude-fable-5-1",
+      "summary": "Article URL: https://academy.dair.ai/resources/write-better-with-claude-fable-5-1\nComments URL: https://news.ycombinator.com/item?id=49610855\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 08 Sep 2026 14:29:49 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Ask HN: Is something wrong with Claude today?",
+      "link": "https://news.ycombinator.com/item?id=49610525",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49610525\nPoints: 3\n# Comments: 3",
+      "published": "Tue, 08 Sep 2026 14:04:46 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Training a GPT from scratch in C on a RISC-V MCU with no FPU, in 37KB of code",
+      "link": "https://rvembedded.com/blog_post/13/",
+      "summary": "Article URL: https://rvembedded.com/blog_post/13/\nComments URL: https://news.ycombinator.com/item?id=49610324\nPoints: 3\n# Comments: 2",
+      "published": "Tue, 08 Sep 2026 13:49:07 +0000"
     }
   ]
 }
