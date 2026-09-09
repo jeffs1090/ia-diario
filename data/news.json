@@ -1,15 +1,8 @@
 {
-  "generated_at_utc": "2026-09-08T14:48:07.874780+00:00",
-  "generated_at_display": "08/09/2026 14:48 UTC",
-  "total_items": 32,
+  "generated_at_utc": "2026-09-09T14:50:31.523060+00:00",
+  "generated_at_display": "09/09/2026 14:50 UTC",
+  "total_items": 31,
   "items": [
-    {
-      "source": "OpenAI Blog",
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "published": "Sun, 06 Sep 2026 08:00:00 GMT"
-    },
     {
       "source": "Google DeepMind",
       "title": "Introducing agentic video understanding with Gemini",
@@ -26,24 +19,38 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
-      "link": "https://github.com/ayghri/i-have-adhd",
-      "summary": "Article URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 08 Sep 2026 14:13:26 +0000"
+      "title": "FrogNano: Training a 4B Coding Agent via Online Task Synthesis",
+      "link": "https://academy.dair.ai/papers/frognano-training-a-4b-coding-agent-via-online-task-synthesis-2609.07925",
+      "summary": "Article URL: https://academy.dair.ai/papers/frognano-training-a-4b-coding-agent-via-online-task-synthesis-2609.07925\nComments URL: https://news.ycombinator.com/item?id=49627340\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 14:35:47 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Instantly upgrade your subagents so agent will be idle when waiting for subagent",
-      "link": "https://github.com/ringlochid/oh-my-subagents",
-      "summary": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49610589\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 08 Sep 2026 14:10:21 +0000"
+      "title": "Show HN: Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps",
+      "link": "https://github.com/emailclaw/emailclaw",
+      "summary": "Article URL: https://github.com/emailclaw/emailclaw\nComments URL: https://news.ycombinator.com/item?id=49627264\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 14:31:09 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop",
-      "link": "https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent",
-      "summary": "Article URL: https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent\nComments URL: https://news.ycombinator.com/item?id=49610579\nPoints: 1\n# Comments: 1",
-      "published": "Tue, 08 Sep 2026 14:09:22 +0000"
+      "title": "Toolproof, nine indexes that measure AI agent tooling from source",
+      "link": "https://toolproof.kynth.studio",
+      "summary": "Article URL: https://toolproof.kynth.studio\nComments URL: https://news.ycombinator.com/item?id=49626995\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 14:15:55 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Castforge – run Claude Code, Codex and Gemini as one dev team",
+      "link": "https://castforge.ai/",
+      "summary": "Article URL: https://castforge.ai/\nComments URL: https://news.ycombinator.com/item?id=49626524\nPoints: 3\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 13:47:56 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "published": "Tue, 08 Sep 2026 09:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -58,13 +65,6 @@
       "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "published": "Mon, 07 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "published": "Thu, 03 Sep 2026 13:15:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -103,17 +103,24 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Agent pasted a fake captcha into Terminal, it lived on my Mac for 30 days",
-      "link": "https://medium.com/@gvschaitanya/i-pasted-a-captcha-into-terminal-it-lived-on-my-mac-for-30-days-b551b92fa11c",
-      "summary": "Article URL: https://medium.com/@gvschaitanya/i-pasted-a-captcha-into-terminal-it-lived-on-my-mac-for-30-days-b551b92fa11c\nComments URL: https://news.ycombinator.com/item?id=49610806\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 08 Sep 2026 14:26:17 +0000"
+      "title": "Show HN: Clor – The ADE where Claude and Codex work together with shared memory",
+      "link": "https://news.ycombinator.com/item?id=49627194",
+      "summary": "Hi HN, I'm Jacob, one of the co-founders of Clor (https://clor.com). Clor is an agentic development environment (ADE) for Claude and Codex with shared memory. Every agent session runs in its own sandbox workspace with its own Git checkout, processes, and dependencies, and all of ",
+      "published": "Wed, 09 Sep 2026 14:26:33 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Qisutu 2.0.1 – Internal agent chat, ticket handovers and scheduled reports",
-      "link": "https://github.com/qisutu/qisutu/releases/tag/v2.0.1",
-      "summary": "Article URL: https://github.com/qisutu/qisutu/releases/tag/v2.0.1\nComments URL: https://news.ycombinator.com/item?id=49610156\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 08 Sep 2026 13:34:51 +0000"
+      "title": "Show HN: Open statistics for every Finnish postal code, with an MCP server",
+      "link": "https://suomiatlas.com/en/mcp",
+      "summary": "Article URL: https://suomiatlas.com/en/mcp\nComments URL: https://news.ycombinator.com/item?id=49627063\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 14:20:18 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Voice AI Benchmarks: a directory of voice-agent evaluations",
+      "link": "https://voicebenchmarks.com/",
+      "summary": "Article URL: https://voicebenchmarks.com/\nComments URL: https://news.ycombinator.com/item?id=49626771\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 14:02:47 +0000"
     },
     {
       "source": "Anthropic News",
@@ -124,6 +131,13 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "published": "Tue, 08 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "The Work Now Within Reach",
       "link": "https://openai.com/index/the-work-now-within-reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
@@ -131,24 +145,24 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "published": "Sun, 06 Sep 2026 09:00:00 GMT"
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "published": "Tue, 08 Sep 2026 11:30:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "published": "Tue, 08 Sep 2026 10:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "published": "Thu, 03 Sep 2026 12:00:00 GMT"
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "link": "https://openai.com/index/1password",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -180,6 +194,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Terence Tao",
+      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]\nWe have now seen that even the rumor of someone working on a problem can trigger a m",
+      "published": "2026-09-09T00:20:17+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Creepy crawlies",
       "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
       "summary": "Creepy crawlies\nKonstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux kernel:\n\nTL;DR: we spend more CPU cycles rendering commits for scrapers than we spend",
@@ -193,39 +214,11 @@
       "published": "2026-09-07T16:24:16+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "The purpose of DNS is to spread scams",
-      "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "summary": "The purpose of DNS is to spread scams\nTerence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".\nOn this Interisle report (via Andrew Campling),",
-      "published": "2026-09-06T14:40:07+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs.[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming]\nIn my experience it's so rare for that to work.\nYou announce the old thing is irrecoverably d",
-      "published": "2026-09-06T09:08:06+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Write better with Claude Fable 5.1",
-      "link": "https://academy.dair.ai/resources/write-better-with-claude-fable-5-1",
-      "summary": "Article URL: https://academy.dair.ai/resources/write-better-with-claude-fable-5-1\nComments URL: https://news.ycombinator.com/item?id=49610855\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 08 Sep 2026 14:29:49 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Ask HN: Is something wrong with Claude today?",
-      "link": "https://news.ycombinator.com/item?id=49610525",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=49610525\nPoints: 3\n# Comments: 3",
-      "published": "Tue, 08 Sep 2026 14:04:46 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Training a GPT from scratch in C on a RISC-V MCU with no FPU, in 37KB of code",
-      "link": "https://rvembedded.com/blog_post/13/",
-      "summary": "Article URL: https://rvembedded.com/blog_post/13/\nComments URL: https://news.ycombinator.com/item?id=49610324\nPoints: 3\n# Comments: 2",
-      "published": "Tue, 08 Sep 2026 13:49:07 +0000"
+      "title": "AI Made Lots Hideous Code but Found Major Bottlenecks for Fast Linux Compilation",
+      "link": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
+      "summary": "Article URL: https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp\nComments URL: https://news.ycombinator.com/item?id=49626708\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 09 Sep 2026 13:59:23 +0000"
     }
   ]
 }
