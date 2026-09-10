@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-09T14:50:31.523060+00:00",
-  "generated_at_display": "09/09/2026 14:50 UTC",
+  "generated_at_utc": "2026-09-10T14:40:49.149523+00:00",
+  "generated_at_display": "10/09/2026 14:40 UTC",
   "total_items": 31,
   "items": [
     {
@@ -19,31 +19,45 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "FrogNano: Training a 4B Coding Agent via Online Task Synthesis",
-      "link": "https://academy.dair.ai/papers/frognano-training-a-4b-coding-agent-via-online-task-synthesis-2609.07925",
-      "summary": "Article URL: https://academy.dair.ai/papers/frognano-training-a-4b-coding-agent-via-online-task-synthesis-2609.07925\nComments URL: https://news.ycombinator.com/item?id=49627340\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 14:35:47 +0000"
+      "title": "Show HN: MaruCheck – Independent QA for AI-generated code",
+      "link": "https://github.com/Kidus-M/MaruCheck",
+      "summary": "Hi HN,I've been building MaruCheck, an independent, open-source QA verification tool aimed to solve the issues that arise when coding agents like codex, claude, cursor make semantic issues that has heavy ramifications.Take the example where the requirements says a free user gets ",
+      "published": "Thu, 10 Sep 2026 14:24:38 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps",
-      "link": "https://github.com/emailclaw/emailclaw",
-      "summary": "Article URL: https://github.com/emailclaw/emailclaw\nComments URL: https://news.ycombinator.com/item?id=49627264\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 14:31:09 +0000"
+      "title": "Show HN: Orchestrator, spawn and manage Claude Code instances remotely",
+      "link": "https://github.com/markusbug/Orchestrator",
+      "summary": "Hey everyone,I built this little tool for myself over the weekend because I was struggling with managing remote Claude Code instances when I am not at my computer.This is a simple app that lets you spawn, prompt, kill and manage Claude Code instances remotely, on many remotes.For",
+      "published": "Thu, 10 Sep 2026 13:46:03 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Toolproof, nine indexes that measure AI agent tooling from source",
-      "link": "https://toolproof.kynth.studio",
-      "summary": "Article URL: https://toolproof.kynth.studio\nComments URL: https://news.ycombinator.com/item?id=49626995\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 14:15:55 +0000"
+      "title": "Your Agent Speaks MCP. Give It a Computer.",
+      "link": "https://fly.io/blog/sprites-mcp/",
+      "summary": "Article URL: https://fly.io/blog/sprites-mcp/\nComments URL: https://news.ycombinator.com/item?id=49643583\nPoints: 2\n# Comments: 0",
+      "published": "Thu, 10 Sep 2026 13:41:33 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Castforge – run Claude Code, Codex and Gemini as one dev team",
-      "link": "https://castforge.ai/",
-      "summary": "Article URL: https://castforge.ai/\nComments URL: https://news.ycombinator.com/item?id=49626524\nPoints: 3\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 13:47:56 +0000"
+      "title": "Never let your agent choose its own tool",
+      "link": "https://www.promptone.ai/blog/agent-should-never-choose-its-own-tools/",
+      "summary": "Article URL: https://www.promptone.ai/blog/agent-should-never-choose-its-own-tools/\nComments URL: https://news.ycombinator.com/item?id=49643182\nPoints: 2\n# Comments: 1",
+      "published": "Thu, 10 Sep 2026 13:12:58 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "published": "Wed, 09 Sep 2026 11:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "published": "Wed, 09 Sep 2026 17:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -51,20 +65,6 @@
       "link": "https://openai.com/index/teen-development-research-grants",
       "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "published": "Tue, 08 Sep 2026 09:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Supporting independent journalism in Ukraine",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "published": "Mon, 07 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -95,32 +95,18 @@
       "published": "2026-09-07T22:26:25+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Video compressor",
-      "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "summary": "Tool: Video compressor\n        I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build",
-      "published": "2026-09-07T18:29:07+00:00"
+      "source": "Hacker News - AI",
+      "title": "How we built contract reviews as a multi agent system",
+      "link": "https://twitter.com/pfelgueres/status/2095218809284309307",
+      "summary": "Article URL: https://twitter.com/pfelgueres/status/2095218809284309307\nComments URL: https://news.ycombinator.com/item?id=49644490\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 10 Sep 2026 14:38:20 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Clor – The ADE where Claude and Codex work together with shared memory",
-      "link": "https://news.ycombinator.com/item?id=49627194",
-      "summary": "Hi HN, I'm Jacob, one of the co-founders of Clor (https://clor.com). Clor is an agentic development environment (ADE) for Claude and Codex with shared memory. Every agent session runs in its own sandbox workspace with its own Git checkout, processes, and dependencies, and all of ",
-      "published": "Wed, 09 Sep 2026 14:26:33 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Open statistics for every Finnish postal code, with an MCP server",
-      "link": "https://suomiatlas.com/en/mcp",
-      "summary": "Article URL: https://suomiatlas.com/en/mcp\nComments URL: https://news.ycombinator.com/item?id=49627063\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 14:20:18 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Voice AI Benchmarks: a directory of voice-agent evaluations",
-      "link": "https://voicebenchmarks.com/",
-      "summary": "Article URL: https://voicebenchmarks.com/\nComments URL: https://news.ycombinator.com/item?id=49626771\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 14:02:47 +0000"
+      "title": "The rise of agent-driven heterogeneity at the edge",
+      "link": "https://www.efficient.computer/resources/the-rise-of-agent-driven-heterogeneity",
+      "summary": "Article URL: https://www.efficient.computer/resources/the-rise-of-agent-driven-heterogeneity\nComments URL: https://news.ycombinator.com/item?id=49643703\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 10 Sep 2026 13:50:18 +0000"
     },
     {
       "source": "Anthropic News",
@@ -128,6 +114,13 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "published": "Wed, 09 Sep 2026 13:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -156,13 +149,6 @@
       "link": "https://openai.com/index/navier-stokes-solution",
       "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "published": "Tue, 08 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "published": "Tue, 08 Sep 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -194,6 +180,20 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Calif Research",
+      "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succe",
+      "published": "2026-09-10T00:56:41+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": ".blend URL Viewer",
+      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "summary": "Tool: .blend URL Viewer\n        I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL).\nAs a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture.\nYesterday I decided to try ou",
+      "published": "2026-09-09T23:58:32+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Terence Tao",
       "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
       "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]\nWe have now seen that even the rumor of someone working on a problem can trigger a m",
@@ -207,18 +207,18 @@
       "published": "2026-09-07T23:08:58+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Mercator ↔ Equal Earth",
-      "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-      "summary": "Tool: Mercator ↔ Equal Earth\n        I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3.\n\n  \n\n    \n    \n        Tags: geo",
-      "published": "2026-09-07T16:24:16+00:00"
+      "source": "Hacker News - AI",
+      "title": "Show HN: Compiling Matlab Code to Native Executables with RunMat",
+      "link": "https://runmat.com/blog/compiling-matlab-code-to-native-executables-with-runmat",
+      "summary": "I'm on the RunMat team. Prior releases of RunMat focused on accelerating large math w/ auto offload to GPUs via transpiling to WGPU shaders, and correct interpretation of the MATLAB language semantics (we're 99%+ on grammar / semantics now).We left a placeholder for a Cranelift b",
+      "published": "Thu, 10 Sep 2026 14:28:50 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "AI Made Lots Hideous Code but Found Major Bottlenecks for Fast Linux Compilation",
-      "link": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-      "summary": "Article URL: https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp\nComments URL: https://news.ycombinator.com/item?id=49626708\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 09 Sep 2026 13:59:23 +0000"
+      "title": "Ask HN: Claude or ChatGPT? Which is better for me as a Tech guy?",
+      "link": "https://news.ycombinator.com/item?id=49643154",
+      "summary": "Several posts on X made me confused about that. Please explain that to me.\n\nComments URL: https://news.ycombinator.com/item?id=49643154\nPoints: 1\n# Comments: 3",
+      "published": "Thu, 10 Sep 2026 13:10:57 +0000"
     }
   ]
 }
