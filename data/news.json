@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-11T14:39:26.786129+00:00",
-  "generated_at_display": "11/09/2026 14:39 UTC",
+  "generated_at_utc": "2026-09-14T16:39:53.371383+00:00",
+  "generated_at_display": "14/09/2026 16:39 UTC",
   "total_items": 33,
   "items": [
     {
@@ -11,11 +11,18 @@
       "published": "Thu, 10 Sep 2026 00:00:00 GMT"
     },
     {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (previously) last week.\nThis time they're noting that it look",
+      "published": "2026-09-12T00:42:25+00:00"
+    },
+    {
       "source": "Hacker News - AI",
-      "title": "Show HN: Usero MCP, give your coding agent your user feedback",
-      "link": "https://usero.io/docs/mcp",
-      "summary": "Usero is a feedback tool: widget, email, Slack and app reviews into one clustered inbox. I recently put an MCP server in front of it at https://usero.io/mcp, which has been really useful in my own workflow.To-date there are 36 tools (signup, clients, feedback, clusters, forms and",
-      "published": "Fri, 11 Sep 2026 14:18:52 +0000"
+      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
+      "link": "https://progantt.com",
+      "summary": "Article URL: https://progantt.com\nComments URL: https://news.ycombinator.com/item?id=49698952\nPoints: 2\n# Comments: 4",
+      "published": "Mon, 14 Sep 2026 15:48:32 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -25,25 +32,25 @@
       "published": "Tue, 01 Sep 2026 17:08:51 +0000"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\nComments URL: https://news.ycombinator.com/item?id=49658958\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 11 Sep 2026 14:21:36 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "commit-rewriter 0.1",
+      "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "summary": "Release: commit-rewriter 0.1\n        I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit fo",
+      "published": "2026-09-14T00:28:10+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
-      "link": "https://github.com/pixel-point/toolcraft",
-      "summary": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents.I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, Aft",
-      "published": "Fri, 11 Sep 2026 14:11:09 +0000"
+      "title": "HuggingFace/tau: A Python port of Pi's minimalist coding agent",
+      "link": "https://github.com/huggingface/tau",
+      "summary": "Article URL: https://github.com/huggingface/tau\nComments URL: https://news.ycombinator.com/item?id=49699751\nPoints: 1\n# Comments: 0",
+      "published": "Mon, 14 Sep 2026 16:37:17 +0000"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "The Coordination Backbone -Architecting Multi-Agent Orchestration",
-      "link": "https://sohit.substack.com/p/the-coordination-backbone-architecting",
-      "summary": "Article URL: https://sohit.substack.com/p/the-coordination-backbone-architecting\nComments URL: https://news.ycombinator.com/item?id=49658727\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 11 Sep 2026 14:10:06 +0000"
+      "source": "OpenAI Blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "published": "Fri, 11 Sep 2026 10:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -58,13 +65,6 @@
       "link": "https://openai.com/index/expanding-ai-access-us-government",
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "published": "Wed, 09 Sep 2026 11:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -88,18 +88,39 @@
       "published": "Wed, 26 Aug 2026 17:01:00 +0000"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
-      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "summary": "On the Navier–Stokes Millennium Prize Problem introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the seven Millennium Prize Problems that have been subject to a $1,000,000",
-      "published": "2026-09-08T23:55:12+00:00"
+      "source": "Hacker News - AI",
+      "title": "Show HN: Cognition-Claude-proxy – Use Devin model catalog with Claude Code",
+      "link": "https://github.com/coderexpert123/cognition-claude-proxy",
+      "summary": "Article URL: https://github.com/coderexpert123/cognition-claude-proxy\nComments URL: https://news.ycombinator.com/item?id=49699675\nPoints: 1\n# Comments: 0",
+      "published": "Mon, 14 Sep 2026 16:33:33 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Agentwire, other people's shipped agent tooling",
-      "link": "https://agentwire.thecompound.tech",
-      "summary": "Article URL: https://agentwire.thecompound.tech\nComments URL: https://news.ycombinator.com/item?id=49658978\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 11 Sep 2026 14:22:37 +0000"
+      "title": "I stress-tested Meta Muse until its agent control plane started timing out",
+      "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
+      "summary": "Article URL: https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/\nComments URL: https://news.ycombinator.com/item?id=49699527\nPoints: 2\n# Comments: 0",
+      "published": "Mon, 14 Sep 2026 16:26:07 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Local catalog of 3k agent skills with a static risk scan",
+      "link": "https://github.com/xm1k3/ai-community-skills",
+      "summary": "Article URL: https://github.com/xm1k3/ai-community-skills\nComments URL: https://news.ycombinator.com/item?id=49698971\nPoints: 1\n# Comments: 0",
+      "published": "Mon, 14 Sep 2026 15:49:57 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Qwen Audio Agent – full duplex via ACP",
+      "link": "https://qwenaudio.github.io/qwen-audio-agent/",
+      "summary": "Article URL: https://qwenaudio.github.io/qwen-audio-agent/\nComments URL: https://news.ycombinator.com/item?id=49698617\nPoints: 1\n# Comments: 0",
+      "published": "Mon, 14 Sep 2026 15:28:23 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Ask HN: Developers – Do you let agents write production code?",
+      "link": "https://news.ycombinator.com/item?id=49698198",
+      "summary": "I know 2 good developers, let's call them Bob and Bill.Bob does not write code anymore, he orchestrates agents. Says it makes him faster. That the level of slop is the same as with humans. He swears by it.Bill only uses agents to write tests and do code review. He says even a Fab",
+      "published": "Mon, 14 Sep 2026 15:07:00 +0000"
     },
     {
       "source": "Anthropic News",
@@ -107,6 +128,20 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "published": "Mon, 14 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "published": "Fri, 11 Sep 2026 16:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -121,20 +156,6 @@
       "link": "https://openai.com/index/introducing-chatgpt-financial-services",
       "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "published": "Wed, 09 Sep 2026 13:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -166,73 +187,52 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Don't sleep on wrapture",
-      "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it!\nGraham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's ",
-      "published": "2026-09-11T13:51:32+00:00"
+      "title": "Quoting Laurie Voss",
+      "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per pie",
+      "published": "2026-09-14T14:34:29+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Datasette 1.0a39 and 0.65.4 security releases",
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-      "summary": "Datasette 1.0a39 and 0.65.4 security releases\nToday we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family.\nThese are security fixes which you should apply if you are running a Datase",
-      "published": "2026-09-11T03:27:16+00:00"
+      "title": "shot-scraper 1.12",
+      "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "summary": "Release: shot-scraper 1.12\n        I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this:\nshot-scraper https://simonwillison.net -o screenshot.webp --quality 80\n\nThe --quality option sets the quality - wi",
+      "published": "2026-09-13T23:58:14+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Any Nix package, live in your browser",
-      "link": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "summary": "Any Nix package, live in your browser\nFarid Zakaria calls this his \"magnum opus of Nix work\", and I can see why.\ntrynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix pack",
-      "published": "2026-09-10T23:44:15+00:00"
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning:\n\nI live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data.\n\nIt worked for 27 minutes and produced exactly what I'd asked for, as both an embedded",
+      "published": "2026-09-12T23:56:42+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Native is now the future of mobile at Shopify",
-      "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "summary": "Native is now the future of mobile at Shopify\nShopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect:\n\nWe decided to switch from native to React Native in 2020 for three reasons:\n\nStop building",
-      "published": "2026-09-10T21:11:15+00:00"
+      "title": "California Brown Pelican",
+      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+      "summary": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe.\nIt has since been entirely taken over by pelicans!\n    \n    \n        Tags: wildlife",
+      "published": "2026-09-12T21:16:09+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Calif Research",
-      "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
-      "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]\nThe victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succe",
-      "published": "2026-09-10T00:56:41+00:00"
+      "title": "Quoting Paul Ford",
+      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize thei",
+      "published": "2026-09-12T18:00:21+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": ".blend URL Viewer",
-      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "summary": "Tool: .blend URL Viewer\n        I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL).\nAs a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make some new ones that celebrate popular culture.\nYesterday I decided to try ou",
-      "published": "2026-09-09T23:58:32+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Terence Tao",
-      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]\nWe have now seen that even the rumor of someone working on a problem can trigger a m",
-      "published": "2026-09-09T00:20:17+00:00"
+      "title": "So you want to use OpenRouter?",
+      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "summary": "So you want to use OpenRouter?\nOne of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider.\nMoham",
+      "published": "2026-09-11T22:49:18+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
-      "link": "https://status.claude.com/incidents/t33dncr5ydvl",
-      "summary": "Article URL: https://status.claude.com/incidents/t33dncr5ydvl\nComments URL: https://news.ycombinator.com/item?id=49659016\nPoints: 2\n# Comments: 1",
-      "published": "Fri, 11 Sep 2026 14:25:18 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "A Tale of Two Commit Messages (Claude vs. Codex)",
-      "link": "https://devcodehack.com/a-tale-of-two-commit-messages/",
-      "summary": "Article URL: https://devcodehack.com/a-tale-of-two-commit-messages/\nComments URL: https://news.ycombinator.com/item?id=49658798\nPoints: 1\n# Comments: 1",
-      "published": "Fri, 11 Sep 2026 14:13:29 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: See how much of your Claude, Codex, or Copilot subscription is left",
-      "link": "https://github.com/allixsenos/asu",
-      "summary": "Article URL: https://github.com/allixsenos/asu\nComments URL: https://news.ycombinator.com/item?id=49658615\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 11 Sep 2026 14:03:20 +0000"
+      "title": "Claude Is a Contrarian",
+      "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "summary": "Article URL: https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada\nComments URL: https://news.ycombinator.com/item?id=49699373\nPoints: 13\n# Comments: 4",
+      "published": "Mon, 14 Sep 2026 16:14:24 +0000"
     }
   ]
 }
