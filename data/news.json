@@ -1,29 +1,8 @@
 {
-  "generated_at_utc": "2026-09-14T16:39:53.371383+00:00",
-  "generated_at_display": "14/09/2026 16:39 UTC",
+  "generated_at_utc": "2026-09-15T15:18:23.313222+00:00",
+  "generated_at_display": "15/09/2026 15:18 UTC",
   "total_items": 33,
   "items": [
-    {
-      "source": "OpenAI Blog",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (previously) last week.\nThis time they're noting that it look",
-      "published": "2026-09-12T00:42:25+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-      "link": "https://progantt.com",
-      "summary": "Article URL: https://progantt.com\nComments URL: https://news.ycombinator.com/item?id=49698952\nPoints: 2\n# Comments: 4",
-      "published": "Mon, 14 Sep 2026 15:48:32 +0000"
-    },
     {
       "source": "Google DeepMind",
       "title": "Introducing agentic video understanding with Gemini",
@@ -40,10 +19,38 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "HuggingFace/tau: A Python port of Pi's minimalist coding agent",
-      "link": "https://github.com/huggingface/tau",
-      "summary": "Article URL: https://github.com/huggingface/tau\nComments URL: https://news.ycombinator.com/item?id=49699751\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 14 Sep 2026 16:37:17 +0000"
+      "title": "Show HN: Hazzel — a tiny, transparent coding agent for your terminal",
+      "link": "https://github.com/mukundzha/hazzel",
+      "summary": "Article URL: https://github.com/mukundzha/hazzel\nComments URL: https://news.ycombinator.com/item?id=49713561\nPoints: 4\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:57:58 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Let agent read files with secrets while redacting values for LLM contex",
+      "link": "https://github.com/daniel-sc/contextveil",
+      "summary": "Article URL: https://github.com/daniel-sc/contextveil\nComments URL: https://news.ycombinator.com/item?id=49713034\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 15 Sep 2026 14:24:36 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Claude Mods, Functional Hooks in Claude Code and Desktop",
+      "link": "https://github.com/anthropics/claude-code/issues/91870",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/91870\nComments URL: https://news.ycombinator.com/item?id=49712921\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:18:11 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "ProductSpec – Open standard for software intent in the AI agent era",
+      "link": "https://github.com/gokulrajaram/ProductSpec",
+      "summary": "Article URL: https://github.com/gokulrajaram/ProductSpec\nComments URL: https://news.ycombinator.com/item?id=49712659\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:01:19 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "published": "Mon, 14 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -88,39 +95,25 @@
       "published": "Wed, 26 Aug 2026 17:01:00 +0000"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Cognition-Claude-proxy – Use Devin model catalog with Claude Code",
-      "link": "https://github.com/coderexpert123/cognition-claude-proxy",
-      "summary": "Article URL: https://github.com/coderexpert123/cognition-claude-proxy\nComments URL: https://news.ycombinator.com/item?id=49699675\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 14 Sep 2026 16:33:33 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "The contagion of fear",
+      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "summary": "The contagion of fear\nBryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\".\nBryan shares a story of his own youthful mistakes causing unjustified panic amon",
+      "published": "2026-09-14T21:18:13+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "I stress-tested Meta Muse until its agent control plane started timing out",
-      "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
-      "summary": "Article URL: https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/\nComments URL: https://news.ycombinator.com/item?id=49699527\nPoints: 2\n# Comments: 0",
-      "published": "Mon, 14 Sep 2026 16:26:07 +0000"
+      "title": "I Turned Google Glass into a Claude Code Terminal",
+      "link": "https://voidnullvalue.github.io/glassterm/",
+      "summary": "Article URL: https://voidnullvalue.github.io/glassterm/\nComments URL: https://news.ycombinator.com/item?id=49712924\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:18:22 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Local catalog of 3k agent skills with a static risk scan",
-      "link": "https://github.com/xm1k3/ai-community-skills",
-      "summary": "Article URL: https://github.com/xm1k3/ai-community-skills\nComments URL: https://news.ycombinator.com/item?id=49698971\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 14 Sep 2026 15:49:57 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Qwen Audio Agent – full duplex via ACP",
-      "link": "https://qwenaudio.github.io/qwen-audio-agent/",
-      "summary": "Article URL: https://qwenaudio.github.io/qwen-audio-agent/\nComments URL: https://news.ycombinator.com/item?id=49698617\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 14 Sep 2026 15:28:23 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Ask HN: Developers – Do you let agents write production code?",
-      "link": "https://news.ycombinator.com/item?id=49698198",
-      "summary": "I know 2 good developers, let's call them Bob and Bill.Bob does not write code anymore, he orchestrates agents. Says it makes him faster. That the level of slop is the same as with humans. He swears by it.Bill only uses agents to write tests and do code review. He says even a Fab",
-      "published": "Mon, 14 Sep 2026 15:07:00 +0000"
+      "title": "Managed Agent Architectures: Why Frontier Labs Are Rebuilding the Agent Loop",
+      "link": "https://twitter.com/JoshARosen/status/2098420569242800306",
+      "summary": "Article URL: https://twitter.com/JoshARosen/status/2098420569242800306\nComments URL: https://news.ycombinator.com/item?id=49712829\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:12:49 +0000"
     },
     {
       "source": "Anthropic News",
@@ -187,6 +180,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "What blog posts influenced your thinking the most?",
+      "link": "https://simonwillison.net/2026/Sep/14/influences/",
+      "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers unde",
+      "published": "2026-09-14T20:21:48+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Laurie Voss",
       "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
       "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making it pleasant to use. That cost is per pie",
@@ -221,18 +221,18 @@
       "published": "2026-09-12T18:00:21+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "So you want to use OpenRouter?",
-      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-      "summary": "So you want to use OpenRouter?\nOne of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model and get routed to the best available backend provider.\nMoham",
-      "published": "2026-09-11T22:49:18+00:00"
+      "source": "Hacker News - AI",
+      "title": "Solving Ancient Ciphers with Claude",
+      "link": "https://dbourdeau.github.io/cyphersolver/index.html",
+      "summary": "Article URL: https://dbourdeau.github.io/cyphersolver/index.html\nComments URL: https://news.ycombinator.com/item?id=49713489\nPoints: 2\n# Comments: 1",
+      "published": "Tue, 15 Sep 2026 14:53:26 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Claude Is a Contrarian",
-      "link": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "summary": "Article URL: https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada\nComments URL: https://news.ycombinator.com/item?id=49699373\nPoints: 13\n# Comments: 4",
-      "published": "Mon, 14 Sep 2026 16:14:24 +0000"
+      "title": "Quantum Elements, USC Demonstrate Surface Code Scaling on IBM Heron Processors",
+      "link": "https://www.hpcwire.com/off-the-wire/quantum-elements-and-usc-demonstrate-surface-code-scaling-on-ibm-heron-processors/",
+      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/quantum-elements-and-usc-demonstrate-surface-code-scaling-on-ibm-heron-processors/\nComments URL: https://news.ycombinator.com/item?id=49713059\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 15 Sep 2026 14:26:06 +0000"
     }
   ]
 }
