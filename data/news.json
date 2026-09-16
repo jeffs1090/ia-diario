@@ -1,14 +1,28 @@
 {
-  "generated_at_utc": "2026-09-15T15:18:23.313222+00:00",
-  "generated_at_display": "15/09/2026 15:18 UTC",
+  "generated_at_utc": "2026-09-16T15:11:54.886921+00:00",
+  "generated_at_display": "16/09/2026 15:11 UTC",
   "total_items": 33,
   "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "published": "Wed, 16 Sep 2026 13:00:00 GMT"
+    },
     {
       "source": "Google DeepMind",
       "title": "Introducing agentic video understanding with Gemini",
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "summary": "",
       "published": "Tue, 01 Sep 2026 17:08:51 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Gemini Live audio",
+      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "summary": "Tool: Gemini Live audio\n        Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family.\nI pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for t",
+      "published": "2026-09-15T22:47:07+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -19,31 +33,17 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Hazzel — a tiny, transparent coding agent for your terminal",
-      "link": "https://github.com/mukundzha/hazzel",
-      "summary": "Article URL: https://github.com/mukundzha/hazzel\nComments URL: https://news.ycombinator.com/item?id=49713561\nPoints: 4\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:57:58 +0000"
+      "title": "Voila: Ship Web Apps Straight from Your LLM Agent",
+      "link": "https://voila-explained.voila.build",
+      "summary": "Article URL: https://voila-explained.voila.build\nComments URL: https://news.ycombinator.com/item?id=49727513\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 16 Sep 2026 14:24:16 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Let agent read files with secrets while redacting values for LLM contex",
-      "link": "https://github.com/daniel-sc/contextveil",
-      "summary": "Article URL: https://github.com/daniel-sc/contextveil\nComments URL: https://news.ycombinator.com/item?id=49713034\nPoints: 1\n# Comments: 1",
-      "published": "Tue, 15 Sep 2026 14:24:36 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Claude Mods, Functional Hooks in Claude Code and Desktop",
-      "link": "https://github.com/anthropics/claude-code/issues/91870",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/91870\nComments URL: https://news.ycombinator.com/item?id=49712921\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:18:11 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "ProductSpec – Open standard for software intent in the AI agent era",
-      "link": "https://github.com/gokulrajaram/ProductSpec",
-      "summary": "Article URL: https://github.com/gokulrajaram/ProductSpec\nComments URL: https://news.ycombinator.com/item?id=49712659\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:01:19 +0000"
+      "title": "AI Agent Vercel Eve Web Interface = Amazing",
+      "link": "https://medium.com/@daniel-payne-keldan-systems/why-i-think-vercel-eve-web-interface-is-so-much-better-than-langsmith-for-development-0e5f430e01cc",
+      "summary": "Article URL: https://medium.com/@daniel-payne-keldan-systems/why-i-think-vercel-eve-web-interface-is-so-much-better-than-langsmith-for-development-0e5f430e01cc\nComments URL: https://news.ycombinator.com/item?id=49727278\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 16 Sep 2026 14:08:12 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -67,11 +67,11 @@
       "published": "Thu, 10 Sep 2026 15:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "published": "Tue, 15 Sep 2026 17:05:57 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -88,13 +88,6 @@
       "published": "Thu, 27 Aug 2026 16:11:32 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "published": "Wed, 26 Aug 2026 17:01:00 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "The contagion of fear",
       "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
@@ -103,17 +96,38 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "I Turned Google Glass into a Claude Code Terminal",
-      "link": "https://voidnullvalue.github.io/glassterm/",
-      "summary": "Article URL: https://voidnullvalue.github.io/glassterm/\nComments URL: https://news.ycombinator.com/item?id=49712924\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:18:22 +0000"
+      "title": "LLM based CI pipeline code generator for DSCI",
+      "link": "https://news.ycombinator.com/item?id=49728085",
+      "summary": "DSCI is a dead simple CI - self hosted Git and CI server included.Use this link - http://dsci.sparrowhub.io:8080/repo/test1.gitTo build pipeline for your requirements, just say something:Build DSCI pipeline for typical Python project with pytest unit tests and code coverage more ",
+      "published": "Wed, 16 Sep 2026 14:59:56 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Managed Agent Architectures: Why Frontier Labs Are Rebuilding the Agent Loop",
-      "link": "https://twitter.com/JoshARosen/status/2098420569242800306",
-      "summary": "Article URL: https://twitter.com/JoshARosen/status/2098420569242800306\nComments URL: https://news.ycombinator.com/item?id=49712829\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:12:49 +0000"
+      "title": "Show HN: ctx – Git blame that returns the original agent transcript",
+      "link": "https://ctx.rs/pro/",
+      "summary": "I built ctx to give agents a way to do a fast local search over previous session transcripts.But I wanted to also give them a way to immediately surface \"which agent wrote this exact line of code\".So you can start with a commit, a file, a line, or a PR, and then deterministically",
+      "published": "Wed, 16 Sep 2026 14:46:13 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Aplexica – resume a Claude Code conversation in Codex, and back",
+      "link": "https://github.com/Aplexica/Aplexica",
+      "summary": "Article URL: https://github.com/Aplexica/Aplexica\nComments URL: https://news.ycombinator.com/item?id=49727534\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 16 Sep 2026 14:25:31 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Zoom Meeting for Agent Sessions",
+      "link": "https://www.sharednet.ai",
+      "summary": "Article URL: https://www.sharednet.ai\nComments URL: https://news.ycombinator.com/item?id=49727409\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 16 Sep 2026 14:16:13 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
+      "link": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
+      "summary": "Article URL: https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/\nComments URL: https://news.ycombinator.com/item?id=49727345\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 16 Sep 2026 14:12:17 +0000"
     },
     {
       "source": "Anthropic News",
@@ -214,25 +228,11 @@
       "published": "2026-09-12T21:16:09+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Paul Ford",
-      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize thei",
-      "published": "2026-09-12T18:00:21+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Solving Ancient Ciphers with Claude",
-      "link": "https://dbourdeau.github.io/cyphersolver/index.html",
-      "summary": "Article URL: https://dbourdeau.github.io/cyphersolver/index.html\nComments URL: https://news.ycombinator.com/item?id=49713489\nPoints: 2\n# Comments: 1",
-      "published": "Tue, 15 Sep 2026 14:53:26 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Quantum Elements, USC Demonstrate Surface Code Scaling on IBM Heron Processors",
-      "link": "https://www.hpcwire.com/off-the-wire/quantum-elements-and-usc-demonstrate-surface-code-scaling-on-ibm-heron-processors/",
-      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/quantum-elements-and-usc-demonstrate-surface-code-scaling-on-ibm-heron-processors/\nComments URL: https://news.ycombinator.com/item?id=49713059\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 15 Sep 2026 14:26:06 +0000"
+      "title": "Be the first human to review your own code",
+      "link": "https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/",
+      "summary": "Article URL: https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/\nComments URL: https://news.ycombinator.com/item?id=49727317\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 16 Sep 2026 14:11:01 +0000"
     }
   ]
 }
