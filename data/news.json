@@ -1,8 +1,15 @@
 {
-  "generated_at_utc": "2026-09-16T15:11:54.886921+00:00",
-  "generated_at_display": "16/09/2026 15:11 UTC",
+  "generated_at_utc": "2026-09-17T15:20:29.171524+00:00",
+  "generated_at_display": "17/09/2026 15:20 UTC",
   "total_items": 33,
   "items": [
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: I forked JetBrains' new agent IDE to host Claude Code",
+      "link": "https://github.com/CommanderTvis/thinkrail",
+      "summary": "ThinkRail is JetBrains' open-source IDE shell for AI coding agents: worktree-per-tab, chat + file tree + terminal, but hardwired to one agent (Pi).My fork adds a plugin API so it can host others too, starting with Claude Code running in the same UI.What's new over upstream:- A pr",
+      "published": "Thu, 17 Sep 2026 15:00:32 +0000"
+    },
     {
       "source": "OpenAI Blog",
       "title": "Reimagining advertising with AI",
@@ -25,25 +32,32 @@
       "published": "2026-09-15T22:47:07+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "commit-rewriter 0.1",
-      "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "summary": "Release: commit-rewriter 0.1\n        I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit fo",
-      "published": "2026-09-14T00:28:10+00:00"
+      "source": "Hacker News - AI",
+      "title": "Andrew Yang: AI agents may have left self-replicating code across the internet",
+      "link": "https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html",
+      "summary": "Article URL: https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html\nComments URL: https://news.ycombinator.com/item?id=49742122\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 17 Sep 2026 15:19:42 +0000"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Voila: Ship Web Apps Straight from Your LLM Agent",
-      "link": "https://voila-explained.voila.build",
-      "summary": "Article URL: https://voila-explained.voila.build\nComments URL: https://news.ycombinator.com/item?id=49727513\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 16 Sep 2026 14:24:16 +0000"
+      "source": "OpenAI Blog",
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "AI Agent Vercel Eve Web Interface = Amazing",
-      "link": "https://medium.com/@daniel-payne-keldan-systems/why-i-think-vercel-eve-web-interface-is-so-much-better-than-langsmith-for-development-0e5f430e01cc",
-      "summary": "Article URL: https://medium.com/@daniel-payne-keldan-systems/why-i-think-vercel-eve-web-interface-is-so-much-better-than-langsmith-for-development-0e5f430e01cc\nComments URL: https://news.ycombinator.com/item?id=49727278\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 16 Sep 2026 14:08:12 +0000"
+      "source": "OpenAI Blog",
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "published": "Wed, 16 Sep 2026 09:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -58,13 +72,6 @@
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "published": "Fri, 11 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "published": "Thu, 10 Sep 2026 15:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -89,6 +96,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Claude Cowork and chat are now one Claude",
+      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "summary": "Claude Cowork and chat are now one Claude\nIn hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:\n\nStarting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at no",
+      "published": "2026-09-16T18:09:49+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "The contagion of fear",
       "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
       "summary": "The contagion of fear\nBryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\".\nBryan shares a story of his own youthful mistakes causing unjustified panic amon",
@@ -96,38 +110,31 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "LLM based CI pipeline code generator for DSCI",
-      "link": "https://news.ycombinator.com/item?id=49728085",
-      "summary": "DSCI is a dead simple CI - self hosted Git and CI server included.Use this link - http://dsci.sparrowhub.io:8080/repo/test1.gitTo build pipeline for your requirements, just say something:Build DSCI pipeline for typical Python project with pytest unit tests and code coverage more ",
-      "published": "Wed, 16 Sep 2026 14:59:56 +0000"
+      "title": "Our agent used 5B tokens to build a business empire in 3 weeks. It made $1.54",
+      "link": "https://dfdxlabs.com/research/2026/hans-kraemer/",
+      "summary": "Article URL: https://dfdxlabs.com/research/2026/hans-kraemer/\nComments URL: https://news.ycombinator.com/item?id=49742067\nPoints: 2\n# Comments: 0",
+      "published": "Thu, 17 Sep 2026 15:16:28 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: ctx – Git blame that returns the original agent transcript",
-      "link": "https://ctx.rs/pro/",
-      "summary": "I built ctx to give agents a way to do a fast local search over previous session transcripts.But I wanted to also give them a way to immediately surface \"which agent wrote this exact line of code\".So you can start with a commit, a file, a line, or a PR, and then deterministically",
-      "published": "Wed, 16 Sep 2026 14:46:13 +0000"
+      "title": "Casework, Code and Lash Extensions: How I've embraced LLMs, and my limits",
+      "link": "https://chrisn.xyz/casework-code-and-lash-extensions-how-ive-embraced-llms-and-my-limits/",
+      "summary": "Article URL: https://chrisn.xyz/casework-code-and-lash-extensions-how-ive-embraced-llms-and-my-limits/\nComments URL: https://news.ycombinator.com/item?id=49741979\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 17 Sep 2026 15:11:04 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Aplexica – resume a Claude Code conversation in Codex, and back",
-      "link": "https://github.com/Aplexica/Aplexica",
-      "summary": "Article URL: https://github.com/Aplexica/Aplexica\nComments URL: https://news.ycombinator.com/item?id=49727534\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 16 Sep 2026 14:25:31 +0000"
+      "title": "Switch to Codex seamlessly when Claude Code is used up",
+      "link": "https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif",
+      "summary": "Article URL: https://raw.githubusercontent.com/zqiren/Orbital/main/docs/screenshots/handoff-codex-continue.gif\nComments URL: https://news.ycombinator.com/item?id=49740917\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 17 Sep 2026 14:03:23 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Zoom Meeting for Agent Sessions",
-      "link": "https://www.sharednet.ai",
-      "summary": "Article URL: https://www.sharednet.ai\nComments URL: https://news.ycombinator.com/item?id=49727409\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 16 Sep 2026 14:16:13 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Switched to Claude Code's open-source rival, stopped worrying about rate limits",
-      "link": "https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/",
-      "summary": "Article URL: https://www.xda-developers.com/switched-to-claude-code-open-source-rival-and-stopped-worrying-about-rate-limits/\nComments URL: https://news.ycombinator.com/item?id=49727345\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 16 Sep 2026 14:12:17 +0000"
+      "title": "Interest in programming languages hit a decade low after Claude Code launch",
+      "link": "https://www.orangecrumbs.com/stories/programming-languages",
+      "summary": "Article URL: https://www.orangecrumbs.com/stories/programming-languages\nComments URL: https://news.ycombinator.com/item?id=49740784\nPoints: 2\n# Comments: 1",
+      "published": "Thu, 17 Sep 2026 13:53:31 +0000"
     },
     {
       "source": "Anthropic News",
@@ -138,31 +145,17 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "published": "Wed, 16 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "published": "Mon, 14 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "published": "Fri, 11 Sep 2026 16:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "published": "Thu, 10 Sep 2026 16:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -194,6 +187,27 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "datasette 1.0a40",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "summary": "Release: datasette 1.0a40\n        Same security fix as 0.65.5, plus some neat new features and bug fixes:\n\nPlugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Garcia.\nI've migrated Datasette to httpx2 for features ",
+      "published": "2026-09-16T23:51:43+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette 0.65.5",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "summary": "Release: datasette 0.65.5\n        Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m.\n    \n    \n        Tags: security, datasette",
+      "published": "2026-09-16T23:51:08+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Mustafa Suleyman",
+      "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evide",
+      "published": "2026-09-16T16:00:54+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "What blog posts influenced your thinking the most?",
       "link": "https://simonwillison.net/2026/Sep/14/influences/",
       "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers unde",
@@ -207,32 +221,18 @@
       "published": "2026-09-14T14:34:29+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "shot-scraper 1.12",
-      "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-      "summary": "Release: shot-scraper 1.12\n        I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this:\nshot-scraper https://simonwillison.net -o screenshot.webp --quality 80\n\nThe --quality option sets the quality - wi",
-      "published": "2026-09-13T23:58:14+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning:\n\nI live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data.\n\nIt worked for 27 minutes and produced exactly what I'd asked for, as both an embedded",
-      "published": "2026-09-12T23:56:42+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "California Brown Pelican",
-      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "summary": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe.\nIt has since been entirely taken over by pelicans!\n    \n    \n        Tags: wildlife",
-      "published": "2026-09-12T21:16:09+00:00"
+      "source": "Hacker News - AI",
+      "title": "Claude Desktop Silently Associates with Common Files",
+      "link": "https://news.ycombinator.com/item?id=49741481",
+      "summary": "v1.44121.1 2026-09-02\n> Added Claude to the “Open with” menu for common work files, including spreadsheets, PDFs, Word and PowerPoint documents, text files, and images, on macOS and on Windows (Microsoft Store and MSIX installs).I don't recall I ever approved anything, somehow th",
+      "published": "Thu, 17 Sep 2026 14:38:26 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Be the first human to review your own code",
-      "link": "https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/",
-      "summary": "Article URL: https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/\nComments URL: https://news.ycombinator.com/item?id=49727317\nPoints: 2\n# Comments: 0",
-      "published": "Wed, 16 Sep 2026 14:11:01 +0000"
+      "title": "Show HN: Session-trail – A timeline of your project, not a graph of your code",
+      "link": "https://github.com/jsk4581/session-trail",
+      "summary": "Article URL: https://github.com/jsk4581/session-trail\nComments URL: https://news.ycombinator.com/item?id=49741164\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 17 Sep 2026 14:18:09 +0000"
     }
   ]
 }
