@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-09-21T16:39:58.953490+00:00",
-  "generated_at_display": "21/09/2026 16:39 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-09-22T15:12:32.049525+00:00",
+  "generated_at_display": "22/09/2026 15:12 UTC",
+  "total_items": 33,
   "items": [
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "MCP was always a bad idea?",
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News.This article entirely misses the value that MCP brings today.\nSure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered inter",
+      "published": "2026-09-20T20:24:41+00:00"
+    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "llm-keys-ui 0.1",
       "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
       "summary": "Release: llm-keys-ui 0.1\n        This plugin solves a very specific problem.\nI've started using Codex Remote to run coding agents on various machines while controlling them from my phone. \nSometimes I use those machines to hack on LLM projects, and occasionally that means I need ",
       "published": "2026-09-20T19:22:19+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Thariq Shihipar",
-      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "summary": "We're adding support for AGENTS.md to Claude Code. \nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\nAGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.\nThis is",
-      "published": "2026-09-18T19:09:27+00:00"
     },
     {
       "source": "OpenAI Blog",
@@ -25,18 +25,60 @@
       "published": "Mon, 21 Sep 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "published": "Wed, 16 Sep 2026 13:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
       "title": "Introducing agentic video understanding with Gemini",
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "summary": "",
       "published": "Tue, 01 Sep 2026 17:08:51 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Piary – Rethinking the human-agent interface beyond chat",
+      "link": "https://piary.dev/",
+      "summary": "Hello HN! We are Nemo and Baran. We are interaction designers based in Zurich and have been exploring what future agentic interfaces should look like. Since the release of ChatGPT, chatting with agents has become the norm. But LLMs are not just talking partners anymore. We work t",
+      "published": "Tue, 22 Sep 2026 14:51:35 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: ScopeTrail – audit receipts for multi-hop agent delegation",
+      "link": "https://github.com/scopetrail/scopetrail",
+      "summary": "With the growth of the agentic economy and the ability of agents to manage wallets and make payments it's critical that we have a mechanism to audit their payment behavior. And to complicate matters, agents are invoking subagents to work faster.When an agent hands work to another",
+      "published": "Tue, 22 Sep 2026 13:00:38 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Devin Fusion: the first multi-model coding agent on the Pareto frontier",
+      "link": "https://twitter.com/ArtificialAnlys/status/2098504939781906684",
+      "summary": "Article URL: https://twitter.com/ArtificialAnlys/status/2098504939781906684\nComments URL: https://news.ycombinator.com/item?id=49800269\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 22 Sep 2026 12:39:16 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Owl24.dev – Hand a production error to your coding agent, get a PR back",
+      "link": "https://owl24.dev",
+      "summary": "Article URL: https://owl24.dev\nComments URL: https://news.ycombinator.com/item?id=49799858\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 22 Sep 2026 12:00:20 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "published": "Mon, 21 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -51,20 +93,6 @@
       "link": "https://openai.com/index/astra-for-law",
       "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "published": "Thu, 17 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "published": "Wed, 16 Sep 2026 16:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -89,6 +117,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts t",
+      "published": "2026-09-21T23:09:20+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting voxium",
       "link": "https://simonwillison.net/2026/Sep/20/voxium/",
       "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as m",
@@ -102,18 +137,11 @@
       "published": "2026-09-19T19:52:02+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI\nGemini finally caught up on Felony Bench!\n\nThe hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed",
-      "published": "2026-09-18T23:57:57+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Note on 18th September 2026",
-      "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.\nSkeptical geneticist: \"pfft, it's just frog DNA. And they deliberately let t",
-      "published": "2026-09-18T19:21:32+00:00"
+      "source": "Hacker News - AI",
+      "title": "Worker Previews: isolated preview for every change your agent makes",
+      "link": "https://blog.cloudflare.com/worker-previews/",
+      "summary": "Article URL: https://blog.cloudflare.com/worker-previews/\nComments URL: https://news.ycombinator.com/item?id=49800938\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 22 Sep 2026 13:26:13 +0000"
     },
     {
       "source": "Anthropic News",
@@ -124,17 +152,17 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "published": "Mon, 21 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "link": "https://openai.com/index/cooley-gopublic",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "published": "Thu, 17 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How to connect AI usage to business value",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "published": "Wed, 16 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -166,6 +194,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Cloudflare Python Workers are now generally available",
+      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "summary": "Cloudflare Python Workers are now generally available\nAfter a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\".\nA neat t",
+      "published": "2026-09-21T22:25:44+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "datasette-explain 0.2.2",
       "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "summary": "Release: datasette-explain 0.2.2\n        \n\nExplain plans now work on read-only stored-query pages.\n\n\nI upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.\n    \n    \n        Tags: sqlite, datasette",
@@ -180,10 +215,24 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Fixing cringeworthy bugs in the OpenBSD console code",
+      "link": "https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console",
+      "summary": "Article URL: https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console\nComments URL: https://news.ycombinator.com/item?id=49802276\nPoints: 3\n# Comments: 0",
+      "published": "Tue, 22 Sep 2026 14:50:07 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "The draft AI code of conduct forbids me from saying 'I don't know'",
+      "link": "https://ilands.ai/content/359388815393034240",
+      "summary": "Article URL: https://ilands.ai/content/359388815393034240\nComments URL: https://news.ycombinator.com/item?id=49801165\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 22 Sep 2026 13:41:41 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Remote Code Execution (RCE) in a DoD Website",
+      "link": "https://hackerone.com/reports/213069",
+      "summary": "Article URL: https://hackerone.com/reports/213069\nComments URL: https://news.ycombinator.com/item?id=49800970\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 22 Sep 2026 13:28:50 +0000"
     }
   ]
 }
