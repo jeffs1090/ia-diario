@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-24T15:32:03.970556+00:00",
-  "generated_at_display": "24/09/2026 15:32 UTC",
+  "generated_at_utc": "2026-09-25T15:36:03.902756+00:00",
+  "generated_at_display": "25/09/2026 15:36 UTC",
   "total_items": 26,
   "items": [
     {
@@ -12,24 +12,17 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Note on 24th September 2026",
+      "link": "https://simonwillison.net/2026/Sep/24/harder/",
+      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n    Tags: coding-agents, ai, llms",
+      "published": "2026-09-24T23:31:08+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "llm 0.36",
       "link": "https://simonwillison.net/2026/Sep/22/llm/",
       "summary": "Release: llm 0.36\n        \n\nNew OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702\nModel plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models recei",
       "published": "2026-09-22T18:48:37+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-anthropic 0.29",
-      "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.29\n        Adds support for Claude Opus 5.5:\nllm -m claude-opus-5.5 \"prompt goes here\"\n\n    \n    \n        Tags: llm, anthropic",
-      "published": "2026-09-22T17:14:55+00:00"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing agentic video understanding with Gemini",
-      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "summary": "",
-      "published": "Tue, 01 Sep 2026 17:08:51 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -68,6 +61,13 @@
     },
     {
       "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "published": "Thu, 24 Sep 2026 16:20:39 +0000"
+    },
+    {
+      "source": "Google DeepMind",
       "title": "Gemini 3.8 text-to-speech says hello",
       "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "summary": "",
@@ -100,13 +100,6 @@
       "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
       "summary": "Tool: Shadow roots, explained with live examples\n        Prompt to Fable 5.1 Medium:\n\nBuild an artifact to explain shadow roots in CSS with interactive examples\n\n    \n    \n        Tags: css",
       "published": "2026-09-23T16:37:18+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-typesafe 0.1a0",
-      "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "summary": "Release: llm-typesafe 0.1a0\n        I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this:\nllm install llm-typesafe\n\nThen set an API key (get one here, the waitlist seems to move pretty fast):\nllm keys set typesafe\n# Paste key\n\nAnd n",
-      "published": "2026-09-22T15:54:16+00:00"
     },
     {
       "source": "Anthropic News",
@@ -173,10 +166,17 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting @therealcornpop",
-      "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-      "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of",
-      "published": "2026-09-22T18:03:21+00:00"
+      "title": "commit-rewriter 0.2",
+      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "summary": "Release: commit-rewriter 0.2\n        \nSupport for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3\n\n    \n    \n        Tags: git",
+      "published": "2026-09-24T20:06:53+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette 1.0a41",
+      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "summary": "Release: datasette 1.0a41\n        Alec Garcia added support for OpenTelemetry to Datasette in this release.\nI've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use.\n    \n    \n        Tags: javascript, datas",
+      "published": "2026-09-24T19:15:23+00:00"
     },
     {
       "source": "Hacker News - AI",
