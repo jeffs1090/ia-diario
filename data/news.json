@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-25T15:36:03.902756+00:00",
-  "generated_at_display": "25/09/2026 15:36 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-09-28T18:17:23.254320+00:00",
+  "generated_at_display": "28/09/2026 18:17 UTC",
+  "total_items": 32,
   "items": [
     {
       "source": "OpenAI Blog",
@@ -19,24 +19,31 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "llm 0.36",
-      "link": "https://simonwillison.net/2026/Sep/22/llm/",
-      "summary": "Release: llm 0.36\n        \n\nNew OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702\nModel plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models recei",
-      "published": "2026-09-22T18:48:37+00:00"
+      "title": "Quoting Muse AI Agent",
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.\nWorse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't availabl",
+      "published": "2026-09-28T04:01:30+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-      "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-      "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\nThink of it as an agentic sho",
-      "published": "2026-09-23T02:53:19+00:00"
+      "source": "Hacker News - AI",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "link": "https://github.com/google-research/rrsi",
+      "summary": "Article URL: https://github.com/google-research/rrsi\nComments URL: https://news.ycombinator.com/item?id=49881797\nPoints: 3\n# Comments: 0",
+      "published": "Mon, 28 Sep 2026 17:54:50 +0000"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-      "summary": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It's going to take a while to get a good read on all of these new models, but here are my impres",
-      "published": "2026-09-22T23:46:41+00:00"
+      "source": "Hacker News - AI",
+      "title": "Watch an AI agent try to prove the Riemann hypothesis on the cheap",
+      "link": "https://www.zeyaddeeb.com/experiments/proofs",
+      "summary": "Article URL: https://www.zeyaddeeb.com/experiments/proofs\nComments URL: https://news.ycombinator.com/item?id=49880874\nPoints: 2\n# Comments: 0",
+      "published": "Mon, 28 Sep 2026 16:48:36 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -89,17 +96,38 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Gemini 3.8 TTS Playground",
-      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "summary": "Tool: Gemini 3.8 TTS Playground\n        Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts.\nThey come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of",
-      "published": "2026-09-23T17:12:27+00:00"
+      "title": "2026 in LLMs (so far)",
+      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and ",
+      "published": "2026-09-27T23:54:15+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Shadow roots, explained with live examples",
-      "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-      "summary": "Tool: Shadow roots, explained with live examples\n        Prompt to Fable 5.1 Medium:\n\nBuild an artifact to explain shadow roots in CSS with interactive examples\n\n    \n    \n        Tags: css",
-      "published": "2026-09-23T16:37:18+00:00"
+      "source": "Hacker News - AI",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5-5",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881889\nPoints: 19\n# Comments: 5",
+      "published": "Mon, 28 Sep 2026 18:00:54 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Open-source agent runtime using your ChatGPT or Claude subscription",
+      "link": "https://github.com/noclickapp/noclick",
+      "summary": "Hey HN!Sharing my work on an open-source agent runtime (like n8n, but for agents). It's OSI open-source under AGPL-3.People have been using it to build agents that handle support queries, automated resolution, WhatsApp chatbots, etc.\n\nComments URL: https://news.ycombinator.com/it",
+      "published": "Mon, 28 Sep 2026 17:23:35 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "It Was the Harness, Not the Model",
+      "link": "https://blog.herlein.com/post/harness-not-model/",
+      "summary": "Article URL: https://blog.herlein.com/post/harness-not-model/\nComments URL: https://news.ycombinator.com/item?id=49881152\nPoints: 2\n# Comments: 1",
+      "published": "Mon, 28 Sep 2026 17:09:52 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/\nComments URL: https://news.ycombinator.com/item?id=49881038\nPoints: 2\n# Comments: 0",
+      "published": "Mon, 28 Sep 2026 17:01:40 +0000"
     },
     {
       "source": "Anthropic News",
@@ -107,6 +135,13 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "published": "Fri, 25 Sep 2026 19:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -121,20 +156,6 @@
       "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Introducing MentalHealthBench",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "published": "Wed, 23 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "published": "Wed, 23 Sep 2026 02:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -166,24 +187,45 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "commit-rewriter 0.2",
-      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-      "summary": "Release: commit-rewriter 0.2\n        \nSupport for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3\n\n    \n    \n        Tags: git",
-      "published": "2026-09-24T20:06:53+00:00"
+      "title": "S3 Is the Future, S3 Is the Past",
+      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade:\n2006-03-14  $0.150/GB-month\n2010-11-01  $0.140/GB-month\n2012-02-01",
+      "published": "2026-09-27T23:09:19+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "datasette 1.0a41",
-      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "summary": "Release: datasette 1.0a41\n        Alec Garcia added support for OpenTelemetry to Datasette in this release.\nI've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use.\n    \n    \n        Tags: javascript, datas",
-      "published": "2026-09-24T19:15:23+00:00"
+      "title": "Bluesky reply bot checker",
+      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "summary": "Tool: Bluesky reply bot checker\n        Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies.\nThey've started manifesting on Bluesky a",
+      "published": "2026-09-27T18:41:44+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Kākāpō Party",
+      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "summary": "Tool: Kākāpō Party\n        I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026.\nFor my closing slide I wanted to celebrate, and",
+      "published": "2026-09-26T23:39:06+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting John Gruber",
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mas",
+      "published": "2026-09-25T17:22:01+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor!\n    \n    \n        Tags: photography, wildl",
+      "published": "2026-09-25T02:07:04+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "GPT 5.6 Sol Still Fails on Basic Code Review",
+      "link": "https://chatgpt.com/c/6aba98af-24c4-83eb-aa85-51bacbb67a34",
+      "summary": "Article URL: https://chatgpt.com/c/6aba98af-24c4-83eb-aa85-51bacbb67a34\nComments URL: https://news.ycombinator.com/item?id=49881380\nPoints: 1\n# Comments: 4",
+      "published": "Mon, 28 Sep 2026 17:25:08 +0000"
     }
   ]
 }
