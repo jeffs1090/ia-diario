@@ -1,22 +1,8 @@
 {
-  "generated_at_utc": "2026-09-28T18:17:23.254320+00:00",
-  "generated_at_display": "28/09/2026 18:17 UTC",
-  "total_items": 32,
+  "generated_at_utc": "2026-09-29T16:40:06.246346+00:00",
+  "generated_at_display": "29/09/2026 16:40 UTC",
+  "total_items": 33,
   "items": [
-    {
-      "source": "OpenAI Blog",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Note on 24th September 2026",
-      "link": "https://simonwillison.net/2026/Sep/24/harder/",
-      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n    Tags: coding-agents, ai, llms",
-      "published": "2026-09-24T23:31:08+00:00"
-    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Muse AI Agent",
@@ -26,17 +12,38 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "link": "https://github.com/google-research/rrsi",
-      "summary": "Article URL: https://github.com/google-research/rrsi\nComments URL: https://news.ycombinator.com/item?id=49881797\nPoints: 3\n# Comments: 0",
-      "published": "Mon, 28 Sep 2026 17:54:50 +0000"
+      "title": "How Claude Code Works, from Tokens to Agents",
+      "link": "https://nem035.com/thoughts/how-claude-code-works/",
+      "summary": "Article URL: https://nem035.com/thoughts/how-claude-code-works/\nComments URL: https://news.ycombinator.com/item?id=49895593\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 29 Sep 2026 16:01:04 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Watch an AI agent try to prove the Riemann hypothesis on the cheap",
-      "link": "https://www.zeyaddeeb.com/experiments/proofs",
-      "summary": "Article URL: https://www.zeyaddeeb.com/experiments/proofs\nComments URL: https://news.ycombinator.com/item?id=49880874\nPoints: 2\n# Comments: 0",
-      "published": "Mon, 28 Sep 2026 16:48:36 +0000"
+      "title": "OpenAI blocked its agent's web access. Then it tunneled out through DNS",
+      "link": "https://thenewstack.io/openai-agents-security-bypasses/",
+      "summary": "Article URL: https://thenewstack.io/openai-agents-security-bypasses/\nComments URL: https://news.ycombinator.com/item?id=49894978\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 29 Sep 2026 15:27:26 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Squidbrake – self-hosted approval gateway for AI agent tool calls",
+      "link": "https://github.com/batrapulkit/squidbrake",
+      "summary": "Article URL: https://github.com/batrapulkit/squidbrake\nComments URL: https://news.ycombinator.com/item?id=49894667\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 29 Sep 2026 15:09:42 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Postgres MCP server with a context file the agent can add to",
+      "link": "https://github.com/contextflo/postgres-mcp",
+      "summary": "Article URL: https://github.com/contextflo/postgres-mcp\nComments URL: https://news.ycombinator.com/item?id=49894500\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 29 Sep 2026 14:59:58 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -58,13 +65,6 @@
       "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "published": "Wed, 23 Sep 2026 13:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "summary": "Claude Sonnet 5.5\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.\nHere are some pelicans riding bicycl",
+      "published": "2026-09-28T22:07:38+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "2026 in LLMs (so far)",
       "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
       "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube; here are my annotated slides and ",
@@ -103,31 +110,24 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Claude Sonnet 5.5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5-5",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881889\nPoints: 19\n# Comments: 5",
-      "published": "Mon, 28 Sep 2026 18:00:54 +0000"
+      "title": "Agents will cheat; an agent OS doesn't let them",
+      "link": "https://pentad.ai/PLRN/028/",
+      "summary": "Article URL: https://pentad.ai/PLRN/028/\nComments URL: https://news.ycombinator.com/item?id=49896113\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 29 Sep 2026 16:35:31 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Open-source agent runtime using your ChatGPT or Claude subscription",
-      "link": "https://github.com/noclickapp/noclick",
-      "summary": "Hey HN!Sharing my work on an open-source agent runtime (like n8n, but for agents). It's OSI open-source under AGPL-3.People have been using it to build agents that handle support queries, automated resolution, WhatsApp chatbots, etc.\n\nComments URL: https://news.ycombinator.com/it",
-      "published": "Mon, 28 Sep 2026 17:23:35 +0000"
+      "title": "Show HN: Share Claude Code rate-limits between friends",
+      "link": "https://github.com/jaynlabs/jaynshare",
+      "summary": "Article URL: https://github.com/jaynlabs/jaynshare\nComments URL: https://news.ycombinator.com/item?id=49895933\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 29 Sep 2026 16:22:03 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "It Was the Harness, Not the Model",
-      "link": "https://blog.herlein.com/post/harness-not-model/",
-      "summary": "Article URL: https://blog.herlein.com/post/harness-not-model/\nComments URL: https://news.ycombinator.com/item?id=49881152\nPoints: 2\n# Comments: 1",
-      "published": "Mon, 28 Sep 2026 17:09:52 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "summary": "Article URL: https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/\nComments URL: https://news.ycombinator.com/item?id=49881038\nPoints: 2\n# Comments: 0",
-      "published": "Mon, 28 Sep 2026 17:01:40 +0000"
+      "title": "Show HN: Estela – Rebuild billable hours from your Claude Code and Codex logs",
+      "link": "https://github.com/jdleonruiz/estela-cli",
+      "summary": "Article URL: https://github.com/jdleonruiz/estela-cli\nComments URL: https://news.ycombinator.com/item?id=49895206\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 29 Sep 2026 15:39:00 +0000"
     },
     {
       "source": "Anthropic News",
@@ -138,24 +138,31 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "link": "https://openai.com/index/proaction",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "published": "Fri, 25 Sep 2026 19:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -187,6 +194,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting @joedaroo",
+      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardeni",
+      "published": "2026-09-28T19:11:42+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "S3 Is the Future, S3 Is the Past",
       "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
       "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade:\n2006-03-14  $0.150/GB-month\n2010-11-01  $0.140/GB-month\n2012-02-01",
@@ -214,18 +228,11 @@
       "published": "2026-09-25T17:22:01+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-      "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor!\n    \n    \n        Tags: photography, wildl",
-      "published": "2026-09-25T02:07:04+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "GPT 5.6 Sol Still Fails on Basic Code Review",
-      "link": "https://chatgpt.com/c/6aba98af-24c4-83eb-aa85-51bacbb67a34",
-      "summary": "Article URL: https://chatgpt.com/c/6aba98af-24c4-83eb-aa85-51bacbb67a34\nComments URL: https://news.ycombinator.com/item?id=49881380\nPoints: 1\n# Comments: 4",
-      "published": "Mon, 28 Sep 2026 17:25:08 +0000"
+      "title": "SlopOne: Winning the code quality fight with Jev",
+      "link": "https://qlty.sh/blog/introducing-slopone",
+      "summary": "Article URL: https://qlty.sh/blog/introducing-slopone\nComments URL: https://news.ycombinator.com/item?id=49894554\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 29 Sep 2026 15:03:03 +0000"
     }
   ]
 }
