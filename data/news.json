@@ -1,22 +1,8 @@
 {
-  "generated_at_utc": "2026-10-01T17:09:50.363512+00:00",
-  "generated_at_display": "01/10/2026 17:09 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-10-02T16:24:30.176035+00:00",
+  "generated_at_display": "02/10/2026 16:24 UTC",
+  "total_items": 19,
   "items": [
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Keel – Give your agent a typed strategy language, not a trading account",
-      "link": "https://usekeel.io/how-it-works",
-      "summary": "I’ve been using AI agents to build systematic strategies on Hyperliquid for over a year, and slowly built up a reliable system to represent, test and deploy strategies. Typically there are a few options 1) llm in the execution loop, ie it makes decisions and trades, but that is s",
-      "published": "Thu, 01 Oct 2026 16:59:52 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Call4me, an AI agent that handles phone calls for you",
-      "link": "https://call4.me/",
-      "summary": "introducing https://call4.me, an ai agent that handles phone calls for you.you can use it to cancel subscriptions, book medical appointments, dinners, change flights, or anything else possible with a call.most importantly, it works in claude code & codex. i spend most of my time ",
-      "published": "Thu, 01 Oct 2026 16:00:08 +0000"
-    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "OpenAI DevDay 2026 live blog",
@@ -25,11 +11,11 @@
       "published": "2026-09-29T15:55:13+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "My AI agent is making me lamer",
-      "link": "https://pridesai.substack.com/p/my-ai-agent-is-making-me-lamer",
-      "summary": "Article URL: https://pridesai.substack.com/p/my-ai-agent-is-making-me-lamer\nComments URL: https://news.ycombinator.com/item?id=49923499\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 01 Oct 2026 16:04:43 +0000"
+      "source": "OpenAI Blog",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "published": "Fri, 02 Oct 2026 16:15:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -60,48 +46,6 @@
       "published": "Tue, 29 Sep 2026 10:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "published": "Tue, 29 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "published": "Thu, 24 Sep 2026 16:20:39 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "summary": "",
-      "published": "Wed, 23 Sep 2026 15:25:14 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "published": "Tue, 15 Sep 2026 17:05:57 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Matthew Green",
       "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
@@ -130,32 +74,25 @@
       "published": "2026-09-28T22:07:38+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Ask HN: What broke when you added the second agent?",
-      "link": "https://news.ycombinator.com/item?id=49924268",
-      "summary": "Most multi-agent write ups are about quality - which model to use and why, more agents and generating better answers. I am interested in the failures that happen.If you run more than one agent against shared state or shared tools, what actually went wrong?1. Did two agents do the",
-      "published": "Thu, 01 Oct 2026 17:03:54 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Kvitansiya – a Claude Code hook that checks \"deployed\" against prod",
-      "link": "https://github.com/Dilshod-Abdullayev/kvitansiya",
-      "summary": "Article URL: https://github.com/Dilshod-Abdullayev/kvitansiya\nComments URL: https://news.ycombinator.com/item?id=49923271\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 01 Oct 2026 15:48:05 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Past.dev – memory layer for agent reaching 85% on BEAM 10M",
-      "link": "https://past.dev/blog/introducing-past-dev",
-      "summary": "Article URL: https://past.dev/blog/introducing-past-dev\nComments URL: https://news.ycombinator.com/item?id=49923182\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 01 Oct 2026 15:41:46 +0000"
-    },
-    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "published": "Thu, 01 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -165,39 +102,11 @@
       "published": "Tue, 29 Sep 2026 10:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "published": "Mon, 28 Sep 2026 19:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "published": "Wed, 23 Sep 2026 16:00:57 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "published": "Tue, 08 Sep 2026 14:00:15 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
       "summary": "",
-      "published": "Thu, 03 Sep 2026 15:02:08 +0000"
+      "published": ""
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -222,17 +131,10 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Need Unity and Unreal testers for code stitching tool",
-      "link": "https://news.ycombinator.com/item?id=49924160",
-      "summary": "Hi, since this thing is running pretty flawlessly under most IDE's, languages and tools it's gotten to the point where I need Unity and Unreal devs that use AI to try and break this thing.I am hopelessly ignorant with the idiosyncrasies of both those tools.  Any help would be app",
-      "published": "Thu, 01 Oct 2026 16:55:17 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Opus6.video – Make Claude Opus 5.5 videos without a Claude account",
-      "link": "https://opus6.video/",
-      "summary": "Article URL: https://opus6.video/\nComments URL: https://news.ycombinator.com/item?id=49923928\nPoints: 3\n# Comments: 0",
-      "published": "Thu, 01 Oct 2026 16:36:42 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
