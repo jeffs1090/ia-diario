@@ -1,14 +1,21 @@
 {
-  "generated_at_utc": "2026-10-02T16:24:30.176035+00:00",
-  "generated_at_display": "02/10/2026 16:24 UTC",
+  "generated_at_utc": "2026-10-05T19:29:46.308926+00:00",
+  "generated_at_display": "05/10/2026 19:29 UTC",
   "total_items": 19,
   "items": [
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "OpenAI DevDay 2026 live blog",
-      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.\n\nOpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.\n    \n        Tags: ai, openai, generative-ai, llms, c",
-      "published": "2026-09-29T15:55:13+00:00"
+      "source": "OpenAI Blog",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "published": "Mon, 05 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "published": "Mon, 05 Oct 2026 10:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -16,6 +23,13 @@
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "published": "Fri, 02 Oct 2026 16:15:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "published": "Fri, 02 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -32,18 +46,11 @@
       "published": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "published": "Wed, 30 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "September sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here.\nThis month:\n\nMore Fable class models\nA pricing war\n3D graphics, Blender, and pixel art\nLLMs come for mathematics\nSo many more accide",
+      "published": "2026-10-03T22:00:31+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -58,20 +65,6 @@
       "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
       "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview ",
       "published": "2026-09-29T22:20:28+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-      "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...\nHere they are for GPT-6.1-Sol: https://tools.s",
-      "published": "2026-09-29T18:27:48+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Claude Sonnet 5.5",
-      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-      "summary": "Claude Sonnet 5.5\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.\nHere are some pelicans riding bicycl",
-      "published": "2026-09-28T22:07:38+00:00"
     },
     {
       "source": "Anthropic News",
@@ -95,13 +88,6 @@
       "published": "Thu, 01 Oct 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "published": "Tue, 29 Sep 2026 10:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
       "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
       "link": "https://deepmind.google/blog/rss.xml",
@@ -110,24 +96,38 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Qwen3.8 27B addition in words",
+      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "summary": "Research: Qwen3.8 27B addition in words\n        Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of th",
+      "published": "2026-10-04T23:34:00+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". Thes",
+      "published": "2026-10-03T23:34:02+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Rex's Dino Store",
+      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "summary": "Museum: Rex&#x27;s Dino Store\n        Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.\nThe density of dinosaur puns is exceptional.\n    \n    \n      ",
+      "published": "2026-10-02T22:57:38+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "pwasm 0.2a0",
+      "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
+      "summary": "Release: pwasm 0.2a0\n        pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania.\nI hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could ",
+      "published": "2026-10-01T17:10:31+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "He Built This City",
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.\nIt exceeded my already high expectations. The exhibition closes on 12th October s",
       "published": "2026-09-30T21:54:19+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "summary": "Tool: Photo Scrubber — local face blur &amp; metadata removal\n        I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces and",
-      "published": "2026-09-29T16:45:27+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting @joedaroo",
-      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-      "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardeni",
-      "published": "2026-09-28T19:11:42+00:00"
     },
     {
       "source": "Hacker News - AI",
