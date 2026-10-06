@@ -1,8 +1,36 @@
 {
-  "generated_at_utc": "2026-10-05T19:29:46.308926+00:00",
-  "generated_at_display": "05/10/2026 19:29 UTC",
-  "total_items": 19,
+  "generated_at_utc": "2026-10-06T16:58:11.052207+00:00",
+  "generated_at_display": "06/10/2026 16:58 UTC",
+  "total_items": 33,
   "items": [
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Agent Squad – Be the CEO of a Claude Code Agent Team",
+      "link": "https://github.com/gzurl/agent-squad",
+      "summary": "I just released agent-squad for Claude Code and GitHub!You, the human, are the CEO of a team of Claude Code agents:   a CTO plans,   a developer builds, and   QA reviews every pull request.If you work with Claude Code, this will change how you build software forever.It's open sou",
+      "published": "Tue, 06 Oct 2026 16:34:00 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "I gave an AI agent one bug 11 times. 6 commits had files it never knew about",
+      "link": "https://junayed.com/blog/same-bug-eleven-times/",
+      "summary": "Article URL: https://junayed.com/blog/same-bug-eleven-times/\nComments URL: https://news.ycombinator.com/item?id=49980701\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 06 Oct 2026 16:22:26 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Can an AI agent still act after the operator has stopped its authority?",
+      "link": "https://github.com/GlobalSushrut/connector-oss",
+      "summary": "Article URL: https://github.com/GlobalSushrut/connector-oss\nComments URL: https://news.ycombinator.com/item?id=49980548\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 06 Oct 2026 16:09:39 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "published": "Tue, 06 Oct 2026 16:00:00 GMT"
+    },
     {
       "source": "OpenAI Blog",
       "title": "Our approach to EU text provenance rules",
@@ -39,11 +67,39 @@
       "published": "Thu, 01 Oct 2026 16:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "published": "Wed, 30 Sep 2026 10:30:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "summary": "",
+      "published": "Thu, 24 Sep 2026 16:20:39 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "summary": "",
+      "published": "Wed, 23 Sep 2026 15:25:14 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "summary": "",
+      "published": "Tue, 15 Sep 2026 17:05:57 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Felix Rieseberg",
+      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved ",
+      "published": "2026-10-05T23:56:47+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -60,11 +116,25 @@
       "published": "2026-10-01T06:29:01+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview ",
-      "published": "2026-09-29T22:20:28+00:00"
+      "source": "Hacker News - AI",
+      "title": "Self Improving DoorDash Agent",
+      "link": "https://www.scorecard.io/blog/we-are-lunching-a-new-eval-not-a-typo",
+      "summary": "Article URL: https://www.scorecard.io/blog/we-are-lunching-a-new-eval-not-a-typo\nComments URL: https://news.ycombinator.com/item?id=49980889\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 06 Oct 2026 16:38:00 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Anthropic expands Claude Startups program with up to $45K in credits",
+      "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html\nComments URL: https://news.ycombinator.com/item?id=49980872\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 06 Oct 2026 16:36:41 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Docusign's agent platform is saving engineers 1,000s of hours",
+      "link": "https://www.docusign.com/blog/every-team-deserves-a-krew-the-platform-behind-docusigns-220-ai-teammates",
+      "summary": "Article URL: https://www.docusign.com/blog/every-team-deserves-a-krew-the-platform-behind-docusigns-220-ai-teammates\nComments URL: https://news.ycombinator.com/item?id=49980588\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 06 Oct 2026 16:12:11 +0000"
     },
     {
       "source": "Anthropic News",
@@ -89,10 +159,38 @@
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "published": "Wed, 23 Sep 2026 16:00:57 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "published": "Tue, 08 Sep 2026 14:00:15 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "summary": "",
-      "published": ""
+      "published": "Thu, 03 Sep 2026 15:02:08 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Scrimshaw Jukebox",
+      "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "summary": "Tool: Scrimshaw Jukebox\n        I wanted to see if Claude Opus 5.5 could compose music, so I tried this:\n\nI want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some exampl",
+      "published": "2026-10-06T15:17:39+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -123,18 +221,18 @@
       "published": "2026-10-01T17:10:31+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "He Built This City",
-      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-      "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.\nIt exceeded my already high expectations. The exhibition closes on 12th October s",
-      "published": "2026-09-30T21:54:19+00:00"
+      "source": "Hacker News - AI",
+      "title": "Show HN: Code Royale, an open-source multiplayer coding game",
+      "link": "https://coderoyale.app/",
+      "summary": "I built Code Royale because my friends and I used to play Clash of Code on CodinGame, but there were a few things we didn't like, so I decided to build our own version. It doesn't need sign-up and supports Python, JavaScript, Go, Java, C, C++, and Rust. The whole project is open ",
+      "published": "Tue, 06 Oct 2026 16:38:45 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Chrome sneakily downloads Google Meet code",
+      "link": "https://webrtchacks.com/chrome-neural-echo-cancellation/",
+      "summary": "Article URL: https://webrtchacks.com/chrome-neural-echo-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49980630\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 06 Oct 2026 16:14:49 +0000"
     }
   ]
 }
