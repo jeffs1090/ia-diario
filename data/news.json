@@ -1,28 +1,42 @@
 {
-  "generated_at_utc": "2026-10-06T16:58:11.052207+00:00",
-  "generated_at_display": "06/10/2026 16:58 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-10-07T17:34:06.586362+00:00",
+  "generated_at_display": "07/10/2026 17:34 UTC",
+  "total_items": 26,
   "items": [
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Agent Squad – Be the CEO of a Claude Code Agent Team",
-      "link": "https://github.com/gzurl/agent-squad",
-      "summary": "I just released agent-squad for Claude Code and GitHub!You, the human, are the CEO of a team of Claude Code agents:   a CTO plans,   a developer builds, and   QA reviews every pull request.If you work with Claude Code, this will change how you build software forever.It's open sou",
-      "published": "Tue, 06 Oct 2026 16:34:00 +0000"
+      "source": "OpenAI Blog",
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "I gave an AI agent one bug 11 times. 6 commits had files it never knew about",
-      "link": "https://junayed.com/blog/same-bug-eleven-times/",
-      "summary": "Article URL: https://junayed.com/blog/same-bug-eleven-times/\nComments URL: https://news.ycombinator.com/item?id=49980701\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 06 Oct 2026 16:22:26 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "summary": "OpenAI “rogue” agent activities found on Wikimedia projects\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:\n\nThe Wikimedia Foundation conducted its own investigation to s",
+      "published": "2026-10-07T00:16:45+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Can an AI agent still act after the operator has stopped its authority?",
-      "link": "https://github.com/GlobalSushrut/connector-oss",
-      "summary": "Article URL: https://github.com/GlobalSushrut/connector-oss\nComments URL: https://news.ycombinator.com/item?id=49980548\nPoints: 1\n# Comments: 1",
-      "published": "Tue, 06 Oct 2026 16:09:39 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm-openai-decisions 0.1a0",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "summary": "Release: llm-openai-decisions 0.1a0\n        OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay.\nSince I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-o",
+      "published": "2026-10-06T23:04:13+00:00"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -51,20 +65,6 @@
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "published": "Fri, 02 Oct 2026 16:15:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "published": "Fri, 02 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "published": "Thu, 01 Oct 2026 16:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -96,45 +96,17 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Felix Rieseberg",
-      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved ",
-      "published": "2026-10-05T23:56:47+00:00"
+      "title": "Quoting Victoria Kim",
+      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said.\n&mdash; Victoria Kim",
+      "published": "2026-10-06T23:58:56+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "September sponsors-only newsletter",
-      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here.\nThis month:\n\nMore Fable class models\nA pricing war\n3D graphics, Blender, and pixel art\nLLMs come for mathematics\nSo many more accide",
-      "published": "2026-10-03T22:00:31+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared pa",
-      "published": "2026-10-01T06:29:01+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Self Improving DoorDash Agent",
-      "link": "https://www.scorecard.io/blog/we-are-lunching-a-new-eval-not-a-typo",
-      "summary": "Article URL: https://www.scorecard.io/blog/we-are-lunching-a-new-eval-not-a-typo\nComments URL: https://news.ycombinator.com/item?id=49980889\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 06 Oct 2026 16:38:00 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Anthropic expands Claude Startups program with up to $45K in credits",
-      "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html\nComments URL: https://news.ycombinator.com/item?id=49980872\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 06 Oct 2026 16:36:41 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Docusign's agent platform is saving engineers 1,000s of hours",
-      "link": "https://www.docusign.com/blog/every-team-deserves-a-krew-the-platform-behind-docusigns-220-ai-teammates",
-      "summary": "Article URL: https://www.docusign.com/blog/every-team-deserves-a-krew-the-platform-behind-docusigns-220-ai-teammates\nComments URL: https://news.ycombinator.com/item?id=49980588\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 06 Oct 2026 16:12:11 +0000"
+      "title": "llm-mistral 0.16",
+      "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "summary": "Release: llm-mistral 0.16\n        Adds support for reasoning models, such as the newly released Mistral Large 4.\n    \n    \n        Tags: llm, mistral, llm-reasoning",
+      "published": "2026-10-06T21:32:34+00:00"
     },
     {
       "source": "Anthropic News",
@@ -145,17 +117,17 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "published": "Thu, 01 Oct 2026 17:00:00 GMT"
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "published": "Wed, 07 Oct 2026 12:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "published": "Thu, 01 Oct 2026 00:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "summary": "",
+      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -179,60 +151,39 @@
       "published": "Tue, 08 Sep 2026 14:00:15 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Anti-Patterns in Software Blogging",
+      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "summary": "Anti-Patterns in Software Blogging\nSome excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.\nHe also warns against overreliance on l",
+      "published": "2026-10-07T14:53:51+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Jake Boggan",
+      "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. ",
+      "published": "2026-10-07T04:47:55+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "EmbeddingGemma 2",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license.\nFor embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model.\nMost applications of embedding models in",
+      "published": "2026-10-06T20:37:53+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "summary": "Introducing Mistral Large 4: Le chonk\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.\nThe preview is available via thei",
+      "published": "2026-10-06T20:18:19+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
       "summary": "",
-      "published": "Thu, 03 Sep 2026 15:02:08 +0000"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Scrimshaw Jukebox",
-      "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "summary": "Tool: Scrimshaw Jukebox\n        I wanted to see if Claude Opus 5.5 could compose music, so I tried this:\n\nI want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some exampl",
-      "published": "2026-10-06T15:17:39+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Qwen3.8 27B addition in words",
-      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "summary": "Research: Qwen3.8 27B addition in words\n        Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart he shared of th",
-      "published": "2026-10-04T23:34:00+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". Thes",
-      "published": "2026-10-03T23:34:02+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Rex's Dino Store",
-      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-      "summary": "Museum: Rex&#x27;s Dino Store\n        Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur.\nThe density of dinosaur puns is exceptional.\n    \n    \n      ",
-      "published": "2026-10-02T22:57:38+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "pwasm 0.2a0",
-      "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
-      "summary": "Release: pwasm 0.2a0\n        pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania.\nI hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could ",
-      "published": "2026-10-01T17:10:31+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Code Royale, an open-source multiplayer coding game",
-      "link": "https://coderoyale.app/",
-      "summary": "I built Code Royale because my friends and I used to play Clash of Code on CodinGame, but there were a few things we didn't like, so I decided to build our own version. It doesn't need sign-up and supports Python, JavaScript, Go, Java, C, C++, and Rust. The whole project is open ",
-      "published": "Tue, 06 Oct 2026 16:38:45 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Chrome sneakily downloads Google Meet code",
-      "link": "https://webrtchacks.com/chrome-neural-echo-cancellation/",
-      "summary": "Article URL: https://webrtchacks.com/chrome-neural-echo-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49980630\nPoints: 1\n# Comments: 1",
-      "published": "Tue, 06 Oct 2026 16:14:49 +0000"
+      "published": ""
     }
   ]
 }
