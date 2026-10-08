@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-07T17:34:06.586362+00:00",
-  "generated_at_display": "07/10/2026 17:34 UTC",
+  "generated_at_utc": "2026-10-08T17:37:29.490052+00:00",
+  "generated_at_display": "08/10/2026 17:37 UTC",
   "total_items": 26,
   "items": [
     {
@@ -26,6 +26,20 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "link": "https://openai.com/index/jump-trading",
       "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
@@ -44,27 +58,6 @@
       "link": "https://openai.com/index/atlassian-partnership",
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "published": "Tue, 06 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "published": "Mon, 05 Oct 2026 15:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "published": "Mon, 05 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "published": "Fri, 02 Oct 2026 16:15:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +89,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Claude Haiku 5.5",
+      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5.\nThe previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relatively expensive even back then",
+      "published": "2026-10-07T20:56:21+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Victoria Kim",
       "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
       "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said.\n&mdash; Victoria Kim",
@@ -121,6 +121,13 @@
       "link": "https://openai.com/index/teens-learn-and-plan",
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "published": "Wed, 07 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "published": "Wed, 07 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -152,6 +159,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Ben Affleck",
+      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.\nSo I can write like pretty shitt",
+      "published": "2026-10-07T23:14:58+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Anti-Patterns in Software Blogging",
       "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
       "summary": "Anti-Patterns in Software Blogging\nSome excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.\nHe also warns against overreliance on l",
@@ -163,20 +177,6 @@
       "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
       "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. ",
       "published": "2026-10-07T04:47:55+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "EmbeddingGemma 2",
-      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license.\nFor embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model.\nMost applications of embedding models in",
-      "published": "2026-10-06T20:37:53+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "summary": "Introducing Mistral Large 4: Le chonk\nMistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.\nThe preview is available via thei",
-      "published": "2026-10-06T20:18:19+00:00"
     },
     {
       "source": "Hacker News - AI",
