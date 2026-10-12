@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-10-09T17:13:22.098047+00:00",
-  "generated_at_display": "09/10/2026 17:13 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-10-12T20:01:06.767203+00:00",
+  "generated_at_display": "12/10/2026 20:01 UTC",
+  "total_items": 26,
   "items": [
     {
-      "source": "Hacker News - AI",
-      "title": "AI Agent Shouldn't Read That File Yet",
-      "link": "https://www.claix.dev",
-      "summary": "Article URL: https://www.claix.dev\nComments URL: https://news.ycombinator.com/item?id=50023571\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 17:10:46 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Virgil – a coding agent that cuts API calls by up to 78% on repeated work",
-      "link": "https://virgil-ai.cloud/try",
-      "summary": "Article URL: https://virgil-ai.cloud/try\nComments URL: https://news.ycombinator.com/item?id=50023448\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 17:02:26 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting The New York Times",
+      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s we",
+      "published": "2026-10-10T02:04:12+00:00"
     },
     {
       "source": "OpenAI Blog",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "link": "https://openai.com/index/sophos",
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "published": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
@@ -74,41 +74,6 @@
       "published": "Tue, 15 Sep 2026 17:05:57 +0000"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "ttok 0.4",
-      "link": "https://simonwillison.net/2026/Oct/8/ttok/",
-      "summary": "Release: ttok 0.4\n        ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library.\nIt hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to list available models.\nIt works wi",
-      "published": "2026-10-08T23:34:28+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Claude Haiku 5.5",
-      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5.\nThe previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relatively expensive even back then",
-      "published": "2026-10-07T20:56:21+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Widefleet – Open-source platform for agent-built apps and workflows",
-      "link": "https://github.com/widefleet/widefleet",
-      "summary": "Meet Widefleet: an open-source platform for agent-built apps and workflows.Let agents deploy apps and workflows with company login, databases, file storage, and controlled access to your systems.\n\nComments URL: https://news.ycombinator.com/item?id=50022986\nPoints: 3\n# Comments: 1",
-      "published": "Fri, 09 Oct 2026 16:33:10 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Contentful Agent Template",
-      "link": "https://github.com/vercel-labs/eve-contentful-agent-template",
-      "summary": "Article URL: https://github.com/vercel-labs/eve-contentful-agent-template\nComments URL: https://news.ycombinator.com/item?id=50022834\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 16:24:32 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Design for Agent GUIs",
-      "link": "https://lexifina.com/blog/agent-guis",
-      "summary": "Article URL: https://lexifina.com/blog/agent-guis\nComments URL: https://news.ycombinator.com/item?id=50022688\nPoints: 3\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 16:15:30 +0000"
-    },
-    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
@@ -135,13 +100,6 @@
       "link": "https://openai.com/index/teens-learn-and-plan",
       "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "published": "Wed, 07 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "published": "Wed, 07 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -173,6 +131,41 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "summary": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start ",
+      "published": "2026-10-12T18:15:38+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-ports 0.4",
+      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "summary": "Release: datasette-ports 0.4\n        My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler.\n    \n    \n    ",
+      "published": "2026-10-12T04:57:07+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Dwarf Fortress uses version control now",
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art.\nI went looking and I'm sad to r",
+      "published": "2026-10-11T00:52:37+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "summary": "Python 3.15.0 added to actions/python-versions\nBit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it:\n\nClone https://github.com/actions/python-versions  and git pull once an hour until they add the stable  3.15 - then tell ",
+      "published": "2026-10-10T23:58:04+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Deno is joining Cloudflare",
+      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "summary": "Deno is joining Cloudflare\nThe Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.\nToday, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make worker",
+      "published": "2026-10-09T22:48:37+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Matthew Green",
       "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
       "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\nThe",
@@ -186,53 +179,11 @@
       "published": "2026-10-09T12:54:06+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "ttok 1.0",
-      "link": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "summary": "Release: ttok 1.0\n        I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead!\nI figured switching the default was a reasonable ex",
-      "published": "2026-10-09T00:34:43+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Carson Gross",
-      "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "summary": "Computer programming is, fundamentally, about two things:\n\nProblem-solving using computers\nLearning to control complexity while solving these problems\n\nI have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of th",
-      "published": "2026-10-08T21:05:44+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Ben Affleck",
-      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.\nSo I can write like pretty shitt",
-      "published": "2026-10-07T23:14:58+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Anti-Patterns in Software Blogging",
-      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-      "summary": "Anti-Patterns in Software Blogging\nSome excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.\nHe also warns against overreliance on l",
-      "published": "2026-10-07T14:53:51+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code",
-      "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html\nComments URL: https://news.ycombinator.com/item?id=50023350\nPoints: 4\n# Comments: 1",
-      "published": "Fri, 09 Oct 2026 16:55:47 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Pulsar – Qwen3.8-27B at 148 tok/s writing code on M5 Max",
-      "link": "https://github.com/loopai-hq/pulsar",
-      "summary": "Article URL: https://github.com/loopai-hq/pulsar\nComments URL: https://news.ycombinator.com/item?id=50022690\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 16:15:43 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Two-Way Doors: Don't Code Yourself into a Corner",
-      "link": "https://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html",
-      "summary": "Article URL: https://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html\nComments URL: https://news.ycombinator.com/item?id=50022553\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 09 Oct 2026 16:06:37 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
