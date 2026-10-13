@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-12T20:01:06.767203+00:00",
-  "generated_at_display": "12/10/2026 20:01 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-10-13T17:49:49.457739+00:00",
+  "generated_at_display": "13/10/2026 17:49 UTC",
+  "total_items": 33,
   "items": [
     {
       "source": "Simon Willison (LLM/agents)",
@@ -9,6 +9,13 @@
       "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s we",
       "published": "2026-10-10T02:04:12+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Google DeepMind paper trains an agent to rewrite its own harness",
+      "link": "https://runtimewire.com/article/google-deepmind-evo2-agent-harness-co-evolution",
+      "summary": "Article URL: https://runtimewire.com/article/google-deepmind-evo2-agent-harness-co-evolution\nComments URL: https://news.ycombinator.com/item?id=50075443\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 13 Oct 2026 17:30:16 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -47,6 +54,20 @@
     },
     {
       "source": "Google DeepMind",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
+    },
+    {
+      "source": "Google DeepMind",
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "summary": "",
@@ -67,11 +88,46 @@
       "published": "Wed, 23 Sep 2026 15:25:14 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "summary": "",
-      "published": "Tue, 15 Sep 2026 17:05:57 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Geoffrey Huntley",
+      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fai",
+      "published": "2026-10-13T13:32:00+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "web-edit 0.1a0",
+      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "summary": "Release: web-edit 0.1a0\n        I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself.\nSo... I had Codex and GPT-6 Astra Extra High build this Python web a",
+      "published": "2026-10-12T15:54:36+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Claude Code plugin that delegates to isolated CLIs and verifies before merge",
+      "link": "https://github.com/PyModel/claude-architect",
+      "summary": "Article URL: https://github.com/PyModel/claude-architect\nComments URL: https://news.ycombinator.com/item?id=50075321\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 13 Oct 2026 17:20:50 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Hatswap – one Claude Code account per client, switch mid-chat",
+      "link": "https://github.com/orvi2014/hatswap",
+      "summary": "Article URL: https://github.com/orvi2014/hatswap\nComments URL: https://news.ycombinator.com/item?id=50075273\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 13 Oct 2026 17:17:53 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Muster, a Mac Menu Bar Switcher for Claude Code, Codex and Cursor",
+      "link": "https://github.com/josefchen/muster",
+      "summary": "Article URL: https://github.com/josefchen/muster\nComments URL: https://news.ycombinator.com/item?id=50074904\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 13 Oct 2026 16:57:46 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Check your Claude Code, Codex and Cursor sessions for secrets",
+      "link": "https://github.com/AGGIB/Stroq",
+      "summary": "Article URL: https://github.com/AGGIB/Stroq\nComments URL: https://news.ycombinator.com/item?id=50074883\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 13 Oct 2026 16:56:25 +0000"
     },
     {
       "source": "Anthropic News",
@@ -123,13 +179,6 @@
       "published": "Wed, 23 Sep 2026 16:00:57 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "published": "Tue, 08 Sep 2026 14:00:15 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
       "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
@@ -165,25 +214,25 @@
       "published": "2026-10-09T22:48:37+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\nThe",
-      "published": "2026-10-09T15:02:29+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "A new feature for my blog, built using my voice",
-      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while ",
-      "published": "2026-10-09T12:54:06+00:00"
+      "source": "Hacker News - AI",
+      "title": "Code Boom. Talent Bust",
+      "link": "https://jonathanhays.me/2026/10/12/code-boom-talent-bust.html",
+      "summary": "Article URL: https://jonathanhays.me/2026/10/12/code-boom-talent-bust.html\nComments URL: https://news.ycombinator.com/item?id=50075446\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 13 Oct 2026 17:30:21 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Show HN: Treesum – Replace MS Excel/Project with a Code Editor",
+      "link": "https://www.treesum.app/",
+      "summary": "# IntroThe goal of this software is to make it easy to get the plan that's in your head onto the page. Start with the outline then add details. Then more details. Then numbers: costs, time, quantities. Then organize and categorize with #tags. All the sums, graphs and pivot table ",
+      "published": "Tue, 13 Oct 2026 16:55:21 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Did Ente Locker copy my code without attribution?",
+      "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "summary": "Article URL: https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/\nComments URL: https://news.ycombinator.com/item?id=50074509\nPoints: 5\n# Comments: 1",
+      "published": "Tue, 13 Oct 2026 16:35:05 +0000"
     }
   ]
 }
