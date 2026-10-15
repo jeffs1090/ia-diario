@@ -1,8 +1,22 @@
 {
-  "generated_at_utc": "2026-10-14T15:34:22.142515+00:00",
-  "generated_at_display": "14/10/2026 15:34 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-10-15T15:22:19.667273+00:00",
+  "generated_at_display": "15/10/2026 15:22 UTC",
+  "total_items": 19,
   "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Tree Appreciator",
+      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "summary": "Tool: Tree Appreciator\n        Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically genera",
+      "published": "2026-10-14T21:23:01+00:00"
+    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "llm-gemini 0.35",
@@ -12,9 +26,23 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "link": "https://openai.com/index/third-moment-research",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "published": "Wed, 14 Oct 2026 07:00:00 GMT"
     },
     {
@@ -32,53 +60,11 @@
       "published": "Fri, 09 Oct 2026 07:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "summary": "",
-      "published": "Thu, 24 Sep 2026 16:20:39 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\nThe phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matt",
+      "published": "2026-10-15T13:04:03+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -102,18 +88,18 @@
       "published": "2026-10-12T23:58:46+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "web-edit 0.1a0",
-      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "summary": "Release: web-edit 0.1a0\n        I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself.\nSo... I had Codex and GPT-6 Astra Extra High build this Python web a",
-      "published": "2026-10-12T15:54:36+00:00"
-    },
-    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -123,39 +109,18 @@
       "published": "Tue, 13 Oct 2026 12:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "published": "Thu, 08 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
       "summary": "",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
+      "published": ""
     },
     {
-      "source": "Google DeepMind",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary.\nIndie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old ga",
+      "published": "2026-10-14T16:26:53+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -163,20 +128,6 @@
       "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
       "summary": "Release: web-edit 0.1a1\n        Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra.\n    \n    \n        Tags: profiling, projects",
       "published": "2026-10-13T01:40:05+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "summary": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start ",
-      "published": "2026-10-12T18:15:38+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps\n        I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app:\n\nI need a Python 3.15 flame graph and heatmap demo of the \"we",
-      "published": "2026-10-12T16:58:00+00:00"
     },
     {
       "source": "Hacker News - AI",
