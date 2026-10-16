@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-15T15:22:19.667273+00:00",
-  "generated_at_display": "15/10/2026 15:22 UTC",
+  "generated_at_utc": "2026-10-16T15:02:43.986530+00:00",
+  "generated_at_display": "16/10/2026 15:02 UTC",
   "total_items": 19,
   "items": [
     {
@@ -23,6 +23,13 @@
       "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "summary": "Release: llm-gemini 0.35\n        I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan.\nHere are the low, medium and high pelicans. As expected, they are all excellent: Gemin",
       "published": "2026-10-13T22:28:54+00:00"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -53,13 +60,6 @@
       "published": "Wed, 14 Oct 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
@@ -81,18 +81,18 @@
       "published": "2026-10-13T13:32:00+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-meta-ai 0.2",
-      "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "summary": "Release: llm-meta-ai 0.2\n        Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol.\nI updated my llm-meta-ai ",
-      "published": "2026-10-12T23:58:46+00:00"
-    },
-    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -102,18 +102,18 @@
       "published": "Thu, 15 Oct 2026 13:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "published": "Tue, 13 Oct 2026 12:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
       "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
       "link": "https://deepmind.google/blog/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Chirp Pong",
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "summary": "Tool: Chirp Pong\n        Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!\n\nBuild a two player competitive pong like",
+      "published": "2026-10-15T19:47:52+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
