@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-16T15:02:43.986530+00:00",
-  "generated_at_display": "16/10/2026 15:02 UTC",
-  "total_items": 19,
+  "generated_at_utc": "2026-10-19T17:13:38.273073+00:00",
+  "generated_at_display": "19/10/2026 17:13 UTC",
+  "total_items": 26,
   "items": [
     {
       "source": "OpenAI Blog",
@@ -12,17 +12,17 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Tree Appreciator",
-      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "summary": "Tool: Tree Appreciator\n        Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:\n\nBuild a three js game called \"Tree appreciator\" - it shows you two algorithmically genera",
-      "published": "2026-10-14T21:23:01+00:00"
+      "title": "llm-echo 0.5",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "summary": "Release: llm-echo 0.5\n        I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now",
+      "published": "2026-10-18T23:16:16+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-gemini 0.35",
-      "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "summary": "Release: llm-gemini 0.35\n        I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan.\nHere are the low, medium and high pelicans. As expected, they are all excellent: Gemin",
-      "published": "2026-10-13T22:28:54+00:00"
+      "source": "OpenAI Blog",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -39,25 +39,39 @@
       "published": "Wed, 14 Oct 2026 12:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "The EU’s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "published": "Wed, 14 Oct 2026 00:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "summary": "Release: llm-tools-datasette 0.1.1\n        When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.\n    \n    \n        Tags: datasette, llm",
+      "published": "2026-10-18T23:43:09+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -67,25 +81,25 @@
       "published": "2026-10-15T13:04:03+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Redesigning source control at Anthropic",
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "summary": "Redesigning source control at Anthropic\nInteresting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months.\n\nIn May 2026, Anthropic averaged around 2,500",
-      "published": "2026-10-13T23:00:06+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Geoffrey Huntley",
-      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fai",
-      "published": "2026-10-13T13:32:00+00:00"
-    },
-    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -103,10 +117,52 @@
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "summary": "",
-      "published": ""
+      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Inline rendering with document​.currentScript",
+      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "summary": "Inline rendering with document​.currentScript\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads:\nThe year is &lt;script&gt;\ndocume",
+      "published": "2026-10-17T21:11:12+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "web-edit 0.1a2",
+      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "summary": "Release: web-edit 0.1a2\n        web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\nI added a \"copy to clipboard\" option for both text and image data. I needed this because I",
+      "published": "2026-10-17T13:16:49+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"\nAsking that question also changed when review happens. Before, review was a gate at the end of the road: write ",
+      "published": "2026-10-16T22:06:37+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -117,21 +173,14 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary.\nIndie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old ga",
-      "published": "2026-10-14T16:26:53+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "web-edit 0.1a1",
-      "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
-      "summary": "Release: web-edit 0.1a1\n        Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra.\n    \n    \n        Tags: profiling, projects",
-      "published": "2026-10-13T01:40:05+00:00"
+      "title": "LaTeX renderer",
+      "link": "https://simonwillison.net/2026/Oct/15/latex/",
+      "summary": "Tool: LaTeX renderer\n        Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office, which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, ",
+      "published": "2026-10-15T02:07:28+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "title": "[Falha ao buscar feed: <urlopen error timed out>]",
       "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
       "summary": "",
       "published": ""
