@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-19T17:13:38.273073+00:00",
-  "generated_at_display": "19/10/2026 17:13 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-10-20T15:25:13.884631+00:00",
+  "generated_at_display": "20/10/2026 15:25 UTC",
+  "total_items": 19,
   "items": [
     {
       "source": "OpenAI Blog",
@@ -12,10 +12,24 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "My obituary for programming",
+      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "summary": "My obituary for programming\nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code:\n\nProgramming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic pu",
+      "published": "2026-10-19T23:58:25+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "llm-echo 0.5",
       "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
       "summary": "Release: llm-echo 0.5\n        I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now",
       "published": "2026-10-18T23:16:16+00:00"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "published": "Mon, 19 Oct 2026 12:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -30,41 +44,6 @@
       "link": "https://openai.com/index/sullivan-cromwell",
       "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "published": "Thu, 15 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -117,31 +96,10 @@
     },
     {
       "source": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
       "summary": "",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+      "published": ""
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -172,15 +130,8 @@
       "published": "2026-10-15T19:47:52+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "LaTeX renderer",
-      "link": "https://simonwillison.net/2026/Oct/15/latex/",
-      "summary": "Tool: LaTeX renderer\n        Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office, which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, ",
-      "published": "2026-10-15T02:07:28+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: <urlopen error timed out>]",
+      "title": "[Falha ao buscar feed: The read operation timed out]",
       "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
       "summary": "",
       "published": ""
