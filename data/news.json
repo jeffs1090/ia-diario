@@ -1,14 +1,28 @@
 {
-  "generated_at_utc": "2026-10-20T15:25:13.884631+00:00",
-  "generated_at_display": "20/10/2026 15:25 UTC",
-  "total_items": 19,
+  "generated_at_utc": "2026-10-21T15:41:25.091914+00:00",
+  "generated_at_display": "21/10/2026 15:41 UTC",
+  "total_items": 33,
   "items": [
     {
       "source": "OpenAI Blog",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "published": "Wed, 21 Oct 2026 04:50:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -25,25 +39,81 @@
       "published": "2026-10-18T23:16:16+00:00"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Advancing coding in low‑resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "published": "Mon, 19 Oct 2026 12:00:00 GMT"
+      "source": "Hacker News - AI",
+      "title": "My Agentic Coding Workflow: Claude Code, Codex, and Pi",
+      "link": "https://www.damiangalarza.com/posts/2026-10-21-agentic-coding-workflow/",
+      "summary": "Article URL: https://www.damiangalarza.com/posts/2026-10-21-agentic-coding-workflow/\nComments URL: https://news.ycombinator.com/item?id=50182742\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 21 Oct 2026 15:32:56 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "What Claude Code's multi-agent code review costs and finds",
+      "link": "https://quickchat.ai/post/claude-code-multi-agent-code-review",
+      "summary": "Article URL: https://quickchat.ai/post/claude-code-multi-agent-code-review\nComments URL: https://news.ycombinator.com/item?id=50182359\nPoints: 3\n# Comments: 2",
+      "published": "Wed, 21 Oct 2026 15:10:53 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Hlock – an agent harness lockfile and performance resolver",
+      "link": "https://github.com/unionai-oss/hlock",
+      "summary": "Article URL: https://github.com/unionai-oss/hlock\nComments URL: https://news.ycombinator.com/item?id=50182149\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 21 Oct 2026 14:58:06 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Release of Summonr – The open-source coding agent that stays light on your token",
+      "link": "https://summonr.dev/",
+      "summary": "Article URL: https://summonr.dev/\nComments URL: https://news.ycombinator.com/item?id=50181691\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 21 Oct 2026 14:32:35 +0000"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "link": "https://openai.com/index/sullivan-cromwell",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI acquires Orchestra Bio",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -53,11 +123,11 @@
       "published": "2026-10-18T23:43:09+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\nThe phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"people with knowledge of the matt",
-      "published": "2026-10-15T13:04:03+00:00"
+      "source": "Hacker News - AI",
+      "title": "SaaS in the Agent Economy: Why AI Just Changed Bootstrapped SaaS Forever [video]",
+      "link": "https://www.youtube.com/watch?v=8cSCJtPOkmM",
+      "summary": "Article URL: https://www.youtube.com/watch?v=8cSCJtPOkmM\nComments URL: https://news.ycombinator.com/item?id=50182169\nPoints: 1\n# Comments: 1",
+      "published": "Wed, 21 Oct 2026 14:59:26 +0000"
     },
     {
       "source": "Anthropic News",
@@ -68,38 +138,59 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "published": "Wed, 21 Oct 2026 13:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "summary": "",
-      "published": ""
+      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "eMudhra Intermediate CA Compromise",
+      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "summary": "eMudhra Intermediate CA Compromise\nThis is very, very bad news:\n\nThe private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores.\n\nAny s",
+      "published": "2026-10-20T23:50:25+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "summary": "My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is actually fun to play. I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make",
+      "published": "2026-10-20T19:34:19+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -123,18 +214,25 @@
       "published": "2026-10-16T22:06:37+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Chirp Pong",
-      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "summary": "Tool: Chirp Pong\n        Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!\n\nBuild a two player competitive pong like",
-      "published": "2026-10-15T19:47:52+00:00"
+      "source": "Hacker News - AI",
+      "title": "Php2shell: Critical flaws allow code injection in PHP",
+      "link": "https://www.heise.de/en/news/php2shell-Critical-flaws-allow-code-injection-in-PHP-11494897.html",
+      "summary": "Article URL: https://www.heise.de/en/news/php2shell-Critical-flaws-allow-code-injection-in-PHP-11494897.html\nComments URL: https://news.ycombinator.com/item?id=50182710\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 21 Oct 2026 15:31:00 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: The read operation timed out]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "AI code-testing startup Blacksmith hits $1B valuation",
+      "link": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
+      "summary": "Article URL: https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/\nComments URL: https://news.ycombinator.com/item?id=50182486\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 21 Oct 2026 15:17:51 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Running CI on 3M Lines of Code in Under 3 Minutes",
+      "link": "https://shchoholiev.com/writing/running-ci-under-3-minutes/",
+      "summary": "Article URL: https://shchoholiev.com/writing/running-ci-under-3-minutes/\nComments URL: https://news.ycombinator.com/item?id=50181902\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 21 Oct 2026 14:43:49 +0000"
     }
   ]
 }
