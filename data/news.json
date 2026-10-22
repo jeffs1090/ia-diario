@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-21T15:41:25.091914+00:00",
-  "generated_at_display": "21/10/2026 15:41 UTC",
+  "generated_at_utc": "2026-10-22T15:42:36.640425+00:00",
+  "generated_at_display": "22/10/2026 15:42 UTC",
   "total_items": 33,
   "items": [
     {
@@ -11,18 +11,18 @@
       "published": "Wed, 21 Oct 2026 04:50:00 GMT"
     },
     {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Zilla – Use the OpenAI SDK to Call Claude and Gemini",
+      "link": "https://github.com/aklivity/zilla-demos/blob/main/llm.gateway/README.md",
+      "summary": "Article URL: https://github.com/aklivity/zilla-demos/blob/main/llm.gateway/README.md\nComments URL: https://news.ycombinator.com/item?id=50195822\nPoints: 2\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 14:23:45 +0000"
+    },
+    {
       "source": "OpenAI Blog",
       "title": "OpenAI models are coming to Google Cloud",
       "link": "https://openai.com/index/openai-models-google-cloud",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "published": "Wed, 21 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "link": "https://openai.com/index/building-chatgpt-ad-stack",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -40,31 +40,31 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "My Agentic Coding Workflow: Claude Code, Codex, and Pi",
-      "link": "https://www.damiangalarza.com/posts/2026-10-21-agentic-coding-workflow/",
-      "summary": "Article URL: https://www.damiangalarza.com/posts/2026-10-21-agentic-coding-workflow/\nComments URL: https://news.ycombinator.com/item?id=50182742\nPoints: 2\n# Comments: 0",
-      "published": "Wed, 21 Oct 2026 15:32:56 +0000"
+      "title": "Show HN: Reverse Engineered Claude Code Desktop – Harness Studio",
+      "link": "https://github.com/vigneshv1cky/harness-studio",
+      "summary": "Article URL: https://github.com/vigneshv1cky/harness-studio\nComments URL: https://news.ycombinator.com/item?id=50196564\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 15:14:59 +0000"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "What Claude Code's multi-agent code review costs and finds",
-      "link": "https://quickchat.ai/post/claude-code-multi-agent-code-review",
-      "summary": "Article URL: https://quickchat.ai/post/claude-code-multi-agent-code-review\nComments URL: https://news.ycombinator.com/item?id=50182359\nPoints: 3\n# Comments: 2",
-      "published": "Wed, 21 Oct 2026 15:10:53 +0000"
+      "source": "OpenAI Blog",
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Hlock – an agent harness lockfile and performance resolver",
-      "link": "https://github.com/unionai-oss/hlock",
-      "summary": "Article URL: https://github.com/unionai-oss/hlock\nComments URL: https://news.ycombinator.com/item?id=50182149\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 21 Oct 2026 14:58:06 +0000"
+      "source": "OpenAI Blog",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Release of Summonr – The open-source coding agent that stays light on your token",
-      "link": "https://summonr.dev/",
-      "summary": "Article URL: https://summonr.dev/\nComments URL: https://news.ycombinator.com/item?id=50181691\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 21 Oct 2026 14:32:35 +0000"
+      "source": "OpenAI Blog",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -75,17 +75,10 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "published": "Tue, 20 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -124,10 +117,31 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "SaaS in the Agent Economy: Why AI Just Changed Bootstrapped SaaS Forever [video]",
-      "link": "https://www.youtube.com/watch?v=8cSCJtPOkmM",
-      "summary": "Article URL: https://www.youtube.com/watch?v=8cSCJtPOkmM\nComments URL: https://news.ycombinator.com/item?id=50182169\nPoints: 1\n# Comments: 1",
-      "published": "Wed, 21 Oct 2026 14:59:26 +0000"
+      "title": "Blame it on Agent (tech parody song) [video]",
+      "link": "https://www.youtube.com/watch?v=yqeXmemXc18",
+      "summary": "Article URL: https://www.youtube.com/watch?v=yqeXmemXc18\nComments URL: https://news.ycombinator.com/item?id=50196736\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 22 Oct 2026 15:27:27 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others",
+      "link": "https://www.jeroenbouma.com/projects/financetoolkit/mcp",
+      "summary": "Worked on this project since 2019 as a Python library built out of the idea that if you simply browse online for metrics such as a P/E you will find different values on each website. The idea is that this library has all variations of each formula so that you can just ask which v",
+      "published": "Thu, 22 Oct 2026 14:46:32 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "The anatomy of a personal health agent",
+      "link": "https://www.nature.com/articles/s41586-026-11161-8",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-11161-8\nComments URL: https://news.ycombinator.com/item?id=50195896\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 14:28:05 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "What 9,930 public agent skills tell your agent to do",
+      "link": "https://theagentforge.io/reports/skill-scan-2026-10",
+      "summary": "Article URL: https://theagentforge.io/reports/skill-scan-2026-10\nComments URL: https://news.ycombinator.com/item?id=50195645\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 14:15:05 +0000"
     },
     {
       "source": "Anthropic News",
@@ -144,11 +158,11 @@
       "published": "Wed, 21 Oct 2026 13:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "published": "Thu, 22 Oct 2026 14:30:24 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -172,11 +186,18 @@
       "published": "Tue, 06 Oct 2026 19:57:04 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security\nIf you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since las",
+      "published": "2026-10-21T18:41:53+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "summary": "Panache — RTS Belle Époque pour mobile\nWell this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro!\n\nPanache est un jeu",
+      "published": "2026-10-21T16:25:16+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -200,39 +221,18 @@
       "published": "2026-10-17T21:11:12+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "web-edit 0.1a2",
-      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "summary": "Release: web-edit 0.1a2\n        web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\nI added a \"copy to clipboard\" option for both text and image data. I needed this because I",
-      "published": "2026-10-17T13:16:49+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"\nAsking that question also changed when review happens. Before, review was a gate at the end of the road: write ",
-      "published": "2026-10-16T22:06:37+00:00"
+      "source": "Hacker News - AI",
+      "title": "Self-host your own Claude Artifacts",
+      "link": "https://artifactserver.com/",
+      "summary": "Article URL: https://artifactserver.com/\nComments URL: https://news.ycombinator.com/item?id=50196011\nPoints: 2\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 14:36:56 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Php2shell: Critical flaws allow code injection in PHP",
-      "link": "https://www.heise.de/en/news/php2shell-Critical-flaws-allow-code-injection-in-PHP-11494897.html",
-      "summary": "Article URL: https://www.heise.de/en/news/php2shell-Critical-flaws-allow-code-injection-in-PHP-11494897.html\nComments URL: https://news.ycombinator.com/item?id=50182710\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 21 Oct 2026 15:31:00 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "AI code-testing startup Blacksmith hits $1B valuation",
-      "link": "https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/",
-      "summary": "Article URL: https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/\nComments URL: https://news.ycombinator.com/item?id=50182486\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 21 Oct 2026 15:17:51 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Running CI on 3M Lines of Code in Under 3 Minutes",
-      "link": "https://shchoholiev.com/writing/running-ci-under-3-minutes/",
-      "summary": "Article URL: https://shchoholiev.com/writing/running-ci-under-3-minutes/\nComments URL: https://news.ycombinator.com/item?id=50181902\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 21 Oct 2026 14:43:49 +0000"
+      "title": "Machines Read, Humans Sign: Code Review in One Year",
+      "link": "https://www.hugo.im/posts/code-review-in-one-year/",
+      "summary": "Article URL: https://www.hugo.im/posts/code-review-in-one-year/\nComments URL: https://news.ycombinator.com/item?id=50195326\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 22 Oct 2026 13:50:24 +0000"
     }
   ]
 }
