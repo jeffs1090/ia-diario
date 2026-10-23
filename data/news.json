@@ -1,22 +1,8 @@
 {
-  "generated_at_utc": "2026-10-22T15:42:36.640425+00:00",
-  "generated_at_display": "22/10/2026 15:42 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-10-23T15:29:50.273788+00:00",
+  "generated_at_display": "23/10/2026 15:29 UTC",
+  "total_items": 19,
   "items": [
-    {
-      "source": "OpenAI Blog",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "published": "Wed, 21 Oct 2026 04:50:00 GMT"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Zilla – Use the OpenAI SDK to Call Claude and Gemini",
-      "link": "https://github.com/aklivity/zilla-demos/blob/main/llm.gateway/README.md",
-      "summary": "Article URL: https://github.com/aklivity/zilla-demos/blob/main/llm.gateway/README.md\nComments URL: https://news.ycombinator.com/item?id=50195822\nPoints: 2\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 14:23:45 +0000"
-    },
     {
       "source": "OpenAI Blog",
       "title": "OpenAI models are coming to Google Cloud",
@@ -26,24 +12,24 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation\nNews today from Anthropic:\n\nWe’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-found",
+      "published": "2026-10-22T18:09:56+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "My obituary for programming",
       "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
       "summary": "My obituary for programming\nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code:\n\nProgramming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic pu",
       "published": "2026-10-19T23:58:25+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-echo 0.5",
-      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "summary": "Release: llm-echo 0.5\n        I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now",
-      "published": "2026-10-18T23:16:16+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Reverse Engineered Claude Code Desktop – Harness Studio",
-      "link": "https://github.com/vigneshv1cky/harness-studio",
-      "summary": "Article URL: https://github.com/vigneshv1cky/harness-studio\nComments URL: https://news.ycombinator.com/item?id=50196564\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 15:14:59 +0000"
+      "source": "OpenAI Blog",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -51,6 +37,13 @@
       "link": "https://openai.com/index/forward-deployed-engineering-means",
       "summary": "What forward deployed engineering means at OpenAI",
       "published": "Thu, 22 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -74,74 +67,11 @@
       "published": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "link": "https://openai.com/index/cloudflare-cyber",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:52 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "summary": "",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
-      "title": "llm-tools-datasette 0.1.1",
-      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "summary": "Release: llm-tools-datasette 0.1.1\n        When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.\n    \n    \n        Tags: datasette, llm",
-      "published": "2026-10-18T23:43:09+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Blame it on Agent (tech parody song) [video]",
-      "link": "https://www.youtube.com/watch?v=yqeXmemXc18",
-      "summary": "Article URL: https://www.youtube.com/watch?v=yqeXmemXc18\nComments URL: https://news.ycombinator.com/item?id=50196736\nPoints: 1\n# Comments: 1",
-      "published": "Thu, 22 Oct 2026 15:27:27 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Finance Toolkit MCP with 500 financial metrics for Claude and others",
-      "link": "https://www.jeroenbouma.com/projects/financetoolkit/mcp",
-      "summary": "Worked on this project since 2019 as a Python library built out of the idea that if you simply browse online for metrics such as a P/E you will find different values on each website. The idea is that this library has all variations of each formula so that you can just ask which v",
-      "published": "Thu, 22 Oct 2026 14:46:32 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "The anatomy of a personal health agent",
-      "link": "https://www.nature.com/articles/s41586-026-11161-8",
-      "summary": "Article URL: https://www.nature.com/articles/s41586-026-11161-8\nComments URL: https://news.ycombinator.com/item?id=50195896\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 14:28:05 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "What 9,930 public agent skills tell your agent to do",
-      "link": "https://theagentforge.io/reports/skill-scan-2026-10",
-      "summary": "Article URL: https://theagentforge.io/reports/skill-scan-2026-10\nComments URL: https://news.ycombinator.com/item?id=50195645\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 14:15:05 +0000"
+      "title": "Quoting Armin Ronacher",
+      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.\n&mdash; Armin Ronacher\n\n    Tags: security, generative-ai, armin-ronacher, ai, ai-security-research, llms",
+      "published": "2026-10-22T15:34:13+00:00"
     },
     {
       "source": "Anthropic News",
@@ -152,38 +82,24 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "published": "Wed, 21 Oct 2026 13:00:00 GMT"
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "published": "Thu, 22 Oct 2026 19:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "published": "Thu, 22 Oct 2026 14:30:24 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
       "summary": "",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
+      "published": ""
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "summary": "DE STAAT - FREEDOM (Official Music Video)\nOK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat:\n \n\nThe visual effects are credited to Matties Grooten of Fake it or Leave it.\n\n    Via flir on Hacker News\n\n\n    Tags: music, ai, ",
+      "published": "2026-10-22T19:42:26+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -214,25 +130,11 @@
       "published": "2026-10-20T19:34:19+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Inline rendering with document​.currentScript",
-      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "summary": "Inline rendering with document​.currentScript\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads:\nThe year is &lt;script&gt;\ndocume",
-      "published": "2026-10-17T21:11:12+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Self-host your own Claude Artifacts",
-      "link": "https://artifactserver.com/",
-      "summary": "Article URL: https://artifactserver.com/\nComments URL: https://news.ycombinator.com/item?id=50196011\nPoints: 2\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 14:36:56 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Machines Read, Humans Sign: Code Review in One Year",
-      "link": "https://www.hugo.im/posts/code-review-in-one-year/",
-      "summary": "Article URL: https://www.hugo.im/posts/code-review-in-one-year/\nComments URL: https://news.ycombinator.com/item?id=50195326\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 22 Oct 2026 13:50:24 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
