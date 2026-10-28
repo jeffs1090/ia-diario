@@ -1,8 +1,43 @@
 {
-  "generated_at_utc": "2026-10-27T16:04:49.602289+00:00",
-  "generated_at_display": "27/10/2026 16:04 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-10-28T16:51:21.285048+00:00",
+  "generated_at_display": "28/10/2026 16:51 UTC",
+  "total_items": 25,
   "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "The October inflection point for vibe game development",
+      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflect",
+      "published": "2026-10-28T13:55:15+00:00"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
+    },
     {
       "source": "OpenAI Blog",
       "title": "Working with academic communities to build scientific understanding",
@@ -16,34 +51,6 @@
       "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
       "published": "Mon, 26 Oct 2026 13:45:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "published": "Fri, 23 Oct 2026 17:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -68,24 +75,17 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Game Boy Color on My Conference Badge",
+      "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "summary": "Game Boy Color on My Conference Badge\nI'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer.\nI've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES",
+      "published": "2026-10-27T19:34:18+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "GPT-6.1 Terra",
       "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
       "summary": "GPT-6.1 Terra\nIt's always interesting to note which aspects of a new model are emphasized in the release announcement.\nIn the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use:\n\nWe’re introducing GPT-6.1 Terra, a fast, efficient model that combines detaile",
       "published": "2026-10-26T23:53:07+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "summary": "Release: battledrones v14: Compass Rose, a four player map\n        I added four player online mode to Battledrones - previous maps were limited to two.\nHere's the initial prompt I used: \n\nAdd a new map for a four player battle - four way rotational symmetry, up to four AI players",
-      "published": "2026-10-24T03:59:57+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quick Study",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "summary": "Tool: Quick Study\n        Prompt to Claude Opus 5.5 High:\n\nBuild an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush\n\nSee also my previous experiment getting Claude Fable to simulate a",
-      "published": "2026-10-23T21:35:13+00:00"
     },
     {
       "source": "Anthropic News",
@@ -100,13 +100,6 @@
       "link": "https://openai.com/index/greptile-code-review-codex-astra",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "published": "Mon, 26 Oct 2026 22:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "published": "Mon, 26 Oct 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -145,6 +138,20 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "GitHub Octoverse 2026",
+      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "summary": "GitHub Octoverse 2026\nI'm at GitHub Universe today (GitHub gave  me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular:\n\nThis is a pretty stark representation of the impact o",
+      "published": "2026-10-28T16:45:23+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Terk Terkowitz",
+      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating t",
+      "published": "2026-10-28T10:09:07+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Jason Koebler",
       "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
       "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support",
@@ -163,20 +170,6 @@
       "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "summary": "Tool: Seam Cutter\n        I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\nI wanted this bec",
       "published": "2026-10-25T15:10:19+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Introducing Kimi K3.1 Pro",
-      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "summary": "Introducing Kimi K3.1 Pro\nKimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot  promise \"Full model weights will be released by Nov 4, 2026\".\nThey're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token",
-      "published": "2026-10-23T19:40:54+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "summary": "DE STAAT - FREEDOM (Official Music Video)\nOK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat:\n \n\nThe visual effects are credited to Matties Grooten of Fake it or Leave it.\n\n    Via flir on Hacker News\n\n\n    Tags: music, ai, ",
-      "published": "2026-10-22T19:42:26+00:00"
     },
     {
       "source": "Hacker News - AI",
