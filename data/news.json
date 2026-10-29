@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-28T16:51:21.285048+00:00",
-  "generated_at_display": "28/10/2026 16:51 UTC",
-  "total_items": 25,
+  "generated_at_utc": "2026-10-29T17:07:21.208320+00:00",
+  "generated_at_display": "29/10/2026 17:07 UTC",
+  "total_items": 33,
   "items": [
     {
       "source": "OpenAI Blog",
@@ -11,9 +11,37 @@
       "published": "Tue, 27 Oct 2026 07:00:00 GMT"
     },
     {
+      "source": "Hacker News - AI",
+      "title": "Ask HN: Agent swarm, orchestra, sequential, what's your workflow?",
+      "link": "https://news.ycombinator.com/item?id=50292324",
+      "summary": "Hi,\nSomething I've read here and there is people using LLMs for multi-agent orchestration, and I cannot fully understand the idea behind it.\nSo for those of you who do, do you not review code anymore, as you're undoubtedly the bottleneck in this setup? How does this not end up in",
+      "published": "Thu, 29 Oct 2026 17:01:54 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Give your coding agent a verification harness to check its code",
+      "link": "https://www.heal.dev/verification-harness",
+      "summary": "Article URL: https://www.heal.dev/verification-harness\nComments URL: https://news.ycombinator.com/item?id=50290899\nPoints: 4\n# Comments: 1",
+      "published": "Thu, 29 Oct 2026 15:44:16 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "published": "Thu, 29 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "published": "Wed, 28 Oct 2026 13:15:00 GMT"
+    },
+    {
       "source": "OpenAI Blog",
       "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "link": "https://openai.com/index/legora",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "published": "Wed, 28 Oct 2026 09:30:00 GMT"
     },
@@ -26,10 +54,31 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Ben Hylak",
+      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.\nexcept for our product, of course. \nin our product, customers love the ui and love us very much.\nwe're special that way.\n&mdash; Ben Hylak\n\n    Tags",
+      "published": "2026-10-29T14:06:27+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "The October inflection point for vibe game development",
       "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
       "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflect",
       "published": "2026-10-28T13:55:15+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Anthropomorphize Your AI Agent for Fun and Profit",
+      "link": "https://theautomatedoperator.substack.com/p/anthropomorphize-your-ai-agent-for",
+      "summary": "Article URL: https://theautomatedoperator.substack.com/p/anthropomorphize-your-ai-agent-for\nComments URL: https://news.ycombinator.com/item?id=50291847\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 29 Oct 2026 16:37:11 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Luma – smart launcher for you, and your AI agent",
+      "link": "https://github.com/sakurartro/luma",
+      "summary": "Article URL: https://github.com/sakurartro/luma\nComments URL: https://news.ycombinator.com/item?id=50291733\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 29 Oct 2026 16:30:06 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -39,18 +88,11 @@
       "published": "Tue, 27 Oct 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "published": "Mon, 26 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "published": "Mon, 26 Oct 2026 13:45:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "published": "Wed, 28 Oct 2026 17:00:58 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -75,6 +117,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Ted Sanders",
+      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: ",
+      "published": "2026-10-28T23:23:21+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Game Boy Color on My Conference Badge",
       "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "summary": "Game Boy Color on My Conference Badge\nI'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer.\nI've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES",
@@ -88,11 +137,32 @@
       "published": "2026-10-26T23:53:07+00:00"
     },
     {
+      "source": "Hacker News - AI",
+      "title": "Show HN: SLCR – An open standard for agent-native software requirements",
+      "link": "https://slcr.dev/",
+      "summary": "Article URL: https://slcr.dev/\nComments URL: https://news.ycombinator.com/item?id=50291963\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 29 Oct 2026 16:43:21 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Claude Scrub - redact secrets from Claude Code history on disk",
+      "link": "https://github.com/overflowy/claude-scrub",
+      "summary": "Article URL: https://github.com/overflowy/claude-scrub\nComments URL: https://news.ycombinator.com/item?id=50291192\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 29 Oct 2026 16:01:16 +0000"
+    },
+    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -130,13 +200,6 @@
       "published": "Wed, 14 Oct 2026 02:00:14 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "summary": "",
-      "published": "Tue, 06 Oct 2026 19:57:04 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "GitHub Octoverse 2026",
       "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
@@ -158,25 +221,18 @@
       "published": "2026-10-26T19:00:25+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "webframe: evaluated as a scraper and a sandbox",
-      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "summary": "Research: webframe: evaluated as a scraper and a sandbox\n        webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standa",
-      "published": "2026-10-26T16:15:00+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Seam Cutter",
-      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-      "summary": "Tool: Seam Cutter\n        I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\nI wanted this bec",
-      "published": "2026-10-25T15:10:19+00:00"
+      "source": "Hacker News - AI",
+      "title": "Stopping Remote Code Execution with Sandboxes",
+      "link": "https://cosmonic.com/blog/stopping-remote-code-execution-with-a-sandbox/",
+      "summary": "Article URL: https://cosmonic.com/blog/stopping-remote-code-execution-with-a-sandbox/\nComments URL: https://news.ycombinator.com/item?id=50291354\nPoints: 2\n# Comments: 1",
+      "published": "Thu, 29 Oct 2026 16:10:57 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Embrace: RCE, Address Bar Spoofing and More in Cursor, Codex, Copilot and Claude",
+      "link": "https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/",
+      "summary": "Article URL: https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/\nComments URL: https://news.ycombinator.com/item?id=50291043\nPoints: 3\n# Comments: 0",
+      "published": "Thu, 29 Oct 2026 15:52:35 +0000"
     }
   ]
 }
