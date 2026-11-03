@@ -1,21 +1,42 @@
 {
-  "generated_at_utc": "2026-11-02T20:32:19.616832+00:00",
-  "generated_at_display": "02/11/2026 20:32 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-11-03T18:06:38.110887+00:00",
+  "generated_at_display": "03/11/2026 18:06 UTC",
+  "total_items": 33,
   "items": [
     {
-      "source": "OpenAI Blog",
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "published": "Thu, 29 Oct 2026 09:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm 0.37",
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
+      "summary": "Release: llm 0.37\n        There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.\nI added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to con",
+      "published": "2026-11-02T23:49:30+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-llm 0.1a9",
-      "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a9\n        I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. \nIt now picks up the default model used by LLM, which means you can start using ",
-      "published": "2026-10-31T22:10:01+00:00"
+      "source": "Hacker News - AI",
+      "title": "Eval-production behavior gaps in agent safety and the role of eval-awareness",
+      "link": "https://alignment.openai.com/eval-production-behavior-gap/",
+      "summary": "Article URL: https://alignment.openai.com/eval-production-behavior-gap/\nComments URL: https://news.ycombinator.com/item?id=50355600\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 18:01:38 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: AIStoreHub – 1-Click CLI to Configure MCP Servers in Cursor and Claude",
+      "link": "https://pypi.org/project/aistorehub/",
+      "summary": "We built this CLI (pip install aistorehub) to eliminate JSON syntax errors and missing $PATH binary crashes when adding Model Context Protocol servers to Cursor, Claude Desktop, and Windsurf.Website & Registry: https://aistorehub.in\nDocumentation: https://aistorehub.in/docs\n\nComm",
+      "published": "Tue, 03 Nov 2026 17:33:25 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "published": "Mon, 02 Nov 2026 15:30:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -26,31 +47,31 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "published": "Fri, 30 Oct 2026 09:30:00 GMT"
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "published": "Fri, 30 Oct 2026 09:00:00 GMT"
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT"
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "published": "Thu, 29 Oct 2026 17:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "published": "Tue, 03 Nov 2026 17:01:49 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -67,11 +88,18 @@
       "published": "Tue, 13 Oct 2026 19:43:07 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 16:01:58 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both interpret and modify the ",
+      "published": "2026-11-03T16:29:48+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "October sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month:\n\nThe October inflection point for vibe game development\nThe vulnerability apocalypse gets hot\nLLM releases\nAPI credits for ",
+      "published": "2026-11-03T05:28:59+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -88,18 +116,25 @@
       "published": "2026-10-31T23:15:22+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "summary": "API credits benefit for eligible ChatGPT subscriptions\nEarlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic ",
-      "published": "2026-10-29T22:48:29+00:00"
+      "source": "Hacker News - AI",
+      "title": "Show HN: FinZot – financial planning Claude connector for US taxpayers",
+      "link": "https://claude.ai/directory/finzot/",
+      "summary": "I built a financial planning calculator similar in depth to ProjectionLab that has a full MCP that can be used from a Claude Connector.I have used Claude and the FinZot MCP to set up my plan from scratch including configuring my RSU schedule, creating multiple scenarios around ea",
+      "published": "Tue, 03 Nov 2026 18:04:04 +0000"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "summary": "How I Built the Most AI-Pilled Company in the World\nDon't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier model",
-      "published": "2026-10-29T17:00:26+00:00"
+      "source": "Hacker News - AI",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "link": "https://github.com/andrewboldi/tmux-restore",
+      "summary": "Article URL: https://github.com/andrewboldi/tmux-restore\nComments URL: https://news.ycombinator.com/item?id=50355009\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 17:25:21 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Not All Agent Sandboxes Are Created Equally",
+      "link": "https://kagent.dev/blog/agent-sandboxes-four-axes",
+      "summary": "Article URL: https://kagent.dev/blog/agent-sandboxes-four-axes\nComments URL: https://news.ycombinator.com/item?id=50354428\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 16:52:21 +0000"
     },
     {
       "source": "Anthropic News",
@@ -159,6 +194,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "summary": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube\nGenius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross referen",
+      "published": "2026-11-03T05:32:25+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "The U.S. Census Bureau and “Super Intelligence”",
       "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
       "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used tha",
@@ -172,18 +214,25 @@
       "published": "2026-11-01T23:24:22+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "dbreunig/nesformer",
-      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "summary": "dbreunig/nesformer\nInspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen!\nIn a comment on H",
-      "published": "2026-10-30T21:59:22+00:00"
+      "source": "Hacker News - AI",
+      "title": "Atomic – Describe an app in plain language, get working code you can download",
+      "link": "https://atomicapp.dev/",
+      "summary": "Article URL: https://atomicapp.dev/\nComments URL: https://news.ycombinator.com/item?id=50355387\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 17:48:20 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Show HN: Slopgrid – create your own AI model benchmarks without code",
+      "link": "https://slopgrid.com/",
+      "summary": "Article URL: https://slopgrid.com/\nComments URL: https://news.ycombinator.com/item?id=50355020\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 17:26:05 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Claude bots driven by Glyphh learn from precedent in real time",
+      "link": "https://glyphh.ai/blog/a-bot-that-learned-its-job",
+      "summary": "Article URL: https://glyphh.ai/blog/a-bot-that-learned-its-job\nComments URL: https://news.ycombinator.com/item?id=50354820\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 03 Nov 2026 17:14:55 +0000"
     }
   ]
 }
