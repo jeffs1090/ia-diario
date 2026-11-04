@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-03T18:06:38.110887+00:00",
-  "generated_at_display": "03/11/2026 18:06 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-11-04T18:15:55.635076+00:00",
+  "generated_at_display": "04/11/2026 18:15 UTC",
+  "total_items": 26,
   "items": [
     {
       "source": "Simon Willison (LLM/agents)",
@@ -12,17 +12,38 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Eval-production behavior gaps in agent safety and the role of eval-awareness",
-      "link": "https://alignment.openai.com/eval-production-behavior-gap/",
-      "summary": "Article URL: https://alignment.openai.com/eval-production-behavior-gap/\nComments URL: https://news.ycombinator.com/item?id=50355600\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 18:01:38 +0000"
+      "title": "Accenture Contractor Linked Personal Claude AI Agent to Pentagon System",
+      "link": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
+      "summary": "Article URL: https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425\nComments URL: https://news.ycombinator.com/item?id=50369356\nPoints: 4\n# Comments: 0",
+      "published": "Wed, 04 Nov 2026 18:11:21 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: AIStoreHub – 1-Click CLI to Configure MCP Servers in Cursor and Claude",
-      "link": "https://pypi.org/project/aistorehub/",
-      "summary": "We built this CLI (pip install aistorehub) to eliminate JSON syntax errors and missing $PATH binary crashes when adding Model Context Protocol servers to Cursor, Claude Desktop, and Windsurf.Website & Registry: https://aistorehub.in\nDocumentation: https://aistorehub.in/docs\n\nComm",
-      "published": "Tue, 03 Nov 2026 17:33:25 +0000"
+      "title": "Ask HN: Which agent harness do you use for working with multiple Models?",
+      "link": "https://news.ycombinator.com/item?id=50369140",
+      "summary": "There is a lot of stuff out there at the moment, from Multiplexer tools such as herdr and Rex, classic Tmux/CLI setups, OpenCode and pi, Codex talking to Claude and vice versa.Some people have minimal setups like Claude and ChatGPT models talking to each other via .md files, whil",
+      "published": "Wed, 04 Nov 2026 17:54:45 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Maki: An Efficient Coding Agent",
+      "link": "https://github.com/tontinton/maki",
+      "summary": "Article URL: https://github.com/tontinton/maki\nComments URL: https://news.ycombinator.com/item?id=50368651\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 04 Nov 2026 17:19:55 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "published": "Wed, 04 Nov 2026 14:30:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -30,6 +51,13 @@
       "link": "https://openai.com/index/heimstaden",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -46,52 +74,10 @@
       "published": "Mon, 02 Nov 2026 15:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "published": "Tue, 03 Nov 2026 17:01:49 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "published": "Wed, 28 Oct 2026 17:00:58 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "summary": "",
-      "published": "Tue, 13 Oct 2026 19:43:07 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both interpret and modify the ",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier",
       "published": "2026-11-03T16:29:48+00:00"
     },
     {
@@ -117,24 +103,31 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: FinZot – financial planning Claude connector for US taxpayers",
-      "link": "https://claude.ai/directory/finzot/",
-      "summary": "I built a financial planning calculator similar in depth to ProjectionLab that has a full MCP that can be used from a Claude Connector.I have used Claude and the FinZot MCP to set up my plan from scratch including configuring my RSU schedule, creating multiple scenarios around ea",
-      "published": "Tue, 03 Nov 2026 18:04:04 +0000"
+      "title": "Uncle Bob's Agent Skill",
+      "link": "https://github.com/unclebob/ub-mode",
+      "summary": "Article URL: https://github.com/unclebob/ub-mode\nComments URL: https://news.ycombinator.com/item?id=50369325\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 04 Nov 2026 18:09:17 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "link": "https://github.com/andrewboldi/tmux-restore",
-      "summary": "Article URL: https://github.com/andrewboldi/tmux-restore\nComments URL: https://news.ycombinator.com/item?id=50355009\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 17:25:21 +0000"
+      "title": "Show HN: An open source repo to use your personal context with any agent",
+      "link": "https://predsymod.github.io/memex/",
+      "summary": "Article URL: https://predsymod.github.io/memex/\nComments URL: https://news.ycombinator.com/item?id=50369251\nPoints: 3\n# Comments: 0",
+      "published": "Wed, 04 Nov 2026 18:04:10 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Not All Agent Sandboxes Are Created Equally",
-      "link": "https://kagent.dev/blog/agent-sandboxes-four-axes",
-      "summary": "Article URL: https://kagent.dev/blog/agent-sandboxes-four-axes\nComments URL: https://news.ycombinator.com/item?id=50354428\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 16:52:21 +0000"
+      "title": "Agent-Based Modeling: Worlds Within Worlds",
+      "link": "https://santafe.edu/features/agent-based-modeling-worlds-within-worlds",
+      "summary": "Article URL: https://santafe.edu/features/agent-based-modeling-worlds-within-worlds\nComments URL: https://news.ycombinator.com/item?id=50369178\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 04 Nov 2026 17:58:01 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: CXAgent – a multi-agent coding workbench for the terminal, in .NET",
+      "link": "https://nickprotop.github.io/cxagent/",
+      "summary": "Article URL: https://nickprotop.github.io/cxagent/\nComments URL: https://news.ycombinator.com/item?id=50368887\nPoints: 1\n# Comments: 1",
+      "published": "Wed, 04 Nov 2026 17:37:35 +0000"
     },
     {
       "source": "Anthropic News",
@@ -145,52 +138,24 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "LifeVal",
-      "link": "https://openai.com/index/lifeval",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "published": "Mon, 02 Nov 2026 09:00:00 GMT"
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "published": "Wed, 04 Nov 2026 07:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "published": "Fri, 30 Oct 2026 14:18:30 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "published": "Tue, 27 Oct 2026 16:01:38 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "published": "Thu, 22 Oct 2026 14:30:24 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "published": ""
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -215,24 +180,10 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Atomic – Describe an app in plain language, get working code you can download",
-      "link": "https://atomicapp.dev/",
-      "summary": "Article URL: https://atomicapp.dev/\nComments URL: https://news.ycombinator.com/item?id=50355387\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 17:48:20 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Slopgrid – create your own AI model benchmarks without code",
-      "link": "https://slopgrid.com/",
-      "summary": "Article URL: https://slopgrid.com/\nComments URL: https://news.ycombinator.com/item?id=50355020\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 17:26:05 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Claude bots driven by Glyphh learn from precedent in real time",
-      "link": "https://glyphh.ai/blog/a-bot-that-learned-its-job",
-      "summary": "Article URL: https://glyphh.ai/blog/a-bot-that-learned-its-job\nComments URL: https://news.ycombinator.com/item?id=50354820\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 03 Nov 2026 17:14:55 +0000"
+      "title": "What even is code mode?",
+      "link": "https://polylane.com/blog/what-even-is-code-mode/",
+      "summary": "Article URL: https://polylane.com/blog/what-even-is-code-mode/\nComments URL: https://news.ycombinator.com/item?id=50368784\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 04 Nov 2026 17:30:36 +0000"
     }
   ]
 }
