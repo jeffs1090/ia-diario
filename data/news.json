@@ -1,35 +1,28 @@
 {
-  "generated_at_utc": "2026-11-04T18:15:55.635076+00:00",
-  "generated_at_display": "04/11/2026 18:15 UTC",
+  "generated_at_utc": "2026-11-05T18:21:30.975055+00:00",
+  "generated_at_display": "05/11/2026 18:21 UTC",
   "total_items": 26,
   "items": [
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "llm 0.37",
-      "link": "https://simonwillison.net/2026/Nov/2/llm/",
-      "summary": "Release: llm 0.37\n        There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.\nI added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command to make it easier to con",
-      "published": "2026-11-02T23:49:30+00:00"
+      "title": "datasette-llm 0.1a10",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "summary": "Release: datasette-llm 0.1a10\n        Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration.\n    \n    \n        Tags: datasette, llm",
+      "published": "2026-11-04T15:26:02+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Accenture Contractor Linked Personal Claude AI Agent to Pentagon System",
-      "link": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
-      "summary": "Article URL: https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425\nComments URL: https://news.ycombinator.com/item?id=50369356\nPoints: 4\n# Comments: 0",
-      "published": "Wed, 04 Nov 2026 18:11:21 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-apps 0.3a0",
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "summary": "Release: datasette-apps 0.3a0\n        Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.\nThese can be created by hand, but it's easier to create them using LLMs via Datasette Agent. This release improves that integration:\n\n\nApps can ",
+      "published": "2026-11-04T00:29:36+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Ask HN: Which agent harness do you use for working with multiple Models?",
-      "link": "https://news.ycombinator.com/item?id=50369140",
-      "summary": "There is a lot of stuff out there at the moment, from Multiplexer tools such as herdr and Rex, classic Tmux/CLI setups, OpenCode and pi, Codex talking to Claude and vice versa.Some people have minimal setups like Claude and ChatGPT models talking to each other via .md files, whil",
-      "published": "Wed, 04 Nov 2026 17:54:45 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Maki: An Efficient Coding Agent",
-      "link": "https://github.com/tontinton/maki",
-      "summary": "Article URL: https://github.com/tontinton/maki\nComments URL: https://news.ycombinator.com/item?id=50368651\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 04 Nov 2026 17:19:55 +0000"
+      "source": "OpenAI Blog",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "published": "Thu, 05 Nov 2026 02:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -40,38 +33,52 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "published": "Wed, 04 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "How Cisco defends at machine speed with OpenAI",
       "link": "https://openai.com/index/cisco-cyber",
       "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
       "published": "Tue, 03 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 17:05:16 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "published": "Tue, 03 Nov 2026 17:01:49 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "published": "Mon, 02 Nov 2026 15:30:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "summary": "",
+      "published": "Wed, 28 Oct 2026 17:00:58 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "published": "Mon, 02 Nov 2026 15:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-agent 0.5a0",
+      "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "summary": "Release: datasette-agent 0.5a0\n        This is a significant release of Datasette Agent. The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page.\nWhen combined with datasette-apps ",
+      "published": "2026-11-03T23:13:45+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm 0.37.1",
+      "link": "https://simonwillison.net/2026/Nov/3/llm/",
+      "summary": "Release: llm 0.37.1\n        A bugfix release for LLM, with contributions from Steven Huang, Tao An, Arjan Mossel, and XQ.\n    \n    \n        Tags: llm",
+      "published": "2026-11-03T21:41:42+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -86,48 +93,6 @@
       "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
       "summary": "I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month:\n\nThe October inflection point for vibe game development\nThe vulnerability apocalypse gets hot\nLLM releases\nAPI credits for ",
       "published": "2026-11-03T05:28:59+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Kyle Kingsbury",
-      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to coun",
-      "published": "2026-11-01T16:49:04+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "How We Took Over ChatGPT Accounts",
-      "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "summary": "How We Took Over ChatGPT Accounts\nParameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are disp",
-      "published": "2026-10-31T23:15:22+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Uncle Bob's Agent Skill",
-      "link": "https://github.com/unclebob/ub-mode",
-      "summary": "Article URL: https://github.com/unclebob/ub-mode\nComments URL: https://news.ycombinator.com/item?id=50369325\nPoints: 2\n# Comments: 0",
-      "published": "Wed, 04 Nov 2026 18:09:17 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: An open source repo to use your personal context with any agent",
-      "link": "https://predsymod.github.io/memex/",
-      "summary": "Article URL: https://predsymod.github.io/memex/\nComments URL: https://news.ycombinator.com/item?id=50369251\nPoints: 3\n# Comments: 0",
-      "published": "Wed, 04 Nov 2026 18:04:10 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Agent-Based Modeling: Worlds Within Worlds",
-      "link": "https://santafe.edu/features/agent-based-modeling-worlds-within-worlds",
-      "summary": "Article URL: https://santafe.edu/features/agent-based-modeling-worlds-within-worlds\nComments URL: https://news.ycombinator.com/item?id=50369178\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 04 Nov 2026 17:58:01 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: CXAgent – a multi-agent coding workbench for the terminal, in .NET",
-      "link": "https://nickprotop.github.io/cxagent/",
-      "summary": "Article URL: https://nickprotop.github.io/cxagent/\nComments URL: https://news.ycombinator.com/item?id=50368887\nPoints: 1\n# Comments: 1",
-      "published": "Wed, 04 Nov 2026 17:37:35 +0000"
     },
     {
       "source": "Anthropic News",
@@ -145,6 +110,20 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Accelerating engineering for the physical world",
       "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
@@ -152,10 +131,45 @@
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "published": ""
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "published": "Fri, 30 Oct 2026 14:18:30 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "published": "Tue, 27 Oct 2026 16:01:38 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "published": "Thu, 22 Oct 2026 14:30:24 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Paul Ford",
+      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day.\n&mdash; Paul Ford, The Web Is More Than Enough\n\n    Tags: browsers, paul-ford, web-development",
+      "published": "2026-11-05T17:34:03+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -165,25 +179,11 @@
       "published": "2026-11-03T05:32:25+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "The U.S. Census Bureau and “Super Intelligence”",
-      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used tha",
-      "published": "2026-11-02T13:31:26+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "If in doubt, delete the uv.lock file",
-      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:\nIf in doubt, delete the uv.lock file\nMost of my projects are libraries which don't include a uv.lock file, since it's rude for a library ",
-      "published": "2026-11-01T23:24:22+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "What even is code mode?",
-      "link": "https://polylane.com/blog/what-even-is-code-mode/",
-      "summary": "Article URL: https://polylane.com/blog/what-even-is-code-mode/\nComments URL: https://news.ycombinator.com/item?id=50368784\nPoints: 2\n# Comments: 0",
-      "published": "Wed, 04 Nov 2026 17:30:36 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
