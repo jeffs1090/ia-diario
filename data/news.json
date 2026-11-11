@@ -1,14 +1,21 @@
 {
-  "generated_at_utc": "2026-11-10T18:20:13.704250+00:00",
-  "generated_at_display": "10/11/2026 18:20 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-11-11T18:10:23.101632+00:00",
+  "generated_at_display": "11/11/2026 18:10 UTC",
+  "total_items": 33,
   "items": [
     {
       "source": "OpenAI Blog",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "link": "https://openai.com/index/cogent-security",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm-gemini 0.36",
+      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "summary": "Release: llm-gemini 0.36\n        Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else.\nThis is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude S",
+      "published": "2026-11-10T20:09:44+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -23,6 +30,34 @@
       "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
       "summary": "Release: llm-anthropic 0.31\n        Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis. Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambi",
       "published": "2026-11-09T23:58:46+00:00"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Talos 0.20 – A self-hosted AI agent with a permission kernel",
+      "link": "https://github.com/talos-kernel/Talos",
+      "summary": "Article URL: https://github.com/talos-kernel/Talos\nComments URL: https://news.ycombinator.com/item?id=50456323\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:55:37 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Grok Build coding agent leaks oodles of confidential info",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/\nComments URL: https://news.ycombinator.com/item?id=50456277\nPoints: 4\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:53:23 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "I found an API key leak in MLflow, and why your AI agent may have one too",
+      "link": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
+      "summary": "Article URL: https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md\nComments URL: https://news.ycombinator.com/item?id=50456049\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 11 Nov 2026 17:33:57 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Building a Harness for a Voice Agent",
+      "link": "https://blog.heycall-e.com/beyond-the-model/",
+      "summary": "Article URL: https://blog.heycall-e.com/beyond-the-model/\nComments URL: https://news.ycombinator.com/item?id=50456031\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:32:42 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -40,31 +75,17 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "link": "https://openai.com/index/ai-effect-on-freelance-work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "published": "Tue, 10 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "link": "https://openai.com/index/control-room",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "published": "Mon, 09 Nov 2026 13:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "link": "https://openai.com/index/kuken",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -110,6 +131,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Anthropic's IPO roadshow video",
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "summary": "Anthropic&#x27;s IPO roadshow video\nAnthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.\nThe section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, d",
+      "published": "2026-11-11T15:11:59+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
       "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
       "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:\n\n[...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat",
@@ -123,11 +151,11 @@
       "published": "2026-11-10T03:53:04+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Hide your slop PR descriptions behind <details><summary>",
-      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished res",
-      "published": "2026-11-09T04:25:05+00:00"
+      "source": "Hacker News - AI",
+      "title": "An Agent Multiplext is not all you need",
+      "link": "https://markhalstrom.com/posts/an-agent-multiplexer-is-not-all-you-need/",
+      "summary": "Article URL: https://markhalstrom.com/posts/an-agent-multiplexer-is-not-all-you-need/\nComments URL: https://news.ycombinator.com/item?id=50455890\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:18:56 +0000"
     },
     {
       "source": "Anthropic News",
@@ -138,10 +166,31 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "published": "Wed, 11 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "published": "Tue, 10 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "published": "Wed, 11 Nov 2026 15:00:15 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -149,13 +198,6 @@
       "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
       "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
       "published": "Fri, 30 Oct 2026 14:18:30 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "published": "Tue, 27 Oct 2026 16:01:38 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -172,18 +214,25 @@
       "published": "2026-11-09T04:32:33+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-      "summary": "Research: parse_number() as a SQLite extension: C vs Rust\n        I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values",
-      "published": "2026-11-08T22:26:00+00:00"
+      "source": "Hacker News - AI",
+      "title": "Dry Soup: this holiday season you need to choose a family code word",
+      "link": "https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html",
+      "summary": "Article URL: https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html\nComments URL: https://news.ycombinator.com/item?id=50456160\nPoints: 2\n# Comments: 1",
+      "published": "Wed, 11 Nov 2026 17:43:36 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Revu – Code review in times of AI",
+      "link": "https://revu.enspirit.dev/",
+      "summary": "Article URL: https://revu.enspirit.dev/\nComments URL: https://news.ycombinator.com/item?id=50456123\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:39:48 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Google Summer of Code 2026 results",
+      "link": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+      "summary": "Article URL: https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/\nComments URL: https://news.ycombinator.com/item?id=50456083\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 11 Nov 2026 17:37:01 +0000"
     }
   ]
 }
