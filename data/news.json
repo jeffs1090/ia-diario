@@ -1,14 +1,21 @@
 {
-  "generated_at_utc": "2026-11-11T18:10:23.101632+00:00",
-  "generated_at_display": "11/11/2026 18:10 UTC",
+  "generated_at_utc": "2026-11-12T18:37:54.136152+00:00",
+  "generated_at_display": "12/11/2026 18:37 UTC",
   "total_items": 33,
   "items": [
     {
-      "source": "OpenAI Blog",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "link": "https://openai.com/index/cogent-security",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Gemini Decisions API",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "summary": "Gemini Decisions API\nGoogle join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/n",
+      "published": "2026-11-11T22:03:25+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm 0.37.2",
+      "link": "https://simonwillison.net/2026/Nov/11/llm/",
+      "summary": "Release: llm 0.37.2\n        Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w.\nLLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compati",
+      "published": "2026-11-11T17:19:52+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -21,43 +28,15 @@
       "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Prompting Claude Fable 5.2",
       "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure,",
+      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplic",
       "published": "2026-11-10T05:34:14+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-anthropic 0.31",
-      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-      "summary": "Release: llm-anthropic 0.31\n        Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis. Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambi",
-      "published": "2026-11-09T23:58:46+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Talos 0.20 – A self-hosted AI agent with a permission kernel",
-      "link": "https://github.com/talos-kernel/Talos",
-      "summary": "Article URL: https://github.com/talos-kernel/Talos\nComments URL: https://news.ycombinator.com/item?id=50456323\nPoints: 2\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:55:37 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Grok Build coding agent leaks oodles of confidential info",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "summary": "Article URL: https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/\nComments URL: https://news.ycombinator.com/item?id=50456277\nPoints: 4\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:53:23 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "I found an API key leak in MLflow, and why your AI agent may have one too",
-      "link": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
-      "summary": "Article URL: https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md\nComments URL: https://news.ycombinator.com/item?id=50456049\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 11 Nov 2026 17:33:57 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Building a Harness for a Voice Agent",
-      "link": "https://blog.heycall-e.com/beyond-the-model/",
-      "summary": "Article URL: https://blog.heycall-e.com/beyond-the-model/\nComments URL: https://news.ycombinator.com/item?id=50456031\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:32:42 +0000"
+      "source": "OpenAI Blog",
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -74,18 +53,11 @@
       "published": "Tue, 10 Nov 2026 09:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "link": "https://openai.com/index/singapore-airlines-travel-work",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "link": "https://openai.com/index/ai-effect-on-freelance-work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "published": "Thu, 12 Nov 2026 18:00:50 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -123,11 +95,11 @@
       "published": "Tue, 03 Nov 2026 17:01:49 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "summary": "",
-      "published": "Wed, 28 Oct 2026 17:00:58 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "aws-emulator",
+      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "summary": "aws-emulator\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.\nIt's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Sw",
+      "published": "2026-11-11T21:18:30+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -144,18 +116,32 @@
       "published": "2026-11-10T07:28:21+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Yonkers Rises",
-      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-      "summary": "Tool: Yonkers Rises\n        I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to:\n\nMake a three j",
-      "published": "2026-11-10T03:53:04+00:00"
+      "source": "Hacker News - AI",
+      "title": "Agent Sandboxes in Pydantic Logfire",
+      "link": "https://pydantic.dev/logfire/agent-sandboxes",
+      "summary": "Article URL: https://pydantic.dev/logfire/agent-sandboxes\nComments URL: https://news.ycombinator.com/item?id=50471923\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 12 Nov 2026 18:31:40 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "An Agent Multiplext is not all you need",
-      "link": "https://markhalstrom.com/posts/an-agent-multiplexer-is-not-all-you-need/",
-      "summary": "Article URL: https://markhalstrom.com/posts/an-agent-multiplexer-is-not-all-you-need/\nComments URL: https://news.ycombinator.com/item?id=50455890\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:18:56 +0000"
+      "title": "Does it help code quality if agents encode their intents?",
+      "link": "https://rapidreview.dev/blog/does-it-help-code-quality-if-agents-encode-their-intents",
+      "summary": "Article URL: https://rapidreview.dev/blog/does-it-help-code-quality-if-agents-encode-their-intents\nComments URL: https://news.ycombinator.com/item?id=50470219\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 12 Nov 2026 16:44:38 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Relate by Neo4j – embedded, agent-native graph database",
+      "link": "https://github.com/relatedb/relate",
+      "summary": "Article URL: https://github.com/relatedb/relate\nComments URL: https://news.ycombinator.com/item?id=50469300\nPoints: 5\n# Comments: 1",
+      "published": "Thu, 12 Nov 2026 15:45:07 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Cinnamon AI – an agent for your family",
+      "link": "https://getcinnamon.ai/",
+      "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50469267\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 12 Nov 2026 15:43:31 +0000"
     },
     {
       "source": "Anthropic News",
@@ -163,6 +149,13 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "published": "Thu, 12 Nov 2026 09:30:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -177,6 +170,13 @@
       "link": "https://openai.com/index/chatgpt-plus-for-veterans",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "published": "Wed, 11 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -201,38 +201,38 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Locating the source of a mysterious beep with Claude",
-      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. The beeps were far enough apart that standing in the room and trying to determine the source of the noise was fr",
-      "published": "2026-11-09T23:57:21+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News.OK, this comment convinced me to give that a shot.\nHere's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB)\n",
-      "published": "2026-11-09T04:32:33+00:00"
+      "title": "Browse tools.simonwillison.net by tag",
+      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "summary": "Browse tools.simonwillison.net by tag\nI've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript",
+      "published": "2026-11-11T18:42:50+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Dry Soup: this holiday season you need to choose a family code word",
-      "link": "https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html",
-      "summary": "Article URL: https://blog.jgc.org/2026/11/dry-soup-this-holiday-season-you-need.html\nComments URL: https://news.ycombinator.com/item?id=50456160\nPoints: 2\n# Comments: 1",
-      "published": "Wed, 11 Nov 2026 17:43:36 +0000"
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 4\n# Comments: 0",
+      "published": "Thu, 12 Nov 2026 18:22:22 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Revu – Code review in times of AI",
-      "link": "https://revu.enspirit.dev/",
-      "summary": "Article URL: https://revu.enspirit.dev/\nComments URL: https://news.ycombinator.com/item?id=50456123\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:39:48 +0000"
+      "title": "Near AI Gateway: Easily Use Private AI from Claude, Codex and Open Code",
+      "link": "https://gateway.near.ai",
+      "summary": "Article URL: https://gateway.near.ai\nComments URL: https://news.ycombinator.com/item?id=50470680\nPoints: 3\n# Comments: 0",
+      "published": "Thu, 12 Nov 2026 17:14:28 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Google Summer of Code 2026 results",
-      "link": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
-      "summary": "Article URL: https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/\nComments URL: https://news.ycombinator.com/item?id=50456083\nPoints: 1\n# Comments: 0",
-      "published": "Wed, 11 Nov 2026 17:37:01 +0000"
+      "title": "Claude the Business Analyst",
+      "link": "https://theautomatedoperator.substack.com/p/claude-the-business-analyst",
+      "summary": "Article URL: https://theautomatedoperator.substack.com/p/claude-the-business-analyst\nComments URL: https://news.ycombinator.com/item?id=50470309\nPoints: 1\n# Comments: 1",
+      "published": "Thu, 12 Nov 2026 16:50:13 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Proschi – architecture diagrams as code that simulate load and failures",
+      "link": "https://proschi.app/",
+      "summary": "Article URL: https://proschi.app/\nComments URL: https://news.ycombinator.com/item?id=50469805\nPoints: 1\n# Comments: 0",
+      "published": "Thu, 12 Nov 2026 16:16:51 +0000"
     }
   ]
 }
