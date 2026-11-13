@@ -1,8 +1,22 @@
 {
-  "generated_at_utc": "2026-11-12T18:37:54.136152+00:00",
-  "generated_at_display": "12/11/2026 18:37 UTC",
-  "total_items": 33,
+  "generated_at_utc": "2026-11-13T18:11:30.932467+00:00",
+  "generated_at_display": "13/11/2026 18:11 UTC",
+  "total_items": 26,
   "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "published": "Thu, 12 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm-gemini 0.37",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "summary": "Release: llm-gemini 0.37\n        Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.\nIt's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing sch",
+      "published": "2026-11-12T22:55:19+00:00"
+    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "Gemini Decisions API",
@@ -25,11 +39,11 @@
       "published": "2026-11-10T20:09:44+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplic",
-      "published": "2026-11-10T05:34:14+00:00"
+      "source": "OpenAI Blog",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "published": "Fri, 13 Nov 2026 15:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -37,62 +51,6 @@
       "link": "https://openai.com/index/children-first-declaration",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "published": "Thu, 12 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "published": "Tue, 10 Nov 2026 12:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Closing the AI guidance gap in education",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "published": "Tue, 10 Nov 2026 09:00:00 GMT"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "summary": "",
-      "published": "Thu, 12 Nov 2026 18:00:50 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "summary": "",
-      "published": "Tue, 10 Nov 2026 16:03:47 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-      "published": "Tue, 10 Nov 2026 12:02:28 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "published": "Mon, 09 Nov 2026 19:51:47 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "published": "Thu, 05 Nov 2026 17:05:16 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "published": "Tue, 03 Nov 2026 17:01:49 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -117,31 +75,17 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "Agent Sandboxes in Pydantic Logfire",
-      "link": "https://pydantic.dev/logfire/agent-sandboxes",
-      "summary": "Article URL: https://pydantic.dev/logfire/agent-sandboxes\nComments URL: https://news.ycombinator.com/item?id=50471923\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 12 Nov 2026 18:31:40 +0000"
+      "title": "How Allspice built a frontier hardware design agent",
+      "link": "https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent",
+      "summary": "Article URL: https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent\nComments URL: https://news.ycombinator.com/item?id=50487142\nPoints: 1\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 17:53:03 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Does it help code quality if agents encode their intents?",
-      "link": "https://rapidreview.dev/blog/does-it-help-code-quality-if-agents-encode-their-intents",
-      "summary": "Article URL: https://rapidreview.dev/blog/does-it-help-code-quality-if-agents-encode-their-intents\nComments URL: https://news.ycombinator.com/item?id=50470219\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 12 Nov 2026 16:44:38 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Relate by Neo4j – embedded, agent-native graph database",
-      "link": "https://github.com/relatedb/relate",
-      "summary": "Article URL: https://github.com/relatedb/relate\nComments URL: https://news.ycombinator.com/item?id=50469300\nPoints: 5\n# Comments: 1",
-      "published": "Thu, 12 Nov 2026 15:45:07 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Cinnamon AI – an agent for your family",
-      "link": "https://getcinnamon.ai/",
-      "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50469267\nPoints: 1\n# Comments: 1",
-      "published": "Thu, 12 Nov 2026 15:43:31 +0000"
+      "title": "Agent Anomaly Detection scores on benchmarks we didn't write",
+      "link": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+      "summary": "Article URL: https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/\nComments URL: https://news.ycombinator.com/item?id=50485936\nPoints: 1\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 16:33:33 +0000"
     },
     {
       "source": "Anthropic News",
@@ -149,6 +93,13 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "published": "Thu, 12 Nov 2026 12:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -179,25 +130,11 @@
       "published": "Wed, 11 Nov 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "published": "Tue, 10 Nov 2026 10:00:00 GMT"
-    },
-    {
       "source": "Google DeepMind",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "published": "Wed, 11 Nov 2026 15:00:15 +0000"
-    },
-    {
-      "source": "Google DeepMind",
-      "title": "Speeding up planning decisions with AI",
-      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "published": "Fri, 30 Oct 2026 14:18:30 +0000"
+      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
+      "link": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "published": ""
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -208,31 +145,45 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 4\n# Comments: 0",
-      "published": "Thu, 12 Nov 2026 18:22:22 +0000"
+      "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
+      "link": "https://github.com/figurehead-ai/AI-juggler",
+      "summary": "Article URL: https://github.com/figurehead-ai/AI-juggler\nComments URL: https://news.ycombinator.com/item?id=50487349\nPoints: 1\n# Comments: 1",
+      "published": "Fri, 13 Nov 2026 18:06:55 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Near AI Gateway: Easily Use Private AI from Claude, Codex and Open Code",
-      "link": "https://gateway.near.ai",
-      "summary": "Article URL: https://gateway.near.ai\nComments URL: https://news.ycombinator.com/item?id=50470680\nPoints: 3\n# Comments: 0",
-      "published": "Thu, 12 Nov 2026 17:14:28 +0000"
+      "title": "Reverse-engineering and tuning a 1994 Jeep ECU with Claude and a $3 Arduino [video]",
+      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI\nComments URL: https://news.ycombinator.com/item?id=50487094\nPoints: 1\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 17:50:10 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Claude the Business Analyst",
-      "link": "https://theautomatedoperator.substack.com/p/claude-the-business-analyst",
-      "summary": "Article URL: https://theautomatedoperator.substack.com/p/claude-the-business-analyst\nComments URL: https://news.ycombinator.com/item?id=50470309\nPoints: 1\n# Comments: 1",
-      "published": "Thu, 12 Nov 2026 16:50:13 +0000"
+      "title": "Claude Is Superhuman at Translating Poetry Now",
+      "link": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
+      "summary": "Article URL: https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating\nComments URL: https://news.ycombinator.com/item?id=50486387\nPoints: 2\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 17:04:15 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Proschi – architecture diagrams as code that simulate load and failures",
-      "link": "https://proschi.app/",
-      "summary": "Article URL: https://proschi.app/\nComments URL: https://news.ycombinator.com/item?id=50469805\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 12 Nov 2026 16:16:51 +0000"
+      "title": "Open Source Claude Dashboards",
+      "link": "https://opendashboards.com",
+      "summary": "Article URL: https://opendashboards.com\nComments URL: https://news.ycombinator.com/item?id=50485969\nPoints: 1\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 16:35:54 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "We review 4x more AI code without reading every line",
+      "link": "https://thenewstack.io/scale-ai-code-reviews/",
+      "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/\nComments URL: https://news.ycombinator.com/item?id=50485745\nPoints: 2\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 16:20:40 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Transcript Testing: Helping Humans Verify AI Code",
+      "link": "https://andrew.nerdnetworks.org/blog/2026/11/13/transcript-testing/",
+      "summary": "Article URL: https://andrew.nerdnetworks.org/blog/2026/11/13/transcript-testing/\nComments URL: https://news.ycombinator.com/item?id=50485731\nPoints: 1\n# Comments: 0",
+      "published": "Fri, 13 Nov 2026 16:20:05 +0000"
     }
   ]
 }
