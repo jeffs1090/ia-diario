@@ -1,91 +1,56 @@
 {
-  "generated_at_utc": "2026-11-13T18:11:30.932467+00:00",
-  "generated_at_display": "13/11/2026 18:11 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-11-16T20:42:08.298798+00:00",
+  "generated_at_display": "16/11/2026 20:42 UTC",
+  "total_items": 19,
   "items": [
     {
-      "source": "OpenAI Blog",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "published": "Thu, 12 Nov 2026 20:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-agent 0.6a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "summary": "Release: datasette-agent 0.6a0\n        Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables an",
+      "published": "2026-11-15T03:49:47+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "llm-gemini 0.37",
-      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "summary": "Release: llm-gemini 0.37\n        Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family.\nIt's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing sch",
-      "published": "2026-11-12T22:55:19+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Gemini Decisions API",
-      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "summary": "Gemini Decisions API\nGoogle join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/n",
-      "published": "2026-11-11T22:03:25+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm 0.37.2",
-      "link": "https://simonwillison.net/2026/Nov/11/llm/",
-      "summary": "Release: llm 0.37.2\n        Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w.\nLLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compati",
-      "published": "2026-11-11T17:19:52+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-gemini 0.36",
-      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "summary": "Release: llm-gemini 0.36\n        Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else.\nThis is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude S",
-      "published": "2026-11-10T20:09:44+00:00"
+      "title": "datasette-llm 0.1a11",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "summary": "Release: datasette-llm 0.1a11\n        datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.\nThis release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywher",
+      "published": "2026-11-14T23:59:28+00:00"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "published": "Mon, 16 Nov 2026 09:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "aws-emulator",
-      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-      "summary": "aws-emulator\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.\nIt's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Sw",
-      "published": "2026-11-11T21:18:30+00:00"
+      "source": "OpenAI Blog",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "summary": "",
+      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Anthropic's IPO roadshow video",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "summary": "Anthropic&#x27;s IPO roadshow video\nAnthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.\nThe section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, d",
-      "published": "2026-11-11T15:11:59+00:00"
+      "source": "OpenAI Blog",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:\n\n[...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat",
-      "published": "2026-11-10T07:28:21+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "How Allspice built a frontier hardware design agent",
-      "link": "https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent",
-      "summary": "Article URL: https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent\nComments URL: https://news.ycombinator.com/item?id=50487142\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 17:53:03 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Agent Anomaly Detection scores on benchmarks we didn't write",
-      "link": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
-      "summary": "Article URL: https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/\nComments URL: https://news.ycombinator.com/item?id=50485936\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 16:33:33 +0000"
+      "source": "OpenAI Blog",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "Anthropic News",
@@ -96,38 +61,24 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "published": "Thu, 12 Nov 2026 09:30:00 GMT"
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "published": "Wed, 11 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT"
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "published": "Mon, 16 Nov 2026 12:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -138,52 +89,52 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "Browse tools.simonwillison.net by tag",
-      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-      "summary": "Browse tools.simonwillison.net by tag\nI've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript",
-      "published": "2026-11-11T18:42:50+00:00"
+      "title": "datasette-maplibre 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "summary": "Release: datasette-maplibre 0.1a0\n        The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this ",
+      "published": "2026-11-15T23:58:36+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette 1.0a43",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "summary": "Release: datasette 1.0a43\n        I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete.\nThe biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now us",
+      "published": "2026-11-15T23:20:27+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette 0.65.6",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "summary": "Release: datasette 0.65.6\n        I backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were d",
+      "published": "2026-11-15T23:18:17+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-apps 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "summary": "Release: datasette-apps 0.4a0\n        Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data.\n0.4a0 adds support for linking: you can link to an app with #fragments in",
+      "published": "2026-11-15T04:02:45+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-vega 0.7",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "summary": "Release: datasette-vega 0.7\n        A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, pl",
+      "published": "2026-11-14T17:09:09+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-cluster-map 0.19",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "summary": "Release: datasette-cluster-map 0.19\n        One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.\nHere's a map of power p",
+      "published": "2026-11-13T23:02:45+00:00"
     },
     {
       "source": "Hacker News - AI",
-      "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
-      "link": "https://github.com/figurehead-ai/AI-juggler",
-      "summary": "Article URL: https://github.com/figurehead-ai/AI-juggler\nComments URL: https://news.ycombinator.com/item?id=50487349\nPoints: 1\n# Comments: 1",
-      "published": "Fri, 13 Nov 2026 18:06:55 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Reverse-engineering and tuning a 1994 Jeep ECU with Claude and a $3 Arduino [video]",
-      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI\nComments URL: https://news.ycombinator.com/item?id=50487094\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 17:50:10 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Claude Is Superhuman at Translating Poetry Now",
-      "link": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
-      "summary": "Article URL: https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating\nComments URL: https://news.ycombinator.com/item?id=50486387\nPoints: 2\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 17:04:15 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Open Source Claude Dashboards",
-      "link": "https://opendashboards.com",
-      "summary": "Article URL: https://opendashboards.com\nComments URL: https://news.ycombinator.com/item?id=50485969\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 16:35:54 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "We review 4x more AI code without reading every line",
-      "link": "https://thenewstack.io/scale-ai-code-reviews/",
-      "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/\nComments URL: https://news.ycombinator.com/item?id=50485745\nPoints: 2\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 16:20:40 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Transcript Testing: Helping Humans Verify AI Code",
-      "link": "https://andrew.nerdnetworks.org/blog/2026/11/13/transcript-testing/",
-      "summary": "Article URL: https://andrew.nerdnetworks.org/blog/2026/11/13/transcript-testing/\nComments URL: https://news.ycombinator.com/item?id=50485731\nPoints: 1\n# Comments: 0",
-      "published": "Fri, 13 Nov 2026 16:20:05 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
