@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-16T20:42:08.298798+00:00",
-  "generated_at_display": "16/11/2026 20:42 UTC",
-  "total_items": 19,
+  "generated_at_utc": "2026-11-17T19:27:05.339241+00:00",
+  "generated_at_display": "17/11/2026 19:27 UTC",
+  "total_items": 26,
   "items": [
     {
       "source": "Simon Willison (LLM/agents)",
@@ -11,46 +11,67 @@
       "published": "2026-11-15T03:49:47+00:00"
     },
     {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Free AI Agent Lab – Create two agents and make them debate",
+      "link": "https://studio.sinapsdata.com.br",
+      "summary": "Article URL: https://studio.sinapsdata.com.br\nComments URL: https://news.ycombinator.com/item?id=50536726\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 17 Nov 2026 19:19:30 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "link": "https://starsling.dev",
+      "summary": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unli",
+      "published": "Tue, 17 Nov 2026 19:01:43 +0000"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "published": "Mon, 16 Nov 2026 09:30:00 GMT"
+    },
+    {
       "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "summary": "Release: datasette-llm 0.1a11\n        datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.\nThis release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywher",
-      "published": "2026-11-14T23:59:28+00:00"
+      "title": "llm 0.37.3",
+      "link": "https://simonwillison.net/2026/Nov/16/llm/",
+      "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following ",
+      "published": "2026-11-16T23:57:26+00:00"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "published": "Mon, 16 Nov 2026 09:00:00 GMT"
+      "source": "Hacker News - AI",
+      "title": "Video Agent with Version Control",
+      "link": "https://adalagent.ai",
+      "summary": "Article URL: https://adalagent.ai\nComments URL: https://news.ycombinator.com/item?id=50536534\nPoints: 2\n# Comments: 2",
+      "published": "Tue, 17 Nov 2026 19:06:38 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Our first phase of embedded assessments",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT"
+      "source": "Hacker News - AI",
+      "title": "Show HN: Eso-box: turn a spare laptop into an always-on Claude Code server",
+      "link": "https://github.com/blumalex/eso-box",
+      "summary": "My mind is all always all over the place (ADD?) and often I would have ideas I wanted to test/implement while I was on the go/on my phone.I was frustrated that the available solutions (claude --cloud or /remote-control) seemed to split sessions across devices and/or not let me it",
+      "published": "Tue, 17 Nov 2026 19:04:01 +0000"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "summary": "",
-      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+      "source": "Hacker News - AI",
+      "title": "Why and how I use Assisted-by with Claude Code and not Co-authored-by",
+      "link": "https://williamhuster.com/ai-attribution-assisted-by/",
+      "summary": "Article URL: https://williamhuster.com/ai-attribution-assisted-by/\nComments URL: https://news.ycombinator.com/item?id=50535976\nPoints: 2\n# Comments: 0",
+      "published": "Tue, 17 Nov 2026 18:30:22 +0000"
     },
     {
       "source": "Anthropic News",
@@ -58,6 +79,20 @@
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "published": "Tue, 17 Nov 2026 17:45:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -89,6 +124,20 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide. I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application.\nYou c",
+      "published": "2026-11-17T16:48:33+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Go Proverbs",
+      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "summary": "A little copying is better than a little dependency.\n&mdash; Go Proverbs, via\n\n    Tags: go, programming",
+      "published": "2026-11-17T06:16:26+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "datasette-maplibre 0.1a0",
       "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
       "summary": "Release: datasette-maplibre 0.1a0\n        The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this ",
@@ -116,25 +165,25 @@
       "published": "2026-11-15T04:02:45+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-vega 0.7",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "summary": "Release: datasette-vega 0.7\n        A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against data in a table or custom query. The last release was in July 2018!\nI finally bumped it for compatibility with the latest Datasette alphas, pl",
-      "published": "2026-11-14T17:09:09+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-cluster-map 0.19",
-      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "summary": "Release: datasette-cluster-map 0.19\n        One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.\nHere's a map of power p",
-      "published": "2026-11-13T23:02:45+00:00"
+      "source": "Hacker News - AI",
+      "title": "Peer, a skill that makes Claude answer like a colleague, tested blind",
+      "link": "https://github.com/andykear/Peer",
+      "summary": "Article URL: https://github.com/andykear/Peer\nComments URL: https://news.ycombinator.com/item?id=50536723\nPoints: 1\n# Comments: 1",
+      "published": "Tue, 17 Nov 2026 19:19:21 +0000"
     },
     {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Show HN: Fardesk – fast iPhone app to manage your Claude sessions",
+      "link": "https://fardesk.franzai.com/",
+      "summary": "Article URL: https://fardesk.franzai.com/\nComments URL: https://news.ycombinator.com/item?id=50536451\nPoints: 1\n# Comments: 0",
+      "published": "Tue, 17 Nov 2026 19:00:45 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 67\n# Comments: 17",
+      "published": "Tue, 17 Nov 2026 18:25:13 +0000"
     }
   ]
 }
