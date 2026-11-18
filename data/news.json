@@ -1,28 +1,42 @@
 {
-  "generated_at_utc": "2026-11-17T19:27:05.339241+00:00",
-  "generated_at_display": "17/11/2026 19:27 UTC",
+  "generated_at_utc": "2026-11-18T19:09:47.417687+00:00",
+  "generated_at_display": "18/11/2026 19:09 UTC",
   "total_items": 26,
   "items": [
     {
       "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-agent 0.6a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "summary": "Release: datasette-agent 0.6a0\n        Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables an",
-      "published": "2026-11-15T03:49:47+00:00"
+      "title": "External sandboxes for coding agents",
+      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "summary": "External sandboxes for coding agents\nI've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine.",
+      "published": "2026-11-17T22:52:29+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Free AI Agent Lab – Create two agents and make them debate",
-      "link": "https://studio.sinapsdata.com.br",
-      "summary": "Article URL: https://studio.sinapsdata.com.br\nComments URL: https://news.ycombinator.com/item?id=50536726\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 17 Nov 2026 19:19:30 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol\nOpenAI:\n\nWe’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work.\n\nThey're available in the API as gpt-6.2-astra and gpt-6.2-sol. I shipped LLM 0.38 with sup",
+      "published": "2026-11-17T22:38:52+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "link": "https://starsling.dev",
-      "summary": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unli",
-      "published": "Tue, 17 Nov 2026 19:01:43 +0000"
+      "source": "OpenAI Blog",
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -39,11 +53,46 @@
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "published": "Mon, 16 Nov 2026 09:30:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "published": "Thu, 12 Nov 2026 18:00:50 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "published": "Tue, 10 Nov 2026 16:03:47 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+      "published": "Tue, 10 Nov 2026 12:02:28 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "published": "Mon, 09 Nov 2026 19:51:47 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "summary": "",
+      "published": "Thu, 05 Nov 2026 17:05:16 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Quoting Daniel Stenberg",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfi",
+      "published": "2026-11-18T15:58:27+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -51,27 +100,6 @@
       "link": "https://simonwillison.net/2026/Nov/16/llm/",
       "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following ",
       "published": "2026-11-16T23:57:26+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Video Agent with Version Control",
-      "link": "https://adalagent.ai",
-      "summary": "Article URL: https://adalagent.ai\nComments URL: https://news.ycombinator.com/item?id=50536534\nPoints: 2\n# Comments: 2",
-      "published": "Tue, 17 Nov 2026 19:06:38 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Eso-box: turn a spare laptop into an always-on Claude Code server",
-      "link": "https://github.com/blumalex/eso-box",
-      "summary": "My mind is all always all over the place (ADD?) and often I would have ideas I wanted to test/implement while I was on the go/on my phone.I was frustrated that the available solutions (claude --cloud or /remote-control) seemed to split sessions across devices and/or not let me it",
-      "published": "Tue, 17 Nov 2026 19:04:01 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Why and how I use Assisted-by with Claude Code and not Co-authored-by",
-      "link": "https://williamhuster.com/ai-attribution-assisted-by/",
-      "summary": "Article URL: https://williamhuster.com/ai-attribution-assisted-by/\nComments URL: https://news.ycombinator.com/item?id=50535976\nPoints: 2\n# Comments: 0",
-      "published": "Tue, 17 Nov 2026 18:30:22 +0000"
     },
     {
       "source": "Anthropic News",
@@ -82,6 +110,13 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
@@ -89,38 +124,38 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "link": "https://openai.com/index/science-at-the-frontier",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "summary": "",
-      "published": ""
+      "published": "Wed, 18 Nov 2026 18:13:42 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "published": "Wed, 11 Nov 2026 15:00:15 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "published": "Tue, 10 Nov 2026 11:13:04 +0000"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "The PSF end-of-year fundraiser",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "summary": "The PSF end-of-year fundraiser\nWith my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.\nIf your company or your work benefits from Python, please consider dona",
+      "published": "2026-11-18T14:44:48+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -144,46 +179,11 @@
       "published": "2026-11-15T23:58:36+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette 1.0a43",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "summary": "Release: datasette 1.0a43\n        I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete.\nThe biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now us",
-      "published": "2026-11-15T23:20:27+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette 0.65.6",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "summary": "Release: datasette 0.65.6\n        I backported a minor security fix from 1.0a43:\n\nFixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were d",
-      "published": "2026-11-15T23:18:17+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-apps 0.4a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "summary": "Release: datasette-apps 0.4a0\n        Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data.\n0.4a0 adds support for linking: you can link to an app with #fragments in",
-      "published": "2026-11-15T04:02:45+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Peer, a skill that makes Claude answer like a colleague, tested blind",
-      "link": "https://github.com/andykear/Peer",
-      "summary": "Article URL: https://github.com/andykear/Peer\nComments URL: https://news.ycombinator.com/item?id=50536723\nPoints: 1\n# Comments: 1",
-      "published": "Tue, 17 Nov 2026 19:19:21 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Fardesk – fast iPhone app to manage your Claude sessions",
-      "link": "https://fardesk.franzai.com/",
-      "summary": "Article URL: https://fardesk.franzai.com/\nComments URL: https://news.ycombinator.com/item?id=50536451\nPoints: 1\n# Comments: 0",
-      "published": "Tue, 17 Nov 2026 19:00:45 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "MAI Code 2 and Code 2 Flash",
-      "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 67\n# Comments: 17",
-      "published": "Tue, 17 Nov 2026 18:25:13 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
