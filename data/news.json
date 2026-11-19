@@ -1,14 +1,28 @@
 {
-  "generated_at_utc": "2026-11-18T19:09:47.417687+00:00",
-  "generated_at_display": "18/11/2026 19:09 UTC",
+  "generated_at_utc": "2026-11-19T19:12:58.655657+00:00",
+  "generated_at_display": "19/11/2026 19:12 UTC",
   "total_items": 26,
   "items": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
     {
       "source": "Simon Willison (LLM/agents)",
       "title": "External sandboxes for coding agents",
       "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
       "summary": "External sandboxes for coding agents\nI've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine.",
       "published": "2026-11-17T22:52:29+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "llm-gemini 0.38",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "summary": "Release: llm-gemini 0.38\n        Today Google introduced Gemini 4 Neon. I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse.\nPreviously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon we",
+      "published": "2026-11-18T23:59:20+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -19,17 +33,24 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "published": "Wed, 18 Nov 2026 06:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -40,17 +61,17 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 21:35:43 +0000"
     },
     {
       "source": "Google DeepMind",
@@ -81,25 +102,11 @@
       "published": "Mon, 09 Nov 2026 19:51:47 +0000"
     },
     {
-      "source": "Google DeepMind",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "summary": "",
-      "published": "Thu, 05 Nov 2026 17:05:16 +0000"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "Quoting Daniel Stenberg",
       "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
       "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfi",
       "published": "2026-11-18T15:58:27+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm 0.37.3",
-      "link": "https://simonwillison.net/2026/Nov/16/llm/",
-      "summary": "Release: llm 0.37.3\n        A bug fix release for LLM, mainly to cover a problem with the most recent Homebrew package of the software.\nHomebrew now ships the latest SQLite, 3.54.1, which includes a fix that broke LLM's logging code.\nShort version: in SQLite 3.54.0 the following ",
-      "published": "2026-11-16T23:57:26+00:00"
     },
     {
       "source": "Anthropic News",
@@ -110,24 +117,17 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Inside the Codex sandbox",
-      "link": "https://openai.com/index/inside-the-codex-sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "published": "Tue, 17 Nov 2026 17:45:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Introducing ChatGPT for Sales",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -152,6 +152,13 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-arrows 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "summary": "Release: datasette-arrows 0.1a0\n        Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because ",
+      "published": "2026-11-18T17:09:59+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "The PSF end-of-year fundraiser",
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "summary": "The PSF end-of-year fundraiser\nWith my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.\nIf your company or your work benefits from Python, please consider dona",
@@ -170,13 +177,6 @@
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "summary": "A little copying is better than a little dependency.\n&mdash; Go Proverbs, via\n\n    Tags: go, programming",
       "published": "2026-11-17T06:16:26+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "datasette-maplibre 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "summary": "Release: datasette-maplibre 0.1a0\n        The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.)\nI built most of this ",
-      "published": "2026-11-15T23:58:36+00:00"
     },
     {
       "source": "Hacker News - AI",
