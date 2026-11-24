@@ -1,21 +1,21 @@
 {
-  "generated_at_utc": "2026-11-23T22:16:25.243067+00:00",
-  "generated_at_display": "23/11/2026 22:16 UTC",
-  "total_items": 26,
+  "generated_at_utc": "2026-11-24T20:55:01.108763+00:00",
+  "generated_at_display": "24/11/2026 20:55 UTC",
+  "total_items": 19,
   "items": [
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "llm-gemini 0.38.1",
-      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "summary": "Release: llm-gemini 0.38.1\n        Gemini 4 Carbon only supports low, medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level.\nI missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot releas",
-      "published": "2026-11-20T03:01:57+00:00"
+      "source": "OpenAI Blog",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "summary": "",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
-      "link": "https://eng.snap.com/mcp-gateway",
-      "summary": "Article URL: https://eng.snap.com/mcp-gateway\nComments URL: https://news.ycombinator.com/item?id=50620120\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 23 Nov 2026 22:10:43 +0000"
+      "source": "OpenAI Blog",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -39,25 +39,25 @@
       "published": "Fri, 20 Nov 2026 10:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "published": "Thu, 19 Nov 2026 08:00:00 GMT"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery\nHere's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries:\n\nWith only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchb",
+      "published": "2026-11-24T16:53:59+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Claudia – focused manager for Claude CLI settings.json",
-      "link": "https://github.com/claude-settings-xyz/claudia",
-      "summary": "Long story short, I needed a way to enable/disable skills for specific projects, but for how nice Claude CLI is, it kinda sucks in this regard.I wanted it to do 2-3 things well, be fast, and not bloat it. Of course, I then prompted it into existence.Features:\n- Shows the availabl",
-      "published": "Mon, 23 Nov 2026 21:28:51 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-charts 0.2a0",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "summary": "Release: datasette-charts 0.2a0\n        I introduced this new charting plugin for Datasette yesterday. Today it's gained integration with Datasette Agent, so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation ",
+      "published": "2026-11-24T04:24:29+00:00"
     },
     {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Trieste – A desktop app to organize work and code with multiple agents",
-      "link": "https://trieste.app/",
-      "summary": "Article URL: https://trieste.app/\nComments URL: https://news.ycombinator.com/item?id=50619163\nPoints: 1\n# Comments: 1",
-      "published": "Mon, 23 Nov 2026 20:57:28 +0000"
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-agent 0.7a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "summary": "Release: datasette-agent 0.7a1\n        A small improvement to Datasette Agent: chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugi",
+      "published": "2026-11-24T03:45:57+00:00"
     },
     {
       "source": "Anthropic News",
@@ -68,31 +68,24 @@
     },
     {
       "source": "OpenAI Blog",
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "OpenAI Blog",
       "title": "Perplexity and Intelligence",
       "link": "https://openai.com/index/perplexity-and-intelligence",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "published": "Sun, 22 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "OpenAI Blog",
-      "title": "See PR scans in action",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -103,10 +96,24 @@
     },
     {
       "source": "Simon Willison (LLM/agents)",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer\nGLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this:\n\nIn a standard Transformer, each layer runs once per forward pass.",
+      "published": "2026-11-23T23:40:49+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
       "title": "Ladybird's first alpha release",
       "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Ski",
       "published": "2026-11-23T21:46:35+00:00"
+    },
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "datasette-charts 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "summary": "Release: datasette-charts 0.1a0\n        I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin.\nYou can try it out in Datasette Lite here",
+      "published": "2026-11-23T00:37:20+00:00"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -123,67 +130,11 @@
       "published": "2026-11-21T23:56:28+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Ravi Vakil",
-      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Aless",
-      "published": "2026-11-20T19:21:49+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Quoting Levent Alpöge",
-      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
-      "published": "2026-11-20T16:30:48+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "summary": "Token fraud is here and it’s BAD (YouTube)\nClaire Vo runs ChatPRD, an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time.\nIn this YouTube video (see als",
-      "published": "2026-11-20T02:49:57+00:00"
-    },
-    {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "PostgreSQL 19 Released",
-      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "summary": "PostgreSQL 19 Released\nMost years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse.\nThis release ",
-      "published": "2026-11-19T20:43:57+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "Sovereign skills: Porting an AI code audit to Inkling 2 Mini and Qwen3.8",
-      "link": "https://getstream.io/blog/local-video-audit-skill/",
-      "summary": "Article URL: https://getstream.io/blog/local-video-audit-skill/\nComments URL: https://news.ycombinator.com/item?id=50619263\nPoints: 4\n# Comments: 0",
-      "published": "Mon, 23 Nov 2026 21:05:15 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "BeachWhisperer: DPA Against NRF52840 Hardware AES with Claude",
-      "link": "https://colinoflynn.com/2026/11/nrf52840-beach-dpa/",
-      "summary": "Article URL: https://colinoflynn.com/2026/11/nrf52840-beach-dpa/\nComments URL: https://news.ycombinator.com/item?id=50619157\nPoints: 1\n# Comments: 0",
-      "published": "Mon, 23 Nov 2026 20:56:57 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Nearly all software teams admit to shipping AI-generated code",
-      "link": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-      "summary": "Article URL: https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift\nComments URL: https://news.ycombinator.com/item?id=50618965\nPoints: 3\n# Comments: 2",
-      "published": "Mon, 23 Nov 2026 20:41:47 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Claude Ship",
-      "link": "https://claude.com/resources/articles/introducing-claude-ship",
-      "summary": "Article URL: https://claude.com/resources/articles/introducing-claude-ship\nComments URL: https://news.ycombinator.com/item?id=50618513\nPoints: 5\n# Comments: 0",
-      "published": "Mon, 23 Nov 2026 20:14:18 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "The Code Walk: Learning a Codebase You Didn't Write",
-      "link": "https://twitter.com/EdwardAtCI/status/2124371398315630974",
-      "summary": "Article URL: https://twitter.com/EdwardAtCI/status/2124371398315630974\nComments URL: https://news.ycombinator.com/item?id=50618380\nPoints: 2\n# Comments: 0",
-      "published": "Mon, 23 Nov 2026 20:07:03 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
