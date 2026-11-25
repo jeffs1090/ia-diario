@@ -1,14 +1,28 @@
 {
-  "generated_at_utc": "2026-11-24T20:55:01.108763+00:00",
-  "generated_at_display": "24/11/2026 20:55 UTC",
-  "total_items": 19,
+  "generated_at_utc": "2026-11-25T20:15:56.373191+00:00",
+  "generated_at_display": "25/11/2026 20:15 UTC",
+  "total_items": 26,
   "items": [
+    {
+      "source": "Simon Willison (LLM/agents)",
+      "title": "Three LLM inflection points in twelve months",
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months.\nHere's the video of the talk. In this post I'm going t",
+      "published": "2026-11-24T23:02:07+00:00"
+    },
     {
       "source": "OpenAI Blog",
       "title": "How iFood scales coding agents across 15,000 repositories",
       "link": "https://openai.com/business/customer-stories/ifood",
       "summary": "",
       "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Shh-code – coding agent with privacy",
+      "link": "https://github.com/maksympetkus/shh-code",
+      "summary": "Article URL: https://github.com/maksympetkus/shh-code\nComments URL: https://news.ycombinator.com/item?id=50644746\nPoints: 1\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 17:13:28 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -32,13 +46,6 @@
       "published": "Mon, 23 Nov 2026 08:00:00 GMT"
     },
     {
-      "source": "OpenAI Blog",
-      "title": "Combatting adversarial distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "published": "Fri, 20 Nov 2026 10:00:00 GMT"
-    },
-    {
       "source": "Simon Willison (LLM/agents)",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
@@ -60,11 +67,60 @@
       "published": "2026-11-24T03:45:57+00:00"
     },
     {
+      "source": "Hacker News - AI",
+      "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+      "link": "https://github.com/onatm/rustling",
+      "summary": "Article URL: https://github.com/onatm/rustling\nComments URL: https://news.ycombinator.com/item?id=50646482\nPoints: 5\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 19:42:36 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Claude Code Token Accounting Statement",
+      "link": "https://github.com/oshricohenme/ai_multi_tool",
+      "summary": "Article URL: https://github.com/oshricohenme/ai_multi_tool\nComments URL: https://news.ycombinator.com/item?id=50646399\nPoints: 1\n# Comments: 1",
+      "published": "Wed, 25 Nov 2026 19:35:59 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Which stores let a shopping agent check out?",
+      "link": "https://commerce.assistantanalysis.com/",
+      "summary": "Article URL: https://commerce.assistantanalysis.com/\nComments URL: https://news.ycombinator.com/item?id=50646321\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 19:30:21 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "At Least He Was Honest: Levent Alpöge, Anthropic, and Claude Are Deprecated",
+      "link": "https://zenodo.org/records/24539585",
+      "summary": "Article URL: https://zenodo.org/records/24539585\nComments URL: https://news.ycombinator.com/item?id=50645817\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 18:42:38 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "Ask HN: How do I handle takedown requests for open-source code?",
+      "link": "https://news.ycombinator.com/item?id=50645230",
+      "summary": "I run Glama – MCP server registry.For 2 years now, we have been indexing and tracking every open-source server.More recently, there has been an uptick in emails from users claiming to be EU residents, and demanding the removal of their projects from the website because it contain",
+      "published": "Wed, 25 Nov 2026 17:56:38 +0000"
+    },
+    {
+      "source": "Hacker News - AI",
+      "title": "An agent swarm trying to decode the Voynich Manuscript",
+      "link": "https://voynichswarm.com/",
+      "summary": "Article URL: https://voynichswarm.com/\nComments URL: https://news.ycombinator.com/item?id=50644695\nPoints: 3\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 17:09:19 +0000"
+    },
+    {
       "source": "Anthropic News",
       "title": "[Falha ao buscar feed: HTTP Error 404: Not Found]",
       "link": "https://www.anthropic.com/news/rss.xml",
       "summary": "",
       "published": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published": "Tue, 24 Nov 2026 13:00:00 GMT"
     },
     {
       "source": "OpenAI Blog",
@@ -82,10 +138,10 @@
     },
     {
       "source": "OpenAI Blog",
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
     },
     {
       "source": "Google DeepMind",
@@ -123,18 +179,11 @@
       "published": "2026-11-22T19:45:06+00:00"
     },
     {
-      "source": "Simon Willison (LLM/agents)",
-      "title": "Muru",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
-      "summary": "Muru\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps bo",
-      "published": "2026-11-21T23:56:28+00:00"
-    },
-    {
       "source": "Hacker News - AI",
-      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
-      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
-      "summary": "",
-      "published": ""
+      "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+      "link": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the",
+      "summary": "Article URL: https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the\nComments URL: https://news.ycombinator.com/item?id=50644895\nPoints: 2\n# Comments: 0",
+      "published": "Wed, 25 Nov 2026 17:26:10 +0000"
     }
   ]
 }
