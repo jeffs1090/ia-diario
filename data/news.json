@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-26T19:53:33.135489+00:00",
-  "generated_at_display": "26/11/2026 19:53 UTC",
+  "generated_at_utc": "2026-11-27T19:42:42.241752+00:00",
+  "generated_at_display": "27/11/2026 19:42 UTC",
   "total_items": 26,
   "items": [
     {
@@ -16,34 +16,6 @@
       "link": "https://openai.com/business/customer-stories/ifood",
       "summary": "",
       "published": "Tue, 24 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: Debugging a slow Zola blog with an agentic performance test harness",
-      "link": "https://runtimenotes.com/blog/debugging-a-slow-zola-blog-with-an-agentic-performance-test-harness/",
-      "summary": "Article URL: https://runtimenotes.com/blog/debugging-a-slow-zola-blog-with-an-agentic-performance-test-harness/\nComments URL: https://news.ycombinator.com/item?id=50658266\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 18:43:54 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Notion's official MCP inject hidden upsell instructions into agent context",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
-      "summary": "Article URL: https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/\nComments URL: https://news.ycombinator.com/item?id=50658093\nPoints: 18\n# Comments: 6",
-      "published": "Thu, 26 Nov 2026 18:28:30 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Independent reviews catches coding agent wrong assumptions [video]",
-      "link": "https://www.youtube.com/watch?v=Y2xs7ZLtxJE",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Y2xs7ZLtxJE\nComments URL: https://news.ycombinator.com/item?id=50657303\nPoints: 3\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 17:16:10 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Keep Claude Code's prompt cache warm over lunch, if your breaks pay",
-      "link": "https://github.com/localixai/tokendoctor/blob/main/site/content/docs/keepalive.md",
-      "summary": "Article URL: https://github.com/localixai/tokendoctor/blob/main/site/content/docs/keepalive.md\nComments URL: https://news.ycombinator.com/item?id=50657255\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 17:10:11 +0000"
     },
     {
       "source": "OpenAI Blog",
@@ -67,32 +39,46 @@
       "published": "Mon, 23 Nov 2026 08:00:00 GMT"
     },
     {
+      "source": "Google DeepMind",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "published": "Mon, 23 Nov 2026 16:59:40 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "summary": "",
+      "published": "Wed, 18 Nov 2026 21:35:43 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "summary": "",
+      "published": "Thu, 12 Nov 2026 18:00:50 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "summary": "",
+      "published": "Tue, 10 Nov 2026 16:03:47 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+      "published": "Tue, 10 Nov 2026 12:02:28 +0000"
+    },
+    {
       "source": "Simon Willison (LLM/agents)",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "summary": "GPT 6.2 Astra Solves a Historical Mystery\nHere's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries:\n\nWith only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchb",
       "published": "2026-11-24T16:53:59+00:00"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Antigravity Swarm, ported to every harness",
-      "link": "https://github.com/STRML/swarm",
-      "summary": "Article URL: https://github.com/STRML/swarm\nComments URL: https://news.ycombinator.com/item?id=50658388\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 18:57:11 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "How I Made Mezo's Documentation Agent-Ready",
-      "link": "https://0xdezman.cv/blog/how-i-made-mezo-documentation-agent-ready/",
-      "summary": "Article URL: https://0xdezman.cv/blog/how-i-made-mezo-documentation-agent-ready/\nComments URL: https://news.ycombinator.com/item?id=50658277\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 18:45:14 +0000"
-    },
-    {
-      "source": "Hacker News - AI",
-      "title": "Show HN: An Agent Sandbox where you pay per command, not CPU second",
-      "link": "https://flashbox.app/",
-      "summary": "Article URL: https://flashbox.app/\nComments URL: https://news.ycombinator.com/item?id=50657713\nPoints: 1\n# Comments: 0",
-      "published": "Thu, 26 Nov 2026 17:54:18 +0000"
     },
     {
       "source": "Anthropic News",
@@ -131,10 +117,24 @@
     },
     {
       "source": "Google DeepMind",
-      "title": "[Falha ao buscar feed: not well-formed (invalid token): line 1, column 0]",
-      "link": "https://deepmind.google/blog/rss.xml",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "published": "Tue, 24 Nov 2026 13:07:53 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
       "summary": "",
-      "published": ""
+      "published": "Wed, 18 Nov 2026 18:13:42 +0000"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "published": "Wed, 11 Nov 2026 15:00:15 +0000"
     },
     {
       "source": "Simon Willison (LLM/agents)",
@@ -180,10 +180,10 @@
     },
     {
       "source": "Hacker News - AI",
-      "title": "This Thanksgiving, I'm Grateful for Claude",
-      "link": "https://www.theatlantic.com/family/2026/11/ai-claude-family-dinner/689550/",
-      "summary": "Article URL: https://www.theatlantic.com/family/2026/11/ai-claude-family-dinner/689550/\nComments URL: https://news.ycombinator.com/item?id=50656915\nPoints: 1\n# Comments: 1",
-      "published": "Thu, 26 Nov 2026 16:35:40 +0000"
+      "title": "[Falha ao buscar feed: HTTP Error 502: Bad Gateway]",
+      "link": "https://hnrss.org/newest?q=Claude+Code+OR+agent+harness+OR+subagent&count=25",
+      "summary": "",
+      "published": ""
     }
   ]
 }
